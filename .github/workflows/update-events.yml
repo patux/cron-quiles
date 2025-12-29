@@ -17,8 +17,8 @@ on:
     paths:
       - 'config/feeds.yaml'
       - 'config/list_icals.txt'
-      - 'src/shellaquiles/ics_aggregator.py'
-      - 'src/shellaquiles/main.py'
+      - 'src/cronquiles/ics_aggregator.py'
+      - 'src/cronquiles/main.py'
       - 'main.py'
 
 jobs:
