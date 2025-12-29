@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CLI principal para el agregador de feeds ICS de Shellaquiles.
+CLI principal para Cron-Quiles - Agregador de calendarios tech.
 
 Uso:
     python main.py                    # Usa feeds.yaml por defecto
@@ -104,7 +104,7 @@ def load_feeds_from_txt(txt_file: str) -> list:
 def main():
     """Función principal del CLI."""
     parser = argparse.ArgumentParser(
-        description="Agregador de feeds ICS para eventos tech en México - Shellaquiles",
+        description="Cron-Quiles - Agregador de calendarios tech (Meetup, Luma, ICS)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Ejemplos:
@@ -125,8 +125,8 @@ Ejemplos:
     parser.add_argument(
         "--output",
         type=str,
-        default="shellaquiles_events.ics",
-        help="Nombre del archivo ICS de salida. Por defecto: shellaquiles_events.ics",
+        default="cronquiles.ics",
+        help="Nombre del archivo ICS de salida. Por defecto: cronquiles.ics",
     )
 
     parser.add_argument(
@@ -138,8 +138,8 @@ Ejemplos:
     parser.add_argument(
         "--json-output",
         type=str,
-        default="shellaquiles_events.json",
-        help="Nombre del archivo JSON de salida. Por defecto: shellaquiles_events.json",
+        default="cronquiles.json",
+        help="Nombre del archivo JSON de salida. Por defecto: cronquiles.json",
     )
 
     parser.add_argument(

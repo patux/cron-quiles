@@ -1,5 +1,5 @@
 """
-Shellaquiles Events - Agregador de feeds ICS públicos de eventos tech en México.
+Cron-Quiles - Agregador de calendarios tech (Meetup, Luma, ICS) que se actualiza solo.
 """
 
 __version__ = "1.0.0"

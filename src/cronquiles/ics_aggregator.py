@@ -247,7 +247,7 @@ class ICSAggregator:
         self.timeout = timeout
         self.max_retries = max_retries
         self.session = requests.Session()
-        self.session.headers.update({"User-Agent": "Shellaquiles-ICS-Aggregator/1.0"})
+        self.session.headers.update({"User-Agent": "Cron-Quiles-ICS-Aggregator/1.0"})
 
     def fetch_feed(self, url: str) -> Optional[Calendar]:
         """
@@ -405,7 +405,7 @@ class ICSAggregator:
     def generate_ics(
         self,
         events: List[EventNormalized],
-        output_file: str = "shellaquiles_events.ics",
+        output_file: str = "cronquiles.ics",
     ) -> str:
         """
         Genera un archivo ICS unificado.
@@ -418,10 +418,10 @@ class ICSAggregator:
             Ruta del archivo generado
         """
         calendar = Calendar()
-        calendar.add("prodid", "-//Shellaquiles//ICS Aggregator//EN")
+        calendar.add("prodid", "-//Cron-Quiles//ICS Aggregator//EN")
         calendar.add("version", "2.0")
         calendar.add("calscale", "GREGORIAN")
-        calendar.add("X-WR-CALNAME", "Shellaquiles - Eventos Tech México")
+        calendar.add("X-WR-CALNAME", "Cron-Quiles - Eventos Tech México")
         calendar.add("X-WR-CALDESC", "Calendario unificado de eventos tech en México")
         calendar.add("X-WR-TIMEZONE", "America/Mexico_City")
 
@@ -438,7 +438,7 @@ class ICSAggregator:
     def generate_json(
         self,
         events: List[EventNormalized],
-        output_file: str = "shellaquiles_events.json",
+        output_file: str = "cronquiles.json",
     ) -> str:
         """
         Genera un archivo JSON con los eventos.
