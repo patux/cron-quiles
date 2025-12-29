@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🐢 Shellaquiles - Eventos Tech México</title>
+    <title>🐢 Cron-Quiles - Eventos Tech México</title>
     <style>
         * {
             margin: 0;
@@ -152,7 +152,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🐢 Shellaquiles Events</h1>
+        <h1>🐢 Cron-Quiles</h1>
         <p class="subtitle">Calendario unificado de eventos tech en México</p>
 
         <div class="description">
@@ -169,8 +169,8 @@
                     Archivo ICS estándar compatible con Google Calendar, Apple Calendar,
                     Outlook y cualquier cliente de calendario.
                 </p>
-                <a href="shellaquiles_events.ics" class="btn" download>Descargar ICS</a>
-                <a href="webcal://shellaquiles.github.io/cron-quiles/shellaquiles_events.ics" class="btn btn-secondary">Suscribir (WebCal)</a>
+                <a href="cronquiles.ics" class="btn" download>Descargar ICS</a>
+                <a href="webcal://shellaquiles.github.io/cron-quiles/cronquiles.ics" class="btn btn-secondary">Suscribir (WebCal)</a>
             </div>
 
             <div class="download-card">
@@ -178,7 +178,7 @@
                 <p>
                     Archivo JSON con todos los eventos para uso programático o análisis.
                 </p>
-                <a href="shellaquiles_events.json" class="btn" download>Descargar JSON</a>
+                <a href="cronquiles.json" class="btn" download>Descargar JSON</a>
             </div>
         </div>
 
@@ -213,7 +213,7 @@
 
     <script>
         // Mostrar última fecha de modificación
-        fetch('shellaquiles_events.ics')
+        fetch('cronquiles.ics')
             .then(response => {
                 const lastModified = response.headers.get('last-modified');
                 if (lastModified) {

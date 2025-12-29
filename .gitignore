@@ -24,12 +24,12 @@ wheels/
 *.egg
 
 # Output files (permitir los archivos generados en el repo)
-# Los archivos shellaquiles_events.ics y shellaquiles_events.json se suben al repo
+# Los archivos cronquiles.ics y cronquiles.json se suben al repo
 # pero ignoramos otros archivos .ics/.json temporales
 *.ics
-!shellaquiles_events.ics
+!cronquiles.ics
 *.json
-!shellaquiles_events.json
+!cronquiles.json
 # Permitir index.html para GitHub Pages
 !index.html
 # Config files
