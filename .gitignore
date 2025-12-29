@@ -30,6 +30,8 @@ wheels/
 !shellaquiles_events.ics
 *.json
 !shellaquiles_events.json
+# Permitir index.html para GitHub Pages
+!index.html
 # Config files
 !config/feeds.yaml
 # Google Calendar credentials (nunca subir al repo)

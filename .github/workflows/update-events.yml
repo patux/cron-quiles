@@ -1,5 +1,10 @@
 name: Update Events Calendar
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 on:
   schedule:
     # Ejecutar cada 6 horas (00:00, 06:00, 12:00, 18:00 UTC)
@@ -56,6 +61,21 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *.ics *.json
+          git add *.ics *.json index.html
           git commit -m "🤖 Auto-update: Refresh events calendar [skip ci]"
           git push
+
+      - name: Setup Pages
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v2

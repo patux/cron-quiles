@@ -287,6 +287,25 @@ git push
 Después del primer run, deberías ver:
 - Un commit automático con los archivos `*.ics` y `*.json` generados
 - El workflow ejecutándose cada 6 horas automáticamente
+- Los archivos publicados en GitHub Pages (si está habilitado)
+
+### Publicación en GitHub Pages
+
+El workflow también publica automáticamente los archivos en GitHub Pages, permitiendo:
+- ✅ Acceso directo a los archivos ICS y JSON desde la web
+- ✅ Suscripción WebCal para actualizaciones automáticas
+- ✅ Página web simple con instrucciones de uso
+
+**Para habilitar GitHub Pages:**
+1. Ve a **Settings** → **Pages** en tu repositorio
+2. En "Source", selecciona **GitHub Actions**
+3. Los archivos se publicarán automáticamente en cada actualización
+
+**URL de acceso:**
+- Página principal: `https://[tu-usuario].github.io/events/`
+- Archivo ICS: `https://[tu-usuario].github.io/events/shellaquiles_events.ics`
+- Archivo JSON: `https://[tu-usuario].github.io/events/shellaquiles_events.json`
+- WebCal (suscripción): `webcal://[tu-usuario].github.io/events/shellaquiles_events.ics`
 
 ### Personalizar la frecuencia
 

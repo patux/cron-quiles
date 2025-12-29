@@ -28,6 +28,11 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Publicación automática de eventos
   - Modo dry-run para pruebas
   - Soporte para calendarios personalizados
+- **Publicación automática en GitHub Pages** (nuevo)
+  - Los archivos ICS y JSON se publican automáticamente
+  - Página web con interfaz para descargar/suscribir
+  - Soporte para suscripción WebCal
+  - Actualización automática cada 6 horas
 
 ### Changed
 - (Ningún cambio aún)
