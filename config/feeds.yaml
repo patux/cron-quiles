@@ -12,8 +12,8 @@ feeds:
     description: "Comunidad oficial de Notion en México. Organizamos eventos sobre productividad, organización y herramientas no-code."
   # ------------------------------------------
   - url: https://api2.luma.com/ics/get?entity=calendar&id=cal-okVQAVdbyFhL8Zo
-    name: "Figma Mexico City"
-    description: "Espacio para diseñadores UX/UI y amantes de Figma en la Ciudad de México."
+    name: "Python CDMX"
+    description: "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles."
   # ------------------------------------------
   - url: https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp
     name: "Makers CDMX"
@@ -22,7 +22,6 @@ feeds:
   - url: https://api2.luma.com/ics/get?entity=calendar&id=cal-gKhhS6fDDrX3mqz
     name: "AI/IA CDMX"
     description: "Comunidad enfocada en Inteligencia Artificial. Charlas técnicas, demos y networking sobre el futuro de IA."
-
 
   # ==========================================
   # MEETUP GROUPS
