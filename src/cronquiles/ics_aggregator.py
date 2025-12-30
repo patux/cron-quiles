@@ -7,6 +7,8 @@ y genera un calendario unificado.
 
 import logging
 import re
+import json
+import time
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Set, Tuple
 from urllib.parse import urlparse
@@ -541,6 +543,87 @@ class EventNormalized:
 
         return event
 
+    def enrich_location_from_meetup(self, session: requests.Session) -> bool:
+        """
+        Intenta extraer la ubicación detallada de la página de Meetup.
+
+        Args:
+            session: Sesión de requests para realizar la petición
+
+        Returns:
+            True si se pudo extraer/mejorar la ubicación
+        """
+        if "meetup.com" not in self.url:
+            return False
+
+        try:
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+            }
+            logger.info(f"Enriching location from Meetup: {self.url}")
+            response = session.get(self.url, headers=headers, timeout=10)
+            if response.status_code != 200:
+                return False
+
+            html = response.text
+
+            # 1. Intentar con JSON-LD (application/ld+json)
+            # Usamos regex para evitar dependencias de BS4
+            json_ld_matches = re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.DOTALL)
+            for jld_text in json_ld_matches:
+                try:
+                    data = json.loads(jld_text)
+                    items = data if isinstance(data, list) else [data]
+                    for item in items:
+                        if item.get("@type") == "Event" and "location" in item:
+                            loc = item["location"]
+                            name = loc.get("name", "")
+                            address = loc.get("address", {})
+
+                            parts = []
+                            if name and name != "Online Event":
+                                parts.append(name)
+
+                            if isinstance(address, dict):
+                                street = address.get("streetAddress", "")
+                                city = address.get("addressLocality", "")
+                                if street: parts.append(street)
+                                if city: parts.append(city)
+                            elif isinstance(address, str):
+                                parts.append(address)
+
+                            new_location = ", ".join(parts).strip()
+                            if new_location and len(new_location) > len(self.location):
+                                self.location = new_location
+                                return True
+                except:
+                    continue
+
+            # 2. Intentar con __NEXT_DATA__
+            next_data_match = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html, re.DOTALL)
+            if next_data_match:
+                try:
+                    data = json.loads(next_data_match.group(1))
+                    event_data = data.get("props", {}).get("pageProps", {}).get("event", {})
+                    venue = event_data.get("venue", {})
+                    if venue:
+                        name = venue.get("name", "")
+                        addr = venue.get("address", "")
+                        parts = []
+                        if name: parts.append(name)
+                        if addr: parts.append(addr)
+                        new_location = ", ".join(parts).strip()
+                        if new_location and len(new_location) > len(self.location):
+                            self.location = new_location
+                            return True
+                except:
+                    pass
+
+        except Exception as e:
+            logger.warning(f"Error enriching location from {self.url}: {e}")
+
+        return False
+
 
 class ICSAggregator:
     """Agregador principal de feeds ICS."""
@@ -700,6 +783,17 @@ class ICSAggregator:
             if calendar:
                 events = self.extract_events(calendar, url)
                 all_events.extend(events)
+
+        # Enriquecer locaciones de Meetup (solo si no tienen locación o es muy corta)
+        # Hacemos esto antes de deduplicar para mejorar la calidad de los datos
+        meetup_events = [e for e in all_events if "meetup.com" in e.url and len(e.location) < 15]
+        if meetup_events:
+            logger.info(f"Found {len(meetup_events)} Meetup events to potentially enrich")
+            for i, event in enumerate(meetup_events):
+                # Pequeño delay para ser respetuosos (no scraping agresivo)
+                if i > 0:
+                    time.sleep(1)
+                event.enrich_location_from_meetup(self.session)
 
         # Deduplicar
         deduplicated = self.deduplicate_events(all_events)
