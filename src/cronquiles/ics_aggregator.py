@@ -8,7 +8,7 @@ y genera un calendario unificado.
 import logging
 import re
 from datetime import datetime, timedelta
-from typing import Dict, List, Optional, Set
+from typing import Dict, List, Optional, Set, Tuple
 from urllib.parse import urlparse
 
 import requests
@@ -84,7 +84,18 @@ TAG_KEYWORDS = {
 
 
 class EventNormalized:
-    """Representa un evento normalizado para comparación y deduplicación."""
+    """
+    Representa un evento normalizado para comparación y deduplicación.
+
+    Esta clase normaliza eventos de diferentes fuentes ICS y los formatea
+    según un estándar consistente. Incluye:
+    - Detección automática de eventos online vs presenciales
+    - Extracción inteligente del nombre del grupo/organizador
+    - Extracción de país y estado para eventos presenciales
+    - Formato de título estructurado: Grupo|Nombre evento|Online o Grupo|Nombre evento|País|Estado
+    - Normalización de títulos para deduplicación
+    - Extracción automática de tags basados en keywords
+    """
 
     def __init__(self, event: Event, source_url: str):
         self.original_event = event
@@ -95,6 +106,9 @@ class EventNormalized:
         self.description = str(event.get("description", ""))
         self.url = str(event.get("url", "")) if event.get("url") else ""
         self.location = str(event.get("location", "")) if event.get("location") else ""
+        # Si no hay location en el feed, intentar extraer de la descripción
+        if not self.location or not self.location.strip():
+            self.location = self._extract_location_from_description()
         self.organizer = self._extract_organizer(event)
 
         # Manejar fechas con timezone
@@ -134,6 +148,58 @@ class EventNormalized:
                 return str(organizer)
             elif hasattr(organizer, "params") and "CN" in organizer.params:
                 return organizer.params["CN"]
+        return ""
+
+    def _extract_location_from_description(self) -> str:
+        """Intenta extraer la ubicación de la descripción cuando no está en el feed."""
+        if not self.description:
+            return ""
+
+        desc_lower = self.description.lower()
+        desc_lines = self.description.split("\n")
+
+        # Buscar patrones comunes de ubicación en la descripción
+        location_patterns = [
+            r"location:\s*(.+?)(?:\n|$)",
+            r"ubicación:\s*(.+?)(?:\n|$)",
+            r"dirección:\s*(.+?)(?:\n|$)",
+            r"address:\s*(.+?)(?:\n|$)",
+            r"venue:\s*(.+?)(?:\n|$)",
+            r"lugar:\s*(.+?)(?:\n|$)",
+        ]
+
+        for pattern in location_patterns:
+            match = re.search(pattern, desc_lower, re.IGNORECASE | re.MULTILINE)
+            if match:
+                location = match.group(1).strip()
+                # Limpiar markdown y caracteres especiales
+                location = re.sub(r"\*\*", "", location)
+                location = re.sub(r"\\", "", location)
+                if len(location) > 5:  # Asegurar que tiene contenido válido
+                    return location
+
+        # Buscar líneas que parezcan direcciones (contienen números, calles, colonias)
+        for line in desc_lines[:20]:  # Revisar primeras 20 líneas
+            line = line.strip()
+            # Patrones que indican una dirección
+            if any(
+                keyword in line.lower()
+                for keyword in [
+                    "col.",
+                    "colonia",
+                    "calle",
+                    "avenida",
+                    "av.",
+                    "piso",
+                    "torre",
+                ]
+            ):
+                if len(line) > 10 and len(line) < 200:
+                    # Limpiar markdown
+                    line = re.sub(r"\*\*", "", line)
+                    line = re.sub(r"\\", "", line)
+                    return line
+
         return ""
 
     def _extract_datetime(self, dt_value) -> Optional[datetime]:
@@ -183,10 +249,250 @@ class EventNormalized:
 
         return tags
 
+    def _is_online(self) -> bool:
+        """
+        Detecta si el evento es online basado en location y descripción.
+
+        Prioriza indicadores de eventos presenciales (in-person, direcciones físicas)
+        sobre indicadores de eventos online. Si hay indicadores de ambos tipos,
+        se considera presencial.
+
+        Returns:
+            True si el evento es online, False si es presencial
+        """
+        location_lower = self.location.lower()
+        description_lower = self.description.lower()
+
+        # Palabras clave que indican evento presencial (tienen prioridad)
+        in_person_keywords = [
+            "in-person",
+            "in person",
+            "presencial",
+            "físico",
+            "venue",
+            "location:",
+            "dirección:",
+            "address:",
+            "ubicación:",
+            "casa",
+            "centro",
+            "sede",
+            "oficina",
+            "salón",
+            "auditorio",
+        ]
+
+        # Si la descripción menciona "in-person" o direcciones, es presencial
+        # incluso si también menciona streaming/YouTube
+        for keyword in in_person_keywords:
+            if keyword in description_lower:
+                # Si dice "in-person and live on YouTube", es presencial
+                return False
+
+        # Si hay location explícita, probablemente es presencial
+        if self.location and self.location.strip():
+            # Verificar que no sea solo una URL
+            if not self.location.strip().startswith("http"):
+                return False
+
+        # Si no hay location ni indicadores de presencial, probablemente es online
+        if not self.location or not self.location.strip():
+            return True
+
+        # Palabras clave que indican evento online
+        online_keywords = [
+            "online",
+            "virtual",
+            "zoom",
+            "meet",
+            "google meet",
+            "teams",
+            "webinar",
+            "streaming",
+            "live stream",
+            "youtube",
+            "twitch",
+            "discord",
+            "slack",
+            "webex",
+        ]
+
+        text_to_check = f"{location_lower} {description_lower}"
+        for keyword in online_keywords:
+            if keyword in text_to_check:
+                return True
+
+        return False
+
+    def _extract_group(self) -> str:
+        """
+        Extrae el nombre del grupo/organizador del evento.
+
+        Intenta extraer el nombre en este orden:
+        1. Del campo organizer del evento
+        2. De la descripción (patrones como "Nombre (Descripción)")
+        3. De la URL del evento (ej: meetup.com/kong-mexico-city)
+        4. De la URL fuente del feed
+
+        Returns:
+            Nombre del grupo o "Evento" si no se puede determinar
+        """
+        # Primero intentar del organizador
+        if self.organizer:
+            return self.organizer.strip()
+
+        # Intentar extraer de la descripción (buscar patrones como "Grupo (Descripción)")
+        if self.description:
+            # Buscar patrones comunes: "Nombre (Descripción)" o "Nombre\n" al inicio
+            # Ejemplo: "AI/IA CDMX (Ciudad de México Inteligencia Artificial)"
+            desc_lines = self.description.split("\n")
+            if desc_lines:
+                first_line = desc_lines[0].strip()
+                # Si la primera línea tiene formato "Nombre (Descripción)", usar todo
+                if "(" in first_line and ")" in first_line:
+                    # Extraer hasta el paréntesis de cierre
+                    end_idx = first_line.find(")")
+                    if end_idx > 0:
+                        group_name = first_line[: end_idx + 1].strip()
+                        if len(group_name) > 3:  # Asegurar que tiene contenido válido
+                            return group_name
+                # Si no, usar la primera línea si parece un nombre de grupo
+                elif len(first_line) > 0 and len(first_line) < 100:
+                    # Verificar que no sea solo una URL o texto muy largo
+                    if not first_line.startswith("http") and "/" not in first_line:
+                        return first_line
+
+        # Intentar extraer de la URL (ej: meetup.com/kong-mexico-city)
+        if self.url:
+            parsed = urlparse(self.url)
+            path_parts = [p for p in parsed.path.split("/") if p]
+            if path_parts:
+                # Para meetup: /kong-mexico-city/events/...
+                if "meetup.com" in parsed.netloc and len(path_parts) > 0:
+                    group_name = path_parts[0].replace("-", " ").title()
+                    return group_name
+
+        # Intentar extraer del source_url
+        if self.source_url:
+            parsed = urlparse(self.source_url)
+            path_parts = [p for p in parsed.path.split("/") if p]
+            if path_parts:
+                if "meetup.com" in parsed.netloc and len(path_parts) > 0:
+                    group_name = path_parts[0].replace("-", " ").title()
+                    return group_name
+
+        return "Evento"
+
+    def _extract_country_state(self) -> Tuple[str, str]:
+        """
+        Extrae país y estado de la ubicación del evento.
+
+        Tiene conocimiento especial de estados de México y puede inferir
+        el estado desde nombres de ciudades comunes (ej: Guadalajara -> Jalisco).
+
+        Returns:
+            Tupla (país, estado) o ("", "") si no se puede extraer.
+            Para México, retorna estados normalizados (ej: "CDMX", "Jalisco").
+        """
+        if not self.location or not self.location.strip():
+            return ("", "")
+
+        location = self.location.strip()
+
+        # Intentar patrones comunes de ubicación
+        # Formato: "Ciudad, Estado, País" o "Ciudad, Estado" o "Estado, País"
+        # Para México: "Ciudad, CDMX" o "Ciudad, Estado de México"
+
+        # Estados de México comunes
+        estados_mexico = {
+            "cdmx": "CDMX",
+            "ciudad de méxico": "CDMX",
+            "mexico city": "CDMX",
+            "jalisco": "Jalisco",
+            "nuevo león": "Nuevo León",
+            "puebla": "Puebla",
+            "quintana roo": "Quintana Roo",
+            "yucatán": "Yucatán",
+            "yucatan": "Yucatán",
+            "estado de méxico": "Estado de México",
+            "estado de mexico": "Estado de México",
+            "guadalajara": "Jalisco",
+            "monterrey": "Nuevo León",
+        }
+
+        location_lower = location.lower()
+
+        # Buscar estado de México
+        for key, estado in estados_mexico.items():
+            if key in location_lower:
+                return ("México", estado)
+
+        # Si contiene "méxico" o "mexico" pero no encontramos estado
+        if "méxico" in location_lower or "mexico" in location_lower:
+            # Intentar extraer estado de la ubicación
+            parts = [p.strip() for p in location.split(",")]
+            if len(parts) >= 2:
+                # Asumir que el penúltimo o último es el estado
+                for part in reversed(parts[-2:]):
+                    part_lower = part.lower()
+                    for key, estado in estados_mexico.items():
+                        if key in part_lower:
+                            return ("México", estado)
+                # Si no encontramos estado específico, usar el último
+                return ("México", parts[-1].strip())
+            return ("México", "")
+
+        # Si no es México, intentar extraer país y estado
+        parts = [p.strip() for p in location.split(",")]
+        if len(parts) >= 2:
+            # Último es probablemente el país
+            country = parts[-1]
+            # Penúltimo podría ser el estado
+            state = parts[-2] if len(parts) >= 2 else ""
+            return (country, state)
+
+        return ("", "")
+
+    def _format_title(self) -> str:
+        """
+        Formatea el título según el nuevo formato:
+        - Físico: Grupo|Nombre evento|País|Estado
+        - Online: Grupo|Nombre evento|Online
+        """
+        grupo = self._extract_group()
+        nombre_evento = str(self.original_event.get("summary", "")).strip()
+
+        if not nombre_evento:
+            nombre_evento = "Evento sin título"
+
+        if self._is_online():
+            return f"{grupo}|{nombre_evento}|Online"
+        else:
+            pais, estado = self._extract_country_state()
+            if pais and estado:
+                return f"{grupo}|{nombre_evento}|{pais}|{estado}"
+            elif pais:
+                return f"{grupo}|{nombre_evento}|{pais}|"
+            else:
+                # Si es presencial pero no tenemos ubicación, intentar inferir de la descripción/URL
+                # Si el grupo menciona CDMX o la URL es de México, usar México|CDMX
+                grupo_lower = grupo.lower()
+                desc_lower = self.description.lower()
+                url_lower = (self.url + " " + self.source_url).lower()
+
+                if any(
+                    keyword in grupo_lower + desc_lower + url_lower
+                    for keyword in ["cdmx", "ciudad de méxico", "mexico city", "méxico"]
+                ):
+                    return f"{grupo}|{nombre_evento}|México|CDMX"
+                else:
+                    # Si no podemos determinar ubicación, usar Online por defecto
+                    return f"{grupo}|{nombre_evento}|Online"
+
     def to_dict(self) -> Dict:
         """Convierte el evento normalizado a diccionario para JSON."""
         return {
-            "title": str(self.original_event.get("summary", "")),
+            "title": self._format_title(),
             "description": self.description,
             "url": self.url,
             "location": self.location,
@@ -201,9 +507,12 @@ class EventNormalized:
         """Convierte el evento normalizado de vuelta a Event de icalendar."""
         event = Event()
 
-        # Copiar campos del evento original con manejo correcto de codificación
+        # Usar el nuevo formato de título
+        formatted_title = self._format_title()
+        event.add("summary", fix_encoding(formatted_title))
+
+        # Copiar otros campos del evento original con manejo correcto de codificación
         for key in [
-            "summary",
             "description",
             "url",
             "location",
