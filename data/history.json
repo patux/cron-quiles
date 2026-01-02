@@ -48,8 +48,8 @@
     "dtstart": "2017-09-02T16:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/cdmx-vim-meetup/events/?type=past",
@@ -231,8 +231,8 @@
     "dtstart": "2018-03-10T15:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/hackrobotsmx/events/?type=past",
@@ -317,9 +317,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/hackrobotsmx/events/?type=past",
     "country": "México",
@@ -361,8 +361,8 @@
     "dtstart": "2018-05-12T16:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/hackrobotsmx/events/?type=past",
@@ -447,11 +447,11 @@
     "dtstart": "2018-09-20T19:30:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "web",
       "python",
-      "frontend"
+      "mobile",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -550,9 +550,9 @@
     "dtstart": "2019-02-22T19:00:00-06:00",
     "dtend": null,
     "tags": [
+      "devops",
       "frontend",
-      "python",
-      "devops"
+      "python"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -573,10 +573,10 @@
     "dtstart": "2019-03-21T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "python",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -658,9 +658,9 @@
     "dtstart": "2019-05-28T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
       "web",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/gophersmx/events/?type=past",
@@ -682,8 +682,8 @@
     "dtstart": "2019-05-31T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
+      "mobile",
       "frontend",
       "backend"
     ],
@@ -727,9 +727,9 @@
     "dtstart": "2019-06-18T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
+      "devops",
       "frontend",
-      "devops"
+      "mobile"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "México",
@@ -879,11 +879,11 @@
     "dtstart": "2019-08-27T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "devops",
       "cloud",
-      "frontend"
+      "mobile",
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "México",
@@ -1030,8 +1030,8 @@
     "dtstart": "2020-01-23T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -1072,10 +1072,10 @@
     "dtstart": "2020-02-27T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
-      "data",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -1181,9 +1181,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/hackrobotsmx/events/?type=past",
     "country": "",
@@ -1204,12 +1204,12 @@
     "dtstart": "2020-06-10T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "web",
       "python",
+      "mobile",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/eventloop/events/?type=past",
     "country": "",
@@ -1272,9 +1272,9 @@
     "dtstart": "2020-08-29T10:00:00-05:00",
     "dtend": null,
     "tags": [
+      "devops",
       "frontend",
-      "ai",
-      "devops"
+      "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
     "country": "",
@@ -1315,9 +1315,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "devops",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "",
@@ -1361,8 +1361,8 @@
     "dtstart": "2020-11-10T09:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "frontend",
+      "data",
       "ai"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -1463,10 +1463,10 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
-      "web",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -1487,9 +1487,9 @@
     "dtstart": "2021-04-08T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
       "devops",
-      "web"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -1532,9 +1532,9 @@
     "dtstart": "2021-09-11T12:00:00-05:00",
     "dtend": null,
     "tags": [
+      "devops",
       "frontend",
-      "ai",
-      "devops"
+      "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
     "country": "",
@@ -1555,9 +1555,9 @@
     "dtstart": "2021-09-30T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
       "devops",
-      "web"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -1578,8 +1578,8 @@
     "dtstart": "2021-10-01T09:00:00-05:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -1624,9 +1624,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -1649,11 +1649,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "devops",
       "cloud",
+      "devops",
+      "frontend",
       "web",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
     "country": "",
@@ -1675,9 +1675,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
     "country": "",
@@ -1801,12 +1801,12 @@
     "dtstart": "2022-05-02T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "cloud",
-      "web",
-      "data",
       "python",
-      "frontend"
+      "cloud",
+      "frontend",
+      "data",
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -1846,10 +1846,10 @@
     "dtstart": "2022-06-28T20:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "cloud",
-      "data",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/php-the-right-way/events/?type=past",
     "country": "",
@@ -1870,8 +1870,8 @@
     "dtstart": "2022-06-29T20:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "python"
+      "python",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -1893,9 +1893,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -1960,12 +1960,12 @@
     "dtstart": "2022-07-18T20:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "web",
       "python",
+      "mobile",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -1987,10 +1987,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
+      "data",
       "web",
-      "data"
+      "ai"
     ],
     "source": "https://www.meetup.com/meetup-mexico/events/?type=past",
     "country": "México",
@@ -2095,10 +2095,10 @@
     "dtstart": "2022-08-15T09:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "devops",
       "cloud",
-      "frontend"
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "",
@@ -2206,11 +2206,11 @@
     "dtstart": "2022-09-12T17:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "devops",
       "cloud",
-      "frontend"
+      "mobile",
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "México",
@@ -2231,8 +2231,8 @@
     "dtstart": "2022-09-14T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "cloud",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/eventloop/events/?type=past",
@@ -2277,12 +2277,12 @@
     "dtstart": "2022-09-22T18:30:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "web",
       "python",
+      "mobile",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -2304,10 +2304,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "devops",
       "cloud",
+      "devops",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -2350,8 +2350,8 @@
     "dtstart": "2022-10-12T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/eventloop/events/?type=past",
@@ -2392,8 +2392,8 @@
     "dtstart": "2022-10-14T19:00:00-05:00",
     "dtend": null,
     "tags": [
-      "backend",
-      "security"
+      "security",
+      "backend"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "",
@@ -2459,10 +2459,10 @@
     "dtstart": "2022-10-27T16:00:00-05:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "cloud",
       "python",
+      "cloud",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -2484,10 +2484,10 @@
     "dtstart": "2022-11-07T20:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
-      "data",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -2569,10 +2569,10 @@
     "dtstart": "2022-11-29T15:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "devops",
       "cloud",
-      "frontend"
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "",
@@ -2593,10 +2593,10 @@
     "dtstart": "2022-11-29T20:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "python",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -2617,10 +2617,10 @@
     "dtstart": "2022-12-05T20:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
-      "data",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -2663,9 +2663,9 @@
     "dtstart": "2022-12-15T10:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "devops",
-      "web"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
     "country": "",
@@ -2686,10 +2686,10 @@
     "dtstart": "2023-01-12T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "cloud",
-      "web"
+      "mobile",
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -2710,10 +2710,10 @@
     "dtstart": "2023-01-19T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
-      "web",
-      "frontend"
+      "mobile",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -2778,8 +2778,8 @@
     "dtend": null,
     "tags": [
       "python",
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -2800,10 +2800,10 @@
     "dtstart": "2023-02-28T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -2864,11 +2864,11 @@
     "dtstart": "2023-04-21T11:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "mobile",
+      "frontend",
       "web",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/meetup-mexico/events/?type=past",
     "country": "México",
@@ -2889,9 +2889,9 @@
     "dtstart": "2023-06-15T17:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -2912,11 +2912,11 @@
     "dtstart": "2023-06-30T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "mobile",
+      "frontend",
       "web",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "France",
@@ -2937,8 +2937,8 @@
     "dtstart": "2023-08-28T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "python",
+      "data",
       "backend"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -2960,9 +2960,9 @@
     "dtstart": "2023-09-05T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "frontend",
-      "cloud"
+      "cloud",
+      "data"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -2983,8 +2983,8 @@
     "dtstart": "2023-09-07T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/gophersmx/events/?type=past",
@@ -3007,8 +3007,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "web",
       "frontend",
+      "web",
       "backend"
     ],
     "source": "https://www.meetup.com/eventloop/events/?type=past",
@@ -3030,9 +3030,9 @@
     "dtstart": "2023-09-22T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
+      "web",
       "cloud",
-      "web"
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -3054,9 +3054,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
+      "cloud",
       "devops",
-      "cloud"
+      "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
     "country": "",
@@ -3121,10 +3121,10 @@
     "dtstart": "2023-10-25T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "devops",
-      "cloud"
+      "cloud",
+      "mobile",
+      "devops"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -3168,8 +3168,8 @@
     "dtstart": "2023-12-11T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "devops",
-      "cloud"
+      "cloud",
+      "devops"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
     "country": "",
@@ -3190,9 +3190,9 @@
     "dtstart": "2023-12-15T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
     "country": "México",
@@ -3213,8 +3213,8 @@
     "dtstart": "2023-12-19T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "frontend",
       "devops",
+      "frontend",
       "cloud"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
@@ -3302,12 +3302,12 @@
     "dtstart": "2024-02-29T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "web",
-      "data",
       "python",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data",
+      "web"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
     "country": "México",
@@ -3349,12 +3349,12 @@
     "dtstart": "2024-03-15T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "cloud",
-      "web",
-      "data",
       "python",
-      "frontend"
+      "cloud",
+      "frontend",
+      "data",
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/gittogether-cdmx/events/?type=past",
     "country": "",
@@ -3394,9 +3394,9 @@
     "dtstart": "2024-04-03T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
       "web",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
@@ -3461,8 +3461,8 @@
     "dtstart": "2024-05-23T17:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/postgresql-mexico/events/?type=past",
@@ -3506,11 +3506,11 @@
     "dtstart": "2024-05-30T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "web",
       "python",
-      "frontend"
+      "mobile",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "México",
@@ -3531,10 +3531,10 @@
     "dtstart": "2024-05-30T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "python",
+      "mobile",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
@@ -3556,9 +3556,9 @@
     "dtstart": "2024-06-05T07:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
+      "web",
       "cloud",
-      "web"
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -3640,8 +3640,8 @@
     "dtstart": "2024-06-24T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/agilility-talks/events/?type=past",
@@ -3708,9 +3708,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
     "country": "México",
@@ -3772,9 +3772,9 @@
     "dtstart": "2024-08-01T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote/events/?type=past",
@@ -3818,8 +3818,8 @@
     "dtstart": "2024-08-02T09:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
     "country": "",
@@ -3841,8 +3841,8 @@
     "dtend": null,
     "tags": [
       "python",
-      "web",
       "frontend",
+      "web",
       "backend"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -3864,8 +3864,8 @@
     "dtstart": "2024-08-06T14:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
@@ -3909,10 +3909,10 @@
     "dtstart": "2024-08-22T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
-      "frontend"
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "México",
@@ -3934,8 +3934,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/gittogether-cdmx/events/?type=past",
@@ -3981,10 +3981,10 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "devops",
+      "frontend",
       "web",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
     "country": "México",
@@ -4005,11 +4005,11 @@
     "dtstart": "2024-09-06T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "cloud",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4118,12 +4118,12 @@
     "dtstart": "2024-09-12T19:00:00-06:00",
     "dtend": null,
     "tags": [
+      "cloud",
       "mobile",
       "devops",
-      "cloud",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -4166,11 +4166,11 @@
     "dtstart": "2024-09-26T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "cloud",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4191,10 +4191,10 @@
     "dtstart": "2024-09-26T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "web",
-      "frontend"
+      "mobile",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
     "country": "México",
@@ -4325,8 +4325,8 @@
     "dtstart": "2024-10-17T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/mobile-development-mexico/events/?type=past",
@@ -4348,9 +4348,9 @@
     "dtstart": "2024-10-17T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "frontend"
+      "frontend",
+      "mobile"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "México",
@@ -4371,11 +4371,11 @@
     "dtstart": "2024-10-18T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "cloud",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4396,8 +4396,8 @@
     "dtstart": "2024-10-25T09:00:00-06:00",
     "dtend": null,
     "tags": [
-      "devops",
-      "cloud"
+      "cloud",
+      "devops"
     ],
     "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
     "country": "",
@@ -4418,11 +4418,11 @@
     "dtstart": "2024-10-25T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "web",
       "python",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/pythonista/events/?type=past",
     "country": "",
@@ -4444,9 +4444,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "python",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4490,8 +4490,8 @@
     "dtstart": "2024-11-06T11:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/mexico-city-unity-user-group/events/?type=past",
@@ -4513,8 +4513,8 @@
     "dtstart": "2024-11-13T17:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "python"
+      "python",
+      "mobile"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4556,8 +4556,8 @@
     "dtstart": "2024-11-14T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "devops",
-      "cloud"
+      "cloud",
+      "devops"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
     "country": "",
@@ -4619,8 +4619,8 @@
     "dtstart": "2024-12-05T17:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "security"
+      "security",
+      "ai"
     ],
     "source": "https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote/events/?type=past",
     "country": "México",
@@ -4641,11 +4641,11 @@
     "dtstart": "2024-12-13T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "cloud",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -4666,8 +4666,8 @@
     "dtstart": "2024-12-17T20:00:00-06:00",
     "dtend": null,
     "tags": [
-      "frontend",
       "devops",
+      "frontend",
       "cloud"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
@@ -4708,9 +4708,9 @@
     "dtstart": "2025-01-16T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "México",
@@ -4750,8 +4750,8 @@
     "dtstart": "2025-01-28T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/elixir-mexico-city/events/?type=past",
@@ -4773,8 +4773,8 @@
     "dtstart": "2025-01-29T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/globalaicdmx/events/?type=past",
     "country": "México",
@@ -4795,14 +4795,14 @@
     "dtstart": "2025-01-29T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
-      "devops",
       "cloud",
+      "mobile",
+      "devops",
       "web",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -4867,12 +4867,12 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "devops",
       "cloud",
-      "web",
+      "devops",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -4915,10 +4915,10 @@
     "dtstart": "2025-02-20T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "web",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
     "country": "México",
@@ -4939,8 +4939,8 @@
     "dtstart": "2025-02-21T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "data"
+      "data",
+      "mobile"
     ],
     "source": "https://www.meetup.com/rust-mx/events/?type=past",
     "country": "México",
@@ -4983,8 +4983,8 @@
     "dtend": null,
     "tags": [
       "frontend",
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "México",
@@ -5006,9 +5006,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -5029,9 +5029,9 @@
     "dtstart": "2025-03-06T11:00:00-06:00",
     "dtend": null,
     "tags": [
+      "devops",
       "frontend",
-      "ai",
-      "devops"
+      "ai"
     ],
     "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
     "country": "",
@@ -5116,8 +5116,8 @@
     "dtstart": "2025-03-11T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
@@ -5139,9 +5139,9 @@
     "dtstart": "2025-03-13T18:00:00-06:00",
     "dtend": null,
     "tags": [
+      "cloud",
       "mobile",
-      "ai",
-      "cloud"
+      "ai"
     ],
     "source": "https://www.meetup.com/globalaicdmx/events/?type=past",
     "country": "México",
@@ -5162,11 +5162,11 @@
     "dtstart": "2025-03-13T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "data",
       "python",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -5187,10 +5187,10 @@
     "dtstart": "2025-03-13T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
       "web",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -5232,10 +5232,10 @@
     "dtstart": "2025-03-14T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
-      "frontend"
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
     "country": "",
@@ -5256,8 +5256,8 @@
     "dtstart": "2025-03-15T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
@@ -5279,9 +5279,9 @@
     "dtstart": "2025-03-18T16:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "frontend",
-      "cloud"
+      "cloud",
+      "data"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "",
@@ -5302,9 +5302,9 @@
     "dtstart": "2025-03-18T17:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "security",
-      "frontend"
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
     "country": "",
@@ -5346,9 +5346,9 @@
     "dtstart": "2025-03-21T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/rust-mx/events/?type=past",
@@ -5412,8 +5412,8 @@
     "dtstart": "2025-03-27T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "backend",
-      "security"
+      "security",
+      "backend"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "México",
@@ -5435,9 +5435,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
-      "data",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
@@ -5459,8 +5459,8 @@
     "dtstart": "2025-03-27T19:30:00-06:00",
     "dtend": null,
     "tags": [
-      "frontend",
-      "python"
+      "python",
+      "frontend"
     ],
     "source": "https://www.meetup.com/pythonmty/events/?type=past",
     "country": "México",
@@ -5481,10 +5481,10 @@
     "dtstart": "2025-03-28T08:00:00-06:00",
     "dtend": null,
     "tags": [
+      "cloud",
       "mobile",
-      "ai",
       "devops",
-      "cloud"
+      "ai"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
     "country": "México",
@@ -5505,10 +5505,10 @@
     "dtstart": "2025-03-28T08:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "devops",
       "cloud",
-      "web"
+      "devops",
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
     "country": "México",
@@ -5550,10 +5550,10 @@
     "dtstart": "2025-04-08T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "devops",
       "python",
-      "frontend"
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -5640,13 +5640,13 @@
     "dtstart": "2025-04-24T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "devops",
       "cloud",
-      "web",
+      "mobile",
+      "devops",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -5668,9 +5668,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
-      "data",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
@@ -5692,8 +5692,8 @@
     "dtstart": "2025-04-24T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "backend"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
@@ -5715,9 +5715,9 @@
     "dtstart": "2025-04-25T16:00:00-06:00",
     "dtend": null,
     "tags": [
+      "web",
       "python",
-      "ai",
-      "web"
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -5780,11 +5780,11 @@
     "dtstart": "2025-05-08T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
       "cloud",
-      "frontend"
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "México",
@@ -5805,8 +5805,8 @@
     "dtstart": "2025-05-08T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -5827,8 +5827,8 @@
     "dtstart": "2025-05-08T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
+      "mobile",
       "frontend",
       "backend"
     ],
@@ -5871,10 +5871,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "devops",
       "python",
-      "frontend"
+      "devops",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -5895,8 +5895,8 @@
     "dtstart": "2025-05-15T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -5917,8 +5917,8 @@
     "dtstart": "2025-05-15T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "frontend",
       "devops",
+      "frontend",
       "cloud"
     ],
     "source": "https://www.meetup.com/ajolotesenlanube/events/?type=past",
@@ -5984,8 +5984,8 @@
     "dtstart": "2025-05-22T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6006,8 +6006,8 @@
     "dtstart": "2025-05-27T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "backend"
     ],
     "source": "https://www.meetup.com/elixir-mexico-city/events/?type=past",
@@ -6094,8 +6094,8 @@
     "dtstart": "2025-05-29T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6118,8 +6118,8 @@
     "tags": [
       "security",
       "cloud",
-      "web",
-      "frontend"
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -6140,8 +6140,8 @@
     "dtstart": "2025-06-05T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6162,9 +6162,9 @@
     "dtstart": "2025-06-05T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "devops",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
     "country": "México",
@@ -6230,8 +6230,8 @@
     "dtstart": "2025-06-10T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
@@ -6254,8 +6254,8 @@
     "dtend": null,
     "tags": [
       "frontend",
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/postgresql-mexico/events/?type=past",
     "country": "México",
@@ -6276,8 +6276,8 @@
     "dtstart": "2025-06-12T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6343,8 +6343,8 @@
     "dtstart": "2025-06-19T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6410,9 +6410,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -6433,15 +6433,15 @@
     "dtstart": "2025-06-26T14:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
-      "devops",
-      "cloud",
-      "web",
-      "data",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "devops",
+      "web",
+      "frontend",
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/globalaicdmx/events/?type=past",
     "country": "México",
@@ -6462,8 +6462,8 @@
     "dtstart": "2025-06-26T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6485,8 +6485,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/elixir-mexico-city/events/?type=past",
@@ -6509,8 +6509,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/rust-mx/events/?type=past",
@@ -6532,10 +6532,10 @@
     "dtstart": "2025-06-30T14:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "cloud",
-      "web",
-      "frontend"
+      "mobile",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/aws-cloud-club-at-unam/events/?type=past",
     "country": "México",
@@ -6556,9 +6556,9 @@
     "dtstart": "2025-07-01T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "",
@@ -6600,8 +6600,8 @@
     "dtstart": "2025-07-03T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6622,11 +6622,11 @@
     "dtstart": "2025-07-08T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "python",
       "cloud",
-      "python"
+      "mobile",
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -6693,8 +6693,8 @@
     "dtstart": "2025-07-10T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data"
+      "data",
+      "ai"
     ],
     "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
     "country": "",
@@ -6716,8 +6716,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/?type=past",
@@ -6784,9 +6784,9 @@
     "dtend": null,
     "tags": [
       "cloud",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -6873,9 +6873,9 @@
     "dtstart": "2025-07-30T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
+      "frontend",
       "data",
-      "frontend"
+      "mobile"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -6917,9 +6917,9 @@
     "dtstart": "2025-07-31T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "frontend"
+      "frontend",
+      "mobile"
     ],
     "source": "https://www.meetup.com/notrustsec/events/?type=past",
     "country": "México",
@@ -6984,11 +6984,11 @@
     "dtstart": "2025-08-12T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
-      "cloud",
       "python",
-      "frontend"
+      "cloud",
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -7054,8 +7054,8 @@
     "dtstart": "2025-08-19T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "backend"
     ],
     "source": "https://www.meetup.com/mobile-development-mexico/events/?type=past",
@@ -7077,10 +7077,10 @@
     "dtstart": "2025-08-19T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "mobile",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/?type=past",
@@ -7102,9 +7102,9 @@
     "dtstart": "2025-08-21T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
+      "devops",
       "frontend",
-      "devops"
+      "mobile"
     ],
     "source": "https://www.meetup.com/devops-workshop/events/?type=past",
     "country": "France",
@@ -7125,9 +7125,9 @@
     "dtstart": "2025-08-21T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
+      "frontend",
       "data",
-      "frontend"
+      "mobile"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -7169,8 +7169,8 @@
     "dtstart": "2025-08-27T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "frontend",
+      "data",
       "ai"
     ],
     "source": "https://www.meetup.com/mexico-city-microsoft-fabric-group/events/?type=past",
@@ -7192,8 +7192,8 @@
     "dtstart": "2025-08-28T17:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "security"
+      "security",
+      "ai"
     ],
     "source": "https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote/events/?type=past",
     "country": "México",
@@ -7215,9 +7215,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "python",
-      "frontend"
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/gittogether-cdmx/events/?type=past",
     "country": "México",
@@ -7280,8 +7280,8 @@
     "dtstart": "2025-09-09T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "python"
+      "python",
+      "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
     "country": "México",
@@ -7303,10 +7303,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
-      "data",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -7328,11 +7328,11 @@
     "dtstart": "2025-09-16T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "cloud",
+      "mobile",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/?type=past",
     "country": "México",
@@ -7354,11 +7354,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -7379,8 +7379,8 @@
     "dtstart": "2025-09-18T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "frontend",
-      "python"
+      "python",
+      "frontend"
     ],
     "source": "https://www.meetup.com/rust-mx/events/?type=past",
     "country": "",
@@ -7402,9 +7402,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "devops",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -7448,10 +7448,10 @@
     "dtstart": "2025-09-24T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "python",
-      "data",
-      "frontend"
+      "mobile",
+      "frontend",
+      "data"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -7496,11 +7496,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -7521,11 +7521,11 @@
     "dtstart": "2025-09-25T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
       "cloud",
-      "web"
+      "mobile",
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -7546,12 +7546,12 @@
     "dtstart": "2025-09-25T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
-      "web",
-      "data",
       "frontend",
-      "backend"
+      "data",
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/ajolotesenlanube/events/?type=past",
     "country": "",
@@ -7572,8 +7572,8 @@
     "dtstart": "2025-09-25T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "web",
-      "python"
+      "python",
+      "web"
     ],
     "source": "https://www.meetup.com/j4guanatos/events/?type=past",
     "country": "México",
@@ -7678,8 +7678,8 @@
     "dtstart": "2025-10-08T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "web"
     ],
     "source": "https://www.meetup.com/agilility-talks/events/?type=past",
@@ -7723,9 +7723,9 @@
     "dtstart": "2025-10-09T19:00:00-06:00",
     "dtend": null,
     "tags": [
+      "cloud",
       "mobile",
-      "ai",
-      "cloud"
+      "ai"
     ],
     "source": "https://www.meetup.com/ajolotesenlanube/events/?type=past",
     "country": "México",
@@ -7746,10 +7746,10 @@
     "dtstart": "2025-10-14T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "python",
+      "mobile",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
@@ -7772,8 +7772,8 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -7795,11 +7795,11 @@
     "dtstart": "2025-10-16T07:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "mobile",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "México",
@@ -7821,10 +7821,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -7867,8 +7867,8 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/?type=past",
@@ -7890,9 +7890,9 @@
     "dtstart": "2025-10-21T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "data",
       "frontend",
-      "cloud"
+      "cloud",
+      "data"
     ],
     "source": "https://www.meetup.com/elixir-mexico-city/events/?type=past",
     "country": "",
@@ -7914,8 +7914,8 @@
     "dtend": null,
     "tags": [
       "frontend",
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/?type=past",
     "country": "",
@@ -7937,9 +7937,9 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -7962,11 +7962,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "cloud",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -8030,11 +8030,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
-      "data",
       "frontend",
-      "backend"
+      "data",
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
     "country": "",
@@ -8055,12 +8055,12 @@
     "dtstart": "2025-10-28T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "devops",
       "cloud",
-      "web",
-      "frontend"
+      "mobile",
+      "devops",
+      "frontend",
+      "web"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -8082,10 +8082,10 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
       "devops",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -8150,10 +8150,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -8218,8 +8218,8 @@
     "dtstart": "2025-11-11T18:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "frontend",
+      "mobile",
       "ai"
     ],
     "source": "https://www.meetup.com/mobile-development-mexico/events/?type=past",
@@ -8241,8 +8241,8 @@
     "dtstart": "2025-11-11T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "python",
       "frontend",
+      "python",
       "ai"
     ],
     "source": "https://www.meetup.com/python-mexico/events/?type=past",
@@ -8264,11 +8264,11 @@
     "dtstart": "2025-11-12T17:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
       "security",
-      "ai",
+      "mobile",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/?type=past",
     "country": "México",
@@ -8290,10 +8290,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "France",
@@ -8314,8 +8314,8 @@
     "dtstart": "2025-11-14T20:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/aws-cloud-club-at-unam/events/?type=past",
     "country": "",
@@ -8337,8 +8337,8 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -8407,10 +8407,10 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -8431,12 +8431,12 @@
     "dtstart": "2025-11-20T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "cloud",
-      "web",
-      "data",
       "frontend",
-      "backend"
+      "data",
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -8501,9 +8501,9 @@
     "dtstart": "2025-11-27T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
       "web",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/elixir-mexico-city/events/?type=past",
@@ -8525,11 +8525,11 @@
     "dtstart": "2025-11-27T18:30:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "cloud",
+      "mobile",
+      "frontend",
       "web",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/amazon-web-services-jalisco/events/?type=past",
     "country": "México",
@@ -8551,9 +8551,9 @@
     "dtend": null,
     "tags": [
       "mobile",
-      "ai",
+      "frontend",
       "data",
-      "frontend"
+      "ai"
     ],
     "source": "https://www.meetup.com/thedatapub/events/?type=past",
     "country": "México",
@@ -8596,10 +8596,10 @@
     "dtstart": "2025-12-04T19:00:00-06:00",
     "dtend": null,
     "tags": [
-      "mobile",
-      "ai",
       "python",
-      "frontend"
+      "mobile",
+      "frontend",
+      "ai"
     ],
     "source": "https://www.meetup.com/rust-mx/events/?type=past",
     "country": "",
@@ -8620,10 +8620,10 @@
     "dtstart": "2025-12-05T12:00:00-06:00",
     "dtend": null,
     "tags": [
-      "ai",
-      "data",
       "python",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -8713,11 +8713,11 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "web",
-      "data",
       "frontend",
-      "backend"
+      "data",
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
     "country": "",
@@ -8739,12 +8739,12 @@
     "dtend": null,
     "tags": [
       "security",
-      "ai",
-      "devops",
       "cloud",
-      "web",
+      "devops",
+      "frontend",
       "data",
-      "frontend"
+      "web",
+      "ai"
     ],
     "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
     "country": "",
@@ -8766,8 +8766,8 @@
     "dtend": null,
     "tags": [
       "frontend",
-      "ai",
-      "cloud"
+      "cloud",
+      "ai"
     ],
     "source": "https://www.meetup.com/ajolotesenlanube/events/?type=past",
     "country": "México",
@@ -8829,8 +8829,8 @@
     "dtend": "2026-01-08T11:00:00-06:00",
     "tags": [
       "security",
-      "ai",
       "frontend",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/kong-mexico-city/events/ical",
@@ -8852,9 +8852,9 @@
     "dtstart": "2026-01-08T18:00:00-06:00",
     "dtend": "2026-01-08T19:00:00-06:00",
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/ical",
     "country": "",
@@ -8875,9 +8875,9 @@
     "dtstart": "2026-01-15T18:00:00-06:00",
     "dtend": "2026-01-15T20:00:00-06:00",
     "tags": [
-      "mobile",
       "frontend",
-      "cloud"
+      "cloud",
+      "mobile"
     ],
     "source": "https://www.meetup.com/embajadoras-cloud/events/ical",
     "country": "México",
@@ -8899,10 +8899,10 @@
     "dtend": "2026-01-20T20:00:00-06:00",
     "tags": [
       "security",
-      "ai",
-      "web",
       "frontend",
-      "backend"
+      "web",
+      "backend",
+      "ai"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/ical",
     "country": "México",
@@ -8923,11 +8923,11 @@
     "dtstart": "2026-02-17T18:00:00-06:00",
     "dtend": "2026-02-17T20:00:00-06:00",
     "tags": [
-      "mobile",
-      "ai",
       "cloud",
-      "data",
+      "mobile",
       "frontend",
+      "data",
+      "ai",
       "backend"
     ],
     "source": "https://www.meetup.com/ai-cdmx/events/ical",
@@ -8949,10 +8949,10 @@
     "dtstart": "2026-02-28T08:00:00-06:00",
     "dtend": "2026-02-28T19:00:00-06:00",
     "tags": [
-      "conferencia",
-      "kubernetes",
       "devops",
-      "cloud"
+      "cloud",
+      "conferencia",
+      "kubernetes"
     ],
     "source": "Manual",
     "country": "México",
