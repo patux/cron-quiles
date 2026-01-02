@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T04:16:50.859841+00:00",
+  "generated_at": "2026-01-02T06:21:46.899295+00:00",
   "total_events": 11,
   "city": "Nuevo León",
   "communities": [
@@ -22,10 +22,10 @@
       "dtstart": "2018-09-20T19:30:00-05:00",
       "dtend": null,
       "tags": [
-        "security",
-        "python",
-        "web",
         "mobile",
+        "security",
+        "web",
+        "python",
         "frontend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -47,9 +47,9 @@
       "dtstart": "2019-02-22T19:00:00-06:00",
       "dtend": null,
       "tags": [
+        "frontend",
         "python",
-        "devops",
-        "frontend"
+        "devops"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
@@ -71,8 +71,8 @@
       "dtend": null,
       "tags": [
         "ai",
-        "web",
         "python",
+        "web",
         "frontend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -95,9 +95,9 @@
       "dtend": null,
       "tags": [
         "mobile",
-        "backend",
         "python",
-        "frontend"
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
@@ -118,9 +118,9 @@
       "dtstart": "2020-01-23T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "ai",
         "python",
-        "frontend"
+        "frontend",
+        "ai"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
@@ -142,8 +142,8 @@
       "dtend": null,
       "tags": [
         "mobile",
-        "data",
         "python",
+        "data",
         "frontend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -165,12 +165,12 @@
       "dtstart": "2022-09-22T18:30:00-05:00",
       "dtend": null,
       "tags": [
-        "ai",
-        "python",
-        "backend",
-        "web",
         "mobile",
-        "frontend"
+        "ai",
+        "web",
+        "python",
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
@@ -192,8 +192,8 @@
       "dtend": null,
       "tags": [
         "mobile",
-        "web",
         "python",
+        "web",
         "frontend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
@@ -215,9 +215,9 @@
       "dtstart": "2023-11-11T09:00:00-06:00",
       "dtend": null,
       "tags": [
-        "web",
         "frontend",
-        "cloud"
+        "cloud",
+        "web"
       ],
       "source": "https://www.meetup.com/aws-cdmx/events/?type=past",
       "country": "México",
@@ -238,10 +238,10 @@
       "dtstart": "2024-08-02T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "backend",
-        "web",
         "python",
-        "frontend"
+        "web",
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
@@ -262,8 +262,8 @@
       "dtstart": "2025-03-27T19:30:00-06:00",
       "dtend": null,
       "tags": [
-        "python",
-        "frontend"
+        "frontend",
+        "python"
       ],
       "source": "https://www.meetup.com/pythonmty/events/?type=past",
       "country": "México",
