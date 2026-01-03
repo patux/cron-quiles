@@ -3,22 +3,29 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 404,
+    "event_count": 616,
     "emoji": "🇲🇽"
   },
   {
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 194,
+    "event_count": 375,
     "emoji": "🌮"
   },
   {
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 40,
+    "event_count": 42,
     "emoji": "💻"
+  },
+  {
+    "code": "MX-MÉX",
+    "name": "MX-MÉX",
+    "slug": "mx-méx",
+    "event_count": 3,
+    "emoji": "📅"
   },
   {
     "code": "MX-NLE",
@@ -31,8 +38,15 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 156,
+    "event_count": 171,
     "emoji": "🌐"
+  },
+  {
+    "code": "MX-PUE",
+    "name": "Puebla",
+    "slug": "mx-pue",
+    "event_count": 11,
+    "emoji": "🌋"
   },
   {
     "code": "MX-TAB",
