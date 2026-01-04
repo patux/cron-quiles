@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-04T06:23:12.098243+00:00",
+  "generated_at": "2026-01-04T12:26:45.744847+00:00",
   "total_events": 1,
   "city": "Tabasco",
   "communities": [
@@ -19,8 +19,8 @@
       "dtend": null,
       "tags": [
         "web",
-        "mobile",
         "frontend",
+        "mobile",
         "security"
       ],
       "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
