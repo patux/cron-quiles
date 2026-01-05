@@ -1156,7 +1156,7 @@ class EventNormalized:
             "organizer": self.organizer,
             "dtstart": self.dtstart.isoformat() if self.dtstart else None,
             "dtend": self.dtend.isoformat() if self.dtend else None,
-            "tags": list(self.tags),
+            "tags": sorted(list(self.tags)),
             "source": self.source_url,
             "country": self.country,
             "country_code": self.country_code,
@@ -1202,7 +1202,7 @@ class EventNormalized:
 
         # Agregar tags como categorías si existen
         if self.tags:
-            event.add("categories", list(self.tags))
+            event.add("categories", sorted(list(self.tags)))
 
         # Add custom properties for location metadata
         if self.country:
