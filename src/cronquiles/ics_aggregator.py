@@ -238,10 +238,10 @@ class ICSAggregator:
         calendar.add("calscale", "GREGORIAN")
 
         if city_name:
-            calendar.add("X-WR-CALNAME", f"Cron-Quiles - Eventos Tech {city_name}")
+            calendar.add("X-WR-CALNAME", f"Eventos Tech {city_name} - cronquiles")
             calendar.add("X-WR-CALDESC", f"Calendario unificado de eventos tech en {city_name}, México")
         else:
-            calendar.add("X-WR-CALNAME", "Cron-Quiles - Eventos Tech México")
+            calendar.add("X-WR-CALNAME", "Eventos Tech México - cronquiles")
             calendar.add("X-WR-CALDESC", "Calendario unificado de eventos tech en México")
         calendar.add("X-WR-TIMEZONE", "America/Mexico_City")
 
