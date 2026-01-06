@@ -3675,4 +3675,32 @@ DESCRIPTION:Kong/MEXICO-CITY\n**[Register Here](https://konghq.com/events/
  ntic transformation while maintaining absolute security and cost-control.
 LOCATION:Online
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kong Mexico City|Leading the Agentic Transformation: A Blueprint f
+ or the AI-Native Enterprise|Online
+DTSTART:20260129T030000
+CATEGORIES:ai,frontend,security,web
+DESCRIPTION:Kong/MEXICO-CITY\n**[Register Here](https://konghq.com/events/
+ webinars/developer-day-leading-the-agentic-transformation-a-blueprint-for-
+ the-ai-native-enterprise?utm_source=kong-email&utm_medium=email&utm_campai
+ gn=community/)**\n\n**DEVELOPER DAY**\n\nThe shift from static AI chatbots
+  to autonomous\, goal-oriented agents represents the most significant arch
+ itectural shift in a decade. This agentic transformation requires more tha
+ n just new models\; it demands a fundamental evolution of our connectivity
+  infrastructure. In this closing session for our AI Gateway series\, we wi
+ ll synthesize the lessons from our 101 and 201 Workshops to show how Kong 
+ is being engineered to serve as the backbone for this new era.\n\nWe will 
+ explore the technical roadmap for supporting multi-agent orchestration\, t
+ he role of the gateway in managing "machine-to-machine" reasoning\, and ho
+ w Kong’s future-state features will accelerate your organization’s age
+ ntic transformation while maintaining absolute security and cost-control.\
+ n\nIn preparation for the Developer Day\, take a look at our 101 & 201 Wor
+ kshops:\n\n* [\\[Workshop 101\\] Build an Enterprise-Grade AI Platform wit
+ h Kong AI Gateway](https://konghq.com/events/workshops/workshop-101-build-
+ an-enterprise-grade-ai-platform-with-kong-ai-gateway)\n* [\\[Workshop 201\
+ \] Beyond the Gateway: Governing Secure and Observable AI Agents](https://
+ konghq.com/events/workshops/workshop-201-beyond-the-gateway-governing-secu
+ re-and-observable-ai-agents)
+LOCATION:Online
+END:VEVENT
 END:VCALENDAR
