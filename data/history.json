@@ -3483,6 +3483,25 @@
     "hash_key": "github open source cdmx mujeres que inspiran_2024-03-16T00:00:00+00:00"
   },
   {
+    "title": "HackGDL|HackGDL 2024|México|Jalisco",
+    "description": "¡Acompáñanos en la primera edición! En HackGDL, adem´as de las pláticas y talleres, tendremos actividades sociales y dinámicas",
+    "url": "https://www.eventbrite.com.mx/e/hackgdl-2024-tickets-729584164877",
+    "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+    "organizer": "HackGDL",
+    "dtstart": "2024-03-16T10:00:00-06:00",
+    "dtend": "2024-03-16T23:30:00-06:00",
+    "tags": [],
+    "source": "Eventbrite",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+    "hash_key": "hackgdl 2024_2024-03-16T16:00:00+00:00"
+  },
+  {
     "title": "gittogether-cdmx|GitHub OpenSource CDMX & Villahermosa|México|Ciudad de México",
     "description": "¡Hola **comunidad**!\n\nEstamos muy felices de anunciar que tendremos nuestro **segundo evento del mes de marzo**. 🙌🏼\nEn este evento, aprenderás sobre:\n\n* **Ciberseguridad, los primeros pasos y las ultimas tendencias**\nEmpezaremos con temas generales y primeros pasos en el mundo de la **seguridad**. Poco a poco nos adentraremos en la evolución de la **ciberseguridad** y las últimas tendencias en robo de información.\n\n**Asiste presencialmente**\n¡Habrá muchas sorpresas!\nEn esta ocasión, contaremos con el apoyo de la comunidad **GitHub Villahermosa**, el primer evento de la mano de los líderes en el estado de Tabasco y en conjunto daremos visibilidad a las iniciativas que estamos haciendo en distintas regiones de México, así como colaboraciones con más comunidades.\n\n📢 **Este evento es abierto a todas y todos**.\nPuedes invitar a tu escuela, comunidad, amistades y familia.\n¡TE ESPERAMOS!",
     "url": "https://www.meetup.com/gittogether-cdmx/events/299874636/",
@@ -8421,6 +8440,25 @@
     "city_code": "cdmx",
     "address": "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, Av. Revolución 756, Ciudad de México, MX",
     "hash_key": "data pub febrero ml informed financial assistance to prevent homelessness_2025-02-28T00:00:00+00:00"
+  },
+  {
+    "title": "HackGDL|HackGDL 2025|México|Jalisco",
+    "description": "¡Acompáñanos en la segunda edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
+    "url": "https://www.eventbrite.com.mx/e/hackgdl-2025-tickets-1032897001737",
+    "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+    "organizer": "HackGDL",
+    "dtstart": "2025-03-01T09:00:00-06:00",
+    "dtend": "2025-03-01T23:30:00-06:00",
+    "tags": [],
+    "source": "Eventbrite",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+    "hash_key": "hackgdl 2025_2025-03-01T14:00:00+00:00"
   },
   {
     "title": "openinfrastructurecdmx|OpenInfra Days North America 2025 at SCaLE|México|CDMX",
@@ -13702,6 +13740,30 @@
     "hash_key": "leading the agentic transformation a blueprint for the ai native enterprise_2026-01-29T08:00:00+00:00"
   },
   {
+    "title": "AWS User Group Mixtli Cholula|Modern Serverless Architectures y Lambda Managed Instances|México|Puebla",
+    "description": "AWS User Group Mixtli Cholula\n¿Crees que el modelo Serverless te obliga a sacrificar control a cambio de simplicidad? 🤔 **¡Es momento de actualizar esa idea!**\n\nLas arquitecturas serverless han evolucionado drásticamente. Con los anuncios de **AWS re:Invent 2025**, la frontera entre la flexibilidad del cómputo tradicional y la agilidad de Serverless es más delgada que nunca.\n\nEn esta charla técnica y estratégica, de la mano de **Edwin Moedano (Cloud Architect en Caylent)**, exploraremos a fondo las **Lambda Managed Instances**. Descubrirás cómo este nuevo paradigma permite ejecutar cargas de trabajo constantes o especializadas con un rendimiento superior, sin perder los beneficios de escalabilidad que tanto amamos de AWS Lambda.\n\n**¿Qué aprenderás en esta sesión?**\n\n* **Lambda Managed Instances:** Qué son y cómo utilizarlas para obtener lo mejor de ambos mundos (control y simplicidad).\n* **Nuevos Patrones de Orquestación:** Cómo diseñar sistemas robustos que soporten cargas de trabajo complejas.\n* **Optimización de Performance:** Estrategias para reducir latencias y manejar ejecuciones de larga duración.\n* **Diseño de Sistemas Modernos:** Patrones para construir arquitecturas que sean eficientes tanto en costo como en operación.\n\nNo importa si estás migrando microservicios o construyendo aplicaciones nativas en la nube desde cero; saldrás de esta sesión con una visión clara de cómo llevar tus arquitecturas serverless al siguiente nivel. 🚀\n\n¡Acompáñanos para descubrir cómo construir el backend del futuro hoy mismo!\n\n***\n\n🍻 **Networking:** Disfruta de bebidas, comida y una gran charla con la comunidad.\n👥 **Conecta:** Conoce a otros profesionales y entusiastas de la nube y AWS.\n\n📅 **Fecha:** Jueves 29 de enero\n🕐 **Hora:** 6:30 PM - 8:30 PM\n📍 **Lugar:** Workósfera Coworking",
+    "url": "https://www.meetup.com/awsugmixtli/events/312755138/",
+    "location": " workósfera coworking",
+    "organizer": "",
+    "dtstart": "2026-01-29T18:30:00-06:00",
+    "dtend": "2026-01-29T20:30:00-06:00",
+    "tags": [
+      "backend",
+      "cloud",
+      "frontend",
+      "mobile"
+    ],
+    "source": "https://www.meetup.com/awsugmixtli/events/ical",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Puebla",
+    "state_code": "MX-PUE",
+    "city": "Heroica Puebla de Zaragoza",
+    "city_code": "heroicapuebladezaragoza",
+    "address": "Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., México",
+    "hash_key": "modern serverless architectures y lambda managed instances_2026-01-30T00:00:00+00:00"
+  },
+  {
     "title": "Kong Mexico City|Why AI Connectivity Matters|Online",
     "description": "Kong/MEXICO-CITY\n[AI is reshaping enterprise connectivity—turning it into a strategic lever for speed, cost control, and competitive advantage.](https://konghq.com/blog/news/the-age-of-ai-connectivity)\n\nThe problem is fragmentation. Most organizations have different tools, policies, and teams managing each connection point in their AI data path. The result: latency compounds, costs spiral, and governance becomes impossible at scale.\n\nJoin Kong CEO Augusto Marietti and CTO Marco Palladino for a candid conversation on how to unify your entire AI data path—from agents to models to tools—and move from pilot experiments to production scale. You'll also hear from SVP of Product Reza Shafii and Head of Product Marketing Alex Drag on what's new and what's coming in 2026: the Agentic Trust Layer, Agent Gateway, AI-native WAF, real-time data monetization, and comprehensive AI cost governance—the infrastructure layer enterprises need to operationalize AI. Learn how to prepare your stack for the demands of AI-native architecture.\n\nWhether you're building AI governance, controlling costs, or planning your next generation of AI infrastructure, this is where the decisions that define the next decade get made.",
     "url": "https://www.meetup.com/kong-mexico-city/events/312755655/",
@@ -13793,6 +13855,25 @@
     "city_code": "guadalajara",
     "address": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
     "hash_key": "kcd guadalajara 2026_2026-02-28T14:00:00+00:00"
+  },
+  {
+    "title": "HackGDL|HackGDL 2026|México|Jalisco",
+    "description": "¡Acompáñanos en la tercera edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
+    "url": "https://www.eventbrite.com.mx/e/hackgdl-2026-tickets-1816894182409",
+    "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+    "organizer": "HackGDL",
+    "dtstart": "2026-03-14T09:00:00-06:00",
+    "dtend": "2026-03-14T23:30:00-06:00",
+    "tags": [],
+    "source": "Eventbrite",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Jalisco",
+    "state_code": "MX-JAL",
+    "city": "Guadalajara",
+    "city_code": "guadalajara",
+    "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+    "hash_key": "hackgdl 2026_2026-03-14T14:00:00+00:00"
   },
   {
     "title": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)|To Be Announced/Por anunciar|México|Ciudad de México",

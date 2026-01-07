@@ -14831,5 +14831,199 @@
       "establishment",
       "point_of_interest"
     ]
+  },
+  "workósfera coworking": {
+    "address_components": [
+      {
+        "long_name": "35",
+        "short_name": "35",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Cholula",
+        "short_name": "Cholula",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "La Paz",
+        "short_name": "La Paz",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Heroica Puebla de Zaragoza",
+        "short_name": "Heroica Puebla de Zaragoza",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puebla",
+        "short_name": "Pue.",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "72160",
+        "short_name": "72160",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Cholula 35, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., México",
+    "geometry": {
+      "location": {
+        "lat": 19.0536482,
+        "lng": -98.2273264
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.0549712802915,
+          "lng": -98.2259923197085
+        },
+        "southwest": {
+          "lat": 19.0522733197085,
+          "lng": -98.2286902802915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.0536512,
+          "longitude": -98.22732959999999
+        }
+      }
+    ],
+    "place_id": "ChIJfQ0djR_Hz4URQhDsTxlXJdQ",
+    "plus_code": {
+      "compound_code": "3Q3F+F3 Heroica Puebla de Zaragoza, Pue., México",
+      "global_code": "76F33Q3F+F3"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
+  },
+  "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL": {
+    "address_components": [
+      {
+        "long_name": "1305",
+        "short_name": "1305",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenida Ignacio L Vallarta",
+        "short_name": "Av. Ignacio L Vallarta",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Colonia Americana",
+        "short_name": "Col Americana",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Americana",
+        "short_name": "Americana",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Guadalajara",
+        "short_name": "Guadalajara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Jalisco",
+        "short_name": "Jal.",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "44160",
+        "short_name": "44160",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+    "geometry": {
+      "location": {
+        "lat": 20.6744521,
+        "lng": -103.365396
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 20.6758980802915,
+          "lng": -103.3640496697085
+        },
+        "southwest": {
+          "lat": 20.6732001197085,
+          "lng": -103.3667476302915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 20.6745831,
+          "longitude": -103.3653994
+        }
+      }
+    ],
+    "place_id": "ChIJI7FavQSuKIQRyWTUV4zPgqo",
+    "plus_code": {
+      "compound_code": "MJFM+QR Guadalajara, Jal., México",
+      "global_code": "75GRMJFM+QR"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
   }
 }

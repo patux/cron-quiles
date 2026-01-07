@@ -18,6 +18,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | ⏸️ [**AWS Ajolotes Ciudad de México**](https://www.meetup.com/aws-cdmx) | User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon. | Ciudad de México, Nuevo León |
 | 🟢 [**AWS Cloud Club at Universidad Nacional Autonoma de México**](https://www.meetup.com/aws-cloud-club-at-unam) | El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube. | Ciudad de México, Online |
 | 🟢 [**AWS User Group Jalisco**](https://www.meetup.com/amazon-web-services-jalisco) | Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon. | Jalisco |
+| 🟢 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Puebla |
 | 🟢 [**Data, Cloud and AI in Mexico City**](https://www.meetup.com/big-data-developers-in-mexico-city) | IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts. | Ciudad de México, Occitania, Online |
 | 🟢 [**Desarrollo de Aplicaciones Móviles México**](https://www.meetup.com/mobile-development-mexico) | Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave. | Ciudad de México |
 | 🟢 [**DevOps Workshop**](https://www.meetup.com/devops-workshop) | Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos. | Ciudad de México, Jalisco, Occitania, Online |
@@ -35,6 +36,7 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**GNU / SysAdmin Linux en Ciudad de México**](https://www.meetup.com/grupo-de-meetup-de-linux-en-ciudad-de-mexico) | Comunidad de Sysadmins que se dedican a dar soporte con Software Libre. | Online |
 | 🔴 [**Gophers MX**](https://www.meetup.com/gophersmx) | Comunidad de desarrolladores del lenguaje Go en México. | Ciudad de México, Online |
 | 🔴 [**Guadalajara Apache Kafka**](https://www.meetup.com/guadalajara-kafka) | Guadalajara Apache Kafka Meetup. | Online |
+| 🟢 [**HackGDL**](https://www.eventbrite.com.mx/o/hackgdl-72541932683) | Comunidad de tecnología e innovación en Guadalajara. | Jalisco |
 | 🔴 [**HackrobotsMX**](https://www.meetup.com/hackrobotsmx) | HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica. | Ciudad de México, Online |
 | 🟢 [**HTML5 CDMX**](https://www.meetup.com/html5-ciudad-de-mexico) | Desarrollo web, estándares W3C y tecnologías de frontend. | Jalisco, Online |
 | 🟢 [**j4Guanatos**](https://www.meetup.com/j4guanatos) | Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas. | Jalisco |
@@ -64,4 +66,3 @@ Esta es la lista completa de comunidades integradas en el agregador de **Cron-Qu
 | 🔴 [**The Dojo MX**](https://www.meetup.com/the-dojo-mx) | Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea. | Online |
 | 🟢 [**Unity User Group CDMX**](https://www.meetup.com/mexico-city-unity-user-group) | Desarrolladores de videojuegos y experiencias interactivas con Unity 3D. | Ciudad de México, Online |
 | 🔴 [**Vim CDMX**](https://www.meetup.com/cdmx-vim-meetup) | Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo. | Ciudad de México |
-| 🟢 [**AWS User Group Mixtli**](https://www.meetup.com/awsugmixtli/) | Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon. | Puebla, Online |
