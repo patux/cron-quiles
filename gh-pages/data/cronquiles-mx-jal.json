@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T14:27:59.898391+00:00",
-  "total_events": 42,
+  "generated_at": "2026-01-07T15:49:10.741011+00:00",
+  "total_events": 45,
   "city": "Jalisco",
   "communities": [
     {
@@ -120,6 +120,25 @@
       "city_code": "guadalajara",
       "address": "Av. de las Américas 1545-Piso 7, Providencia, 44630 Guadalajara, Jal., México",
       "hash_key": "j4g isleapyear new meetup february_2024-03-01T00:00:00+00:00"
+    },
+    {
+      "title": "HackGDL|HackGDL 2024|México|Jalisco",
+      "description": "¡Acompáñanos en la primera edición! En HackGDL, adem´as de las pláticas y talleres, tendremos actividades sociales y dinámicas",
+      "url": "https://www.eventbrite.com.mx/e/hackgdl-2024-tickets-729584164877",
+      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "organizer": "HackGDL",
+      "dtstart": "2024-03-16T10:00:00-06:00",
+      "dtend": "2024-03-16T23:30:00-06:00",
+      "tags": [],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+      "hash_key": "hackgdl 2024_2024-03-16T16:00:00+00:00"
     },
     {
       "title": "j4guanatos|@UserMessage(“Organize meetup on May”)|México|Jalisco",
@@ -351,6 +370,25 @@
       "city_code": "zapopan",
       "address": "Centro Universitario de Ciencias Económico Administrativas, Periférico Norte N° 799 Núcleo Universitario, C. Prol. Belenes, San José del Bajío, 45100 Zapopan, Jal., México",
       "hash_key": "comunidad de ia en guadalajara febrero 2025_2025-02-27T00:00:00+00:00"
+    },
+    {
+      "title": "HackGDL|HackGDL 2025|México|Jalisco",
+      "description": "¡Acompáñanos en la segunda edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
+      "url": "https://www.eventbrite.com.mx/e/hackgdl-2025-tickets-1032897001737",
+      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "organizer": "HackGDL",
+      "dtstart": "2025-03-01T09:00:00-06:00",
+      "dtend": "2025-03-01T23:30:00-06:00",
+      "tags": [],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+      "hash_key": "hackgdl 2025_2025-03-01T14:00:00+00:00"
     },
     {
       "title": "amazon-web-services-jalisco|Arquitectura en la nube con AWS en 2025 🚀🧠|México|Jalisco",
@@ -1012,6 +1050,25 @@
       "city_code": "guadalajara",
       "address": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
       "hash_key": "kcd guadalajara 2026_2026-02-28T14:00:00+00:00"
+    },
+    {
+      "title": "HackGDL|HackGDL 2026|México|Jalisco",
+      "description": "¡Acompáñanos en la tercera edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y",
+      "url": "https://www.eventbrite.com.mx/e/hackgdl-2026-tickets-1816894182409",
+      "location": "Jardín Americana, 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL",
+      "organizer": "HackGDL",
+      "dtstart": "2026-03-14T09:00:00-06:00",
+      "dtend": "2026-03-14T23:30:00-06:00",
+      "tags": [],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
+      "hash_key": "hackgdl 2026_2026-03-14T14:00:00+00:00"
     }
   ]
 }
