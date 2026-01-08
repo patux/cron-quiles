@@ -13950,8 +13950,7 @@ X-CRONQUILES-STATE:Nuevo León
 X-CRONQUILES-STATE-CODE:MX-NLE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:devops-workshop|Observability in Kubernetes Unlocking the Power of
-  eBPF|Online
+SUMMARY:devops-workshop|eBPF|Online
 DTSTART:20251016T190000
 CATEGORIES:devops
 DESCRIPTION:Vamos a hablar de eBPF pero en el contexto de Kubernetes.\nObs

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T19:20:45.478961+00:00",
+  "generated_at": "2026-01-08T01:05:40.895389+00:00",
   "total_events": 675,
   "city": "México",
   "communities": [
@@ -12456,7 +12456,7 @@
       "hash_key": "epam tech talks monterrey_2025-10-17T00:00:00+00:00"
     },
     {
-      "title": "devops-workshop|Observability in Kubernetes Unlocking the Power of eBPF|Online",
+      "title": "devops-workshop|eBPF|Online",
       "description": "Vamos a hablar de eBPF pero en el contexto de Kubernetes.\nObservabilidad en Kubernetes : Desbloqueando el poder de eBPF.\n\nVeremos cómo esta tecnología está impactando en las soluciones de observabilidad y seguridad de hoy en día.\n\nHasta pronto\n\nEl link de la transmisión.\n[https://www.youtube.com/watch?v=t5Ke4X1FMpc](https://www.youtube.com/watch?v=t5Ke4X1FMpc)",
       "url": "https://www.meetup.com/devops-workshop/events/311540006/",
       "location": "Online",
@@ -12474,7 +12474,7 @@
       "city": "",
       "city_code": "",
       "address": "Online",
-      "hash_key": "observability in kubernetes unlocking the power of ebpf_2025-10-17T00:00:00+00:00"
+      "hash_key": "ebpf_2025-10-17T00:00:00+00:00"
     },
     {
       "title": "Mexico Tech Week|Invite Only. Xochimilco Emprelatam Founder Time|México|Ciudad de México",
