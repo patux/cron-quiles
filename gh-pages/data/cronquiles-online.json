@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T19:20:46.052596+00:00",
+  "generated_at": "2026-01-09T01:05:59.237521+00:00",
   "total_events": 198,
   "city": "Online",
   "communities": [
@@ -3578,7 +3578,7 @@
     },
     {
       "title": "Martin Manriquez Leon|Build with Claude Code|Online",
-      "description": "Obtén información actualizada en: https://luma.com/z4d0punf\n\nOrganizado por Martin Manriquez Leon y Ricardo Lira de la Vega",
+      "description": "Obtén información actualizada en: https://luma.com/z4d0punf\n\nOrganizado por Martin Manriquez Leon",
       "url": "https://luma.com/z4d0punf",
       "location": "https://luma.com/event/evt-T9Ma1BnBItT1Yb2",
       "organizer": "Martin Manriquez Leon",
@@ -3953,7 +3953,7 @@
       "hash_key": "ai alliance how to train your llm web agent a statistical diagnosis_2025-10-16T16:00:00+00:00"
     },
     {
-      "title": "devops-workshop|Observability in Kubernetes Unlocking the Power of eBPF|Online",
+      "title": "devops-workshop|eBPF|Online",
       "description": "Vamos a hablar de eBPF pero en el contexto de Kubernetes.\nObservabilidad en Kubernetes : Desbloqueando el poder de eBPF.\n\nVeremos cómo esta tecnología está impactando en las soluciones de observabilidad y seguridad de hoy en día.\n\nHasta pronto\n\nEl link de la transmisión.\n[https://www.youtube.com/watch?v=t5Ke4X1FMpc](https://www.youtube.com/watch?v=t5Ke4X1FMpc)",
       "url": "https://www.meetup.com/devops-workshop/events/311540006/",
       "location": "Online",
@@ -3971,7 +3971,7 @@
       "city": "",
       "city_code": "",
       "address": "Online",
-      "hash_key": "observability in kubernetes unlocking the power of ebpf_2025-10-17T00:00:00+00:00"
+      "hash_key": "ebpf_2025-10-17T00:00:00+00:00"
     },
     {
       "title": "elixir-mexico-city|Mexico Tech Week 2025|México|CDMX",
