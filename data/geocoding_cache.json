@@ -16369,5 +16369,124 @@
       "establishment",
       "point_of_interest"
     ]
+  },
+  "universidad panamericana (campus cdmx)": {
+    "address_components": [
+      {
+        "long_name": "Av. Javier Barros Sierra 540 - piso 3",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "Torre II",
+        "short_name": "Torre II",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Park Plaza",
+        "short_name": "Park Plaza",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Santa Fe",
+        "short_name": "Santa Fe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Zedec Santa Fé",
+        "short_name": "Zedec Sta Fé",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "01210",
+        "short_name": "01210",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. Javier Barros Sierra 540 - piso 3, Park Plaza, Torre II, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.3644569,
+        "lng": -99.259723
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.3657661302915,
+          "lng": -99.25871011970848
+        },
+        "southwest": {
+          "lat": 19.36306816970849,
+          "lng": -99.26140808029149
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.3641729,
+          "longitude": -99.2603424
+        },
+        "restricted_travel_modes": [
+          "WALK"
+        ]
+      },
+      {
+        "location": {
+          "latitude": 19.3646269,
+          "longitude": -99.25999770000001
+        },
+        "restricted_travel_modes": [
+          "DRIVE"
+        ]
+      }
+    ],
+    "place_id": "ChIJRxIVPMMA0oUR7wT2jq7TU-Y",
+    "plus_code": {
+      "compound_code": "9P7R+Q4 Ciudad de México, CDMX, México",
+      "global_code": "76F29P7R+Q4"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ]
   }
 }

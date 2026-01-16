@@ -4097,6 +4097,41 @@ DESCRIPTION:Kong/MEXICO-CITY\n**[Register Here](https://konghq.com/events/
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ajolotes en la Nube|AWS re:Invent 2025 re:Cap|México|Ciudad de M
+ éxico
+DTSTART:20260129T190000
+CATEGORIES:ai,cloud,frontend,mobile
+DESCRIPTION:AWS User Group: Ajolotes en la Nube\n## 🦎¿Te perdiste las 
+ novedades del re:Invent 2025? ¡Aquí te las contamos!\n\n¡Los **Ajolotes
+  en la Nube** estamos de regreso!\nNo te pierdas "el" re:Cap\, en donde no
+ s reuniremos para desmenuzar todos los anuncios del re:Invent llevado a ca
+ bo en Las Vegas el pasado mes de Diciembre.\n\nAsí que acompaña a **Vice
+ nte Guzmán** (AWS Community Builder) e **invitados especiales** y experto
+ s de la comunidad\, a navegar entre lo nuevo de la nube: desde la evoluci
+ ón de **Amazon Nova**\, los nuevos chips **Trainium3**\, hasta las innova
+ ciones en **Agentic AI** y Cómputo.\n\nSerá el espacio ideal para:\n\n* 
+ ⚡ **Entender los anuncios clave** sin tanto ruido.\n* 🤝 **Hacer netwo
+ rking** con otros apasionados de la tecnología.\n\n📝 Detalles del Even
+ to\n\n* 📅 **Fecha:** Jueves\, 29 de enero\n* ⏰ **Hora:** 19:00 hrs\n*
+  📍 **Lugar:** Universidad Panamericana (Campus CDMX)\n* ⚠️ **Cupo l
+ imitado**\n\n¡El llamado del Ajolote ha comenzado! Asegura tu sitio en el
+  santuario de la innovación y conecta con el corazón de la comunidad AWS
+  en la CDMX. ¡Que nadie te lo cuente! ✨🦎\n\n***\n\n**IMPORTANTE:** P
+ or políticas de acceso de la Universidad\, es necesario registrarte con t
+ u **nombre real** y presentar una **identificación oficial** a la entrada
+ . De lo contrario\, no se podrá permitir el acceso al campus.\n\n***
+LOCATION:universidad panamericana (campus cdmx)
+X-CRONQUILES-ADDRESS:Av. Javier Barros Sierra 540 - piso 3\, Park Plaza\, 
+ Torre II\, Santa Fe\, Zedec Sta Fé\, Álvaro Obregón\, 01210 Ciudad de M
+ éxico\, CDMX\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pythonistas GDL|Personalización de LLMs y CLIs en Python|México|
  Jalisco
 DTSTART:20260131T003000Z

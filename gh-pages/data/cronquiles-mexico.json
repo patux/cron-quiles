@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T12:30:21.085702+00:00",
-  "total_events": 255,
+  "generated_at": "2026-01-16T18:25:16.346617+00:00",
+  "total_events": 256,
   "city": "México",
   "communities": [
     {
@@ -5075,6 +5075,30 @@
       "city_code": "",
       "address": "",
       "hash_key": "leading the agentic transformation a blueprint for the ai native enterprise_2026-01-29T08:00:00+00:00"
+    },
+    {
+      "title": "Ajolotes en la Nube|AWS re:Invent 2025 re:Cap|México|Ciudad de México",
+      "description": "AWS User Group: Ajolotes en la Nube\n## 🦎¿Te perdiste las novedades del re:Invent 2025? ¡Aquí te las contamos!\n\n¡Los **Ajolotes en la Nube** estamos de regreso!\nNo te pierdas \"el\" re:Cap, en donde nos reuniremos para desmenuzar todos los anuncios del re:Invent llevado a cabo en Las Vegas el pasado mes de Diciembre.\n\nAsí que acompaña a **Vicente Guzmán** (AWS Community Builder) e **invitados especiales** y expertos de la comunidad, a navegar entre lo nuevo de la nube: desde la evolución de **Amazon Nova**, los nuevos chips **Trainium3**, hasta las innovaciones en **Agentic AI** y Cómputo.\n\nSerá el espacio ideal para:\n\n* ⚡ **Entender los anuncios clave** sin tanto ruido.\n* 🤝 **Hacer networking** con otros apasionados de la tecnología.\n\n📝 Detalles del Evento\n\n* 📅 **Fecha:** Jueves, 29 de enero\n* ⏰ **Hora:** 19:00 hrs\n* 📍 **Lugar:** Universidad Panamericana (Campus CDMX)\n* ⚠️ **Cupo limitado**\n\n¡El llamado del Ajolote ha comenzado! Asegura tu sitio en el santuario de la innovación y conecta con el corazón de la comunidad AWS en la CDMX. ¡Que nadie te lo cuente! ✨🦎\n\n***\n\n**IMPORTANTE:** Por políticas de acceso de la Universidad, es necesario registrarte con tu **nombre real** y presentar una **identificación oficial** a la entrada. De lo contrario, no se podrá permitir el acceso al campus.\n\n***",
+      "url": "https://www.meetup.com/ajolotesenlanube/events/312382805/",
+      "location": " universidad panamericana (campus cdmx)",
+      "organizer": "Ajolotes en la Nube",
+      "dtstart": "2026-01-29T19:00:00-06:00",
+      "dtend": "2026-01-29T22:00:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/ajolotesenlanube/events/ical",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Av. Javier Barros Sierra 540 - piso 3, Park Plaza, Torre II, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX, México",
+      "hash_key": "aws re invent 2025 re cap_2026-01-30T00:00:00+00:00"
     },
     {
       "title": "Pythonistas GDL|Personalización de LLMs y CLIs en Python|México|Jalisco",
