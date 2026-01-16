@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 255,
-    "future_event_count": 23,
+    "future_event_count": 22,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -166,7 +166,7 @@
     "name": "Puebla",
     "slug": "mx-pue",
     "event_count": 11,
-    "future_event_count": 1,
+    "future_event_count": 0,
     "active_months": [
       "2025-01",
       "2025-02",
