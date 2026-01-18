@@ -16488,5 +16488,115 @@
       "point_of_interest",
       "university"
     ]
+  },
+  "Periférico Blvrd Manuel Ávila Camacho 261, Periférico Blvrd Manuel Ávila Camacho 261, Ciudad de México, CD, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Periférico Boulevard Manuel Ávila Camacho",
+        "short_name": "Periférico Blvrd Manuel Ávila Camacho",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Puerta Polanco",
+        "short_name": "Puerta Polanco",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Polanco I Sección",
+        "short_name": "Polanco I Secc",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "11510",
+        "short_name": "11510",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Periférico Blvrd Manuel Ávila Camacho 261, Puerta Polanco, Polanco I Secc, Miguel Hidalgo, 11510 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.438375,
+        "lng": -99.21348549999999
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.43918208029151,
+          "lng": -99.21214821970848
+        },
+        "southwest": {
+          "lat": 19.4364841197085,
+          "lng": -99.2148461802915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.4373167,
+          "longitude": -99.21324109999999
+        },
+        "restricted_travel_modes": [
+          "WALK"
+        ]
+      },
+      {
+        "location": {
+          "latitude": 19.43829,
+          "longitude": -99.21369209999999
+        },
+        "restricted_travel_modes": [
+          "DRIVE"
+        ]
+      }
+    ],
+    "partial_match": true,
+    "place_id": "ChIJVTJXiyIC0oURZ5nUoQfaoKQ",
+    "types": [
+      "premise",
+      "street_address"
+    ]
   }
 }
