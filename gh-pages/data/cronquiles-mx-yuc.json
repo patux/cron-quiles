@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-01-21T18:32:44.548177+00:00",
+  "generated_at": "2026-01-21T19:25:20.177558+00:00",
   "total_events": 1,
   "city": "Yucatán",
   "communities": [
     {
       "name": "Frutero Club",
-      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo."
+      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
+      "links": []
     }
   ],
   "events": [

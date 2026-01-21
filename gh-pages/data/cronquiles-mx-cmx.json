@@ -1,55 +1,101 @@
 {
-  "generated_at": "2026-01-21T18:32:44.618852+00:00",
+  "generated_at": "2026-01-21T19:25:20.248478+00:00",
   "total_events": 234,
   "city": "Ciudad de México",
   "communities": [
     {
       "name": "AI/IA CDMX",
-      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México."
+      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ai-cdmx",
+          "label": "Meetup"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-cdmx",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "Ajolotes en la Nube",
-      "description": "Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube."
+      "description": "Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ajolotesenlanube",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Claude Users Group",
-      "description": ""
+      "description": "",
+      "links": []
     },
     {
       "name": "Mexico Tech Week",
-      "description": "Calendario oficial de Mexico Tech Week 2025."
+      "description": "Calendario oficial de Mexico Tech Week 2025.",
+      "links": []
     },
     {
       "name": "Python CDMX",
-      "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles."
+      "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
+      "links": []
+    },
+    {
+      "name": "Sudo FCiencias",
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/sudo_fciencias_2026",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "The Data Pub",
-      "description": "Punto de encuentro para amantes de los datos, ciencia de datos y visualización."
+      "description": "Punto de encuentro para amantes de los datos, ciencia de datos y visualización.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/thedatapub",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Vive Codding Cafe",
-      "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA."
+      "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
+      "links": []
     },
     {
       "name": "Claude Community",
-      "description": "Eventos de la comunidad de Claude AI."
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
     },
     {
       "name": "Java Mexico",
-      "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java."
+      "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java.",
+      "links": []
     },
     {
       "name": "AI Builders MX",
-      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons."
+      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
+      "links": []
     },
     {
       "name": "Frutero Club",
-      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo."
+      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
+      "links": []
     },
     {
       "name": "PayJoy",
-      "description": "Organizador de eventos manuales (ej: Tech Talk: Building Scalable Applications in Python)"
+      "description": "Organizador de eventos manuales (ej: Tech Talk: Building Scalable Applications in Python)",
+      "links": []
     }
   ],
   "events": [
@@ -3106,7 +3152,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -4249,7 +4295,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5410,7 +5456,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5518,7 +5564,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5626,7 +5672,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5787,7 +5833,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6091,6 +6137,11 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
           "label": "Ver en Meetup"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/vals4loe",
+          "label": "Ver en Luma"
         }
       ],
       "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",

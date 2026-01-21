@@ -1,295 +1,750 @@
 {
-  "generated_at": "2026-01-21T18:32:44.500737+00:00",
+  "generated_at": "2026-01-21T19:25:20.129954+00:00",
   "total_events": 345,
   "city": "México",
   "communities": [
     {
       "name": "330ohms",
-      "description": "Comunidad enfocada en hardware, electrónica e Internet de las Cosas (IoT)."
+      "description": "Comunidad enfocada en hardware, electrónica e Internet de las Cosas (IoT).",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/330ohms",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Agility Talks",
-      "description": "Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital."
+      "description": "Espacio para compartir conocimientos sobre metodologías ágiles, Scrum, Kanban y transformación digital.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/agilility-talks",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "AI/IA CDMX",
-      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México."
+      "description": "Canal de Meetup de la comunidad de IA en Ciudad de México.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ai-cdmx",
+          "label": "Meetup"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ai-cdmx",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "Ajolotes en la Nube",
-      "description": "Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube."
+      "description": "Grupo dedicado a Cloud Computing y arquitecturas modernas en la nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/ajolotesenlanube",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Apache Spark Mexico City",
-      "description": "Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data."
+      "description": "Grupo dedicado a Apache Spark y el ecosistema de procesamiento de Big Data.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/apache-spark-mexicocity",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "AWS Ajolotes Ciudad de México",
-      "description": "User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon."
+      "description": "User Group oficial de AWS en CDMX. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/aws-cdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "AWS Cloud Club at Universidad Nacional Autonoma de México",
-      "description": "El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube."
+      "description": "El AWS Cloud Club de la UNAM es un grupo de usuarios dirigido e impulsado por estudiantes que se enfoca en aprender sobre la Nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/aws-cloud-club-at-unam",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "AWS User Group Jalisco",
-      "description": "Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon."
+      "description": "Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/amazon-web-services-jalisco",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Claude Users Group",
-      "description": ""
+      "description": "",
+      "links": []
     },
     {
       "name": "Data, Cloud and AI in Mexico City",
-      "description": "IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts."
+      "description": "IBM sponsored Meetup group geared towards developers, data scientists, data engineers, and ALL Big Data, Cloud and AI enthusiasts.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/big-data-developers-in-mexico-city",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Desarrollo de Aplicaciones Móviles México",
-      "description": "Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave."
+      "description": "Bienvenidos a la comunidad de desarrolladores móviles en iOS y Android, un espacio donde la innovación, la colaboración y el aprendizaje son clave.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mobile-development-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "DevOps Workshop",
-      "description": "Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos."
+      "description": "Aprende cómo aplicar diferentes tecnologías para construir un producto. En este grupo vas a mejorar tu conocimiento de diferentes sistemas operativos.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/devops-workshop",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "DigitalOcean México City",
-      "description": "Meet software developers of all skill levels to share resources, learn, and form discussions around cloud and devops topics."
+      "description": "Meet software developers of all skill levels to share resources, learn, and form discussions around cloud and devops topics.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/digitaloceanmex",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Elixir Mexico City",
-      "description": "Comunidad enfocada en el lenguaje de programación Elixir y el framework Phoenix."
+      "description": "Comunidad enfocada en el lenguaje de programación Elixir y el framework Phoenix.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/elixir-mexico-city",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Embajadoras Cloud",
-      "description": "Comunidad dedicada a impulsar a mujeres hispanohablantes en cloud computing. Enfocada en AWS, aprendizaje colaborativo y desarrollo profesional."
+      "description": "Comunidad dedicada a impulsar a mujeres hispanohablantes en cloud computing. Enfocada en AWS, aprendizaje colaborativo y desarrollo profesional.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/embajadoras-cloud",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "EPAM",
-      "description": "EPAM Tech Talks Mexico City"
+      "description": "EPAM Tech Talks Mexico City",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com.mx/o/epam-27283356907",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "Eventloop",
-      "description": "La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad."
+      "description": "La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/eventloop",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Flutter Mexico City",
-      "description": "Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres."
+      "description": "Desarrollo multiplataforma con Flutter. Charlas técnicas y talleres.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/flutter-mexico-city",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "GDG Ciudad de México",
-      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general."
+      "description": "Google Developer Group CDMX. Eventos sobre tecnologías de Google y desarrollo en general.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/gdg-ciudad-de-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "GDG Guadalajara",
-      "description": "Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo."
+      "description": "Google Developer Group Guadalajara. Eventos sobre tecnologías de Google y desarrollo.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/gdg-guadalajara",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "GitTogether CDMX",
-      "description": "GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source."
+      "description": "GitHub GitTogether CDMX es un evento mensual creado por desarrolladores para desarrolladores para aprender acerca de GitHub y Open Source.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/gittogether-cdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "GitTogether LATAM",
-      "description": "Comunidad latinoamericana de GitHub. Open Source y colaboración."
+      "description": "Comunidad latinoamericana de GitHub. Open Source y colaboración.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/gittogether-latam",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Global AI CDMX",
-      "description": "Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure."
+      "description": "Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/globalaicdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Global Startup Ecosystem",
-      "description": "Digital career accelerator and community."
+      "description": "Digital career accelerator and community.",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com/o/global-startup-ecosystem-26000946435",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "GNU / SysAdmin Linux en Ciudad de México",
-      "description": "Comunidad de Sysadmins que se dedican a dar soporte con Software Libre."
+      "description": "Comunidad de Sysadmins que se dedican a dar soporte con Software Libre.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/grupo-de-meetup-de-linux-en-ciudad-de-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Gophers MX",
-      "description": "Comunidad de desarrolladores del lenguaje Go en México."
+      "description": "Comunidad de desarrolladores del lenguaje Go en México.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/gophersmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Guadalajara Apache Kafka Meetup",
-      "description": "Guadalajara Apache Kafka Meetup"
+      "description": "Guadalajara Apache Kafka Meetup",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/guadalajara-kafka",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "HackGDL",
-      "description": "Comunidad de tecnología e innovación en Guadalajara."
+      "description": "Comunidad de tecnología e innovación en Guadalajara.",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com.mx/o/hackgdl-72541932683",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "HackrobotsMX",
-      "description": "HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica."
+      "description": "HackrobotsMX es la primera y única comunidad en América sin fines de lucro dedicada a la formación y capacitación en robótica.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/hackrobotsmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "HTML5 CDMX",
-      "description": "Desarrollo web, estándares W3C y tecnologías de frontend."
+      "description": "Desarrollo web, estándares W3C y tecnologías de frontend.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/html5-ciudad-de-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "j4Guanatos",
-      "description": "Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas."
+      "description": "Comunidad de Java en Guadalajara. Eventos sobre Java y tecnologías relacionadas.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/j4guanatos",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Kong Mexico City",
-      "description": "Eventos sobre APIs, Microservicios, Service Mesh e Insomnia."
+      "description": "Eventos sobre APIs, Microservicios, Service Mesh e Insomnia.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/kong-mexico-city",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Meetup de Network Orquestrators, Creating Unicorns",
-      "description": "En este grupo estamos intentando construir empresas Unicornio. Queremos contactar con startuperos interesados en intercambiar ideas y contactos."
+      "description": "En este grupo estamos intentando construir empresas Unicornio. Queremos contactar con startuperos interesados en intercambiar ideas y contactos.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/meetup-de-network-orquestrators-creating-unicorns",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Meetup México",
-      "description": "Comunidad general de usuarios y organizadores de Meetup en México."
+      "description": "Comunidad general de usuarios y organizadores de Meetup en México.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/meetup-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "MexAI - Comunidad de IA",
-      "description": "Comunidad de IA en Guadalajara. Eventos sobre Inteligencia Artificial."
+      "description": "Comunidad de IA en Guadalajara. Eventos sobre Inteligencia Artificial.",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical?organizer=https%3A%2F%2Fwww.eventbrite.com.mx%2Fo%2Fmexai-comunidad-de-ia-106303535081",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "Mexico City Apache Kafka Meetup",
-      "description": "Mexico City Apache Kafka Meetup"
+      "description": "Mexico City Apache Kafka Meetup",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-kafka",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Mexico Tech Week",
-      "description": "Calendario oficial de Mexico Tech Week 2025."
+      "description": "Calendario oficial de Mexico Tech Week 2025.",
+      "links": []
     },
     {
       "name": "Microsoft Fabric CDMX",
-      "description": "Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial."
+      "description": "Grupo de usuarios de Microsoft Fabric y análisis de datos empresarial.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-microsoft-fabric-group",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Mujeres en Tech CDMX",
-      "description": "OutGeekWomen networking event."
+      "description": "OutGeekWomen networking event.",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com/e/mujeres-en-tech-ciudad-de-mexico-outgeekwomen-tickets-1354031136579?aff=ebdsoporgprofile",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "México City Docker friends",
-      "description": "Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker."
+      "description": "Learn, Collaborate & Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-docker-friends",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "NoTrustSec",
-      "description": "Ciberseguridad, hacking ético y seguridad ofensiva/defensiva."
+      "description": "Ciberseguridad, hacking ético y seguridad ofensiva/defensiva.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/notrustsec",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Odoo Latinoamérica",
-      "description": "Comunidad del ERP Open Source Odoo en América Latina."
+      "description": "Comunidad del ERP Open Source Odoo en América Latina.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/odoo-community-days-america-latina",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Open Infra CDMX",
-      "description": "Infraestructura abierta, OpenStack y tecnologías de cloud open source."
+      "description": "Infraestructura abierta, OpenStack y tecnologías de cloud open source.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/openinfrastructurecdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "PHP Mexico",
-      "description": "¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP."
+      "description": "¡Hacemos la web! PHP es el lenguaje más usado de la web, en este grupo podrás encontrar el siguiente nivel en tu carrera como programador PHP.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/php-the-right-way",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "PostgreSQL México",
-      "description": "Usuarios y administradores de bases de datos PostgreSQL."
+      "description": "Usuarios y administradores de bases de datos PostgreSQL.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/postgresql-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Product Management Society | CDMX Chapter",
-      "description": "A collective empowering Product Managers to connect, learn from one another and grow."
+      "description": "A collective empowering Product Managers to connect, learn from one another and grow.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/product-management-society-cdmx-chapter",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "PyTalavera",
-      "description": "Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región."
+      "description": "Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región.",
+      "links": []
     },
     {
       "name": "Python CDMX",
-      "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles."
+      "description": "Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/python-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Python Monterrey",
-      "description": "Comunidad de Python en la ciudad de Monterrey."
+      "description": "Comunidad de Python en la ciudad de Monterrey.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/pythonmty",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Python Puebla",
-      "description": "Comunidad de Python en el estado de Puebla. Charlas y talleres."
+      "description": "Comunidad de Python en el estado de Puebla. Charlas y talleres.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/grupo-de-python-en-puebla",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Pythonistas GDL",
-      "description": "Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking."
+      "description": "Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+          "label": "Sitio web"
+        }
+      ]
     },
     {
       "name": "Pythonista",
-      "description": "Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles."
+      "description": "Una de las comunidades de Python más grandes y activas de México. Charlas y talleres para todos los niveles.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/pythonista",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Red Hat User Group",
-      "description": "Tecnologías Red Hat, Linux Enterprise y OpenShift."
+      "description": "Tecnologías Red Hat, Linux Enterprise y OpenShift.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/red-hat-user-group-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Richard Kasperowski",
-      "description": "High-performance teams and Agile protocols."
+      "description": "High-performance teams and Agile protocols.",
+      "links": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com/o/richard-kasperowski-4717258269",
+          "label": "Eventbrite"
+        }
+      ]
     },
     {
       "name": "Rust MX",
-      "description": "Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia."
+      "description": "Comunidad dedicada al lenguaje Rust. Enfoque en seguridad, velocidad y concurrencia.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/rust-mx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Scala & FP CDMX",
-      "description": "Programación funcional y lenguaje Scala."
+      "description": "Programación funcional y lenguaje Scala.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo."
+      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "links": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/sudo_fciencias_2026",
+          "label": "Luma"
+        }
+      ]
     },
     {
       "name": "Sysarmy México",
-      "description": "Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector."
+      "description": "Hola, somos el capitulo oficial de Sysarmy en México. Una comunidad de sistemas enfocada a reunir a todos los profesionales del sector.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/sysarmy-mexico",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "The Data Pub",
-      "description": "Punto de encuentro para amantes de los datos, ciencia de datos y visualización."
+      "description": "Punto de encuentro para amantes de los datos, ciencia de datos y visualización.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/thedatapub",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "The Dojo MX",
-      "description": "Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea."
+      "description": "Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/the-dojo-mx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Unity User Group CDMX",
-      "description": "Desarrolladores de videojuegos y experiencias interactivas con Unity 3D."
+      "description": "Desarrolladores de videojuegos y experiencias interactivas con Unity 3D.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-unity-user-group",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Vim CDMX",
-      "description": "Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo."
+      "description": "Nuestro objetivo es atraer a usuarios noveles y expertos en Vim para aprender el arte de la edición modal, mejorar, o compartir flujos de trabajo.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/cdmx-vim-meetup",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "AWS User Group Mixtli",
-      "description": "Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon."
+      "description": "Comunidad de usuarios de AWS en Puebla. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/awsugmixtli",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Vive Codding Cafe",
-      "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA."
+      "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
+      "links": []
     },
     {
       "name": "Claude Community",
-      "description": "Eventos de la comunidad de Claude AI."
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
     },
     {
       "name": "Java Mexico",
-      "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java."
+      "description": "Comunidad de Java en México. Eventos, charlas técnicas y networking para desarrolladores Java.",
+      "links": []
     },
     {
       "name": "AI Builders MX",
-      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons."
+      "description": "Comunidad de AI builders en México. Eventos sobre inteligencia artificial, desarrollo y hackathons.",
+      "links": []
     },
     {
       "name": "Frutero Club",
-      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo."
+      "description": "Comunidad y plataforma enfocada en formar, conectar y activar talento tecnológico en América Latina. Eventos de builders, Web3 y desarrollo.",
+      "links": []
     },
     {
       "name": "R-Ladies CDMX",
-      "description": "Comunidad de R-Ladies en Ciudad de México. Eventos sobre programación en R, ciencia de datos y estadística para mujeres y personas de género diverso."
+      "description": "Comunidad de R-Ladies en Ciudad de México. Eventos sobre programación en R, ciencia de datos y estadística para mujeres y personas de género diverso.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/rladies-cdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Talavera Valley",
-      "description": "Comunidad que está construyendo el ecosistema de startups más ambicioso y robusto de la región de Puebla. Eventos para startups, talento emergente y capital."
+      "description": "Comunidad que está construyendo el ecosistema de startups más ambicioso y robusto de la región de Puebla. Eventos para startups, talento emergente y capital.",
+      "links": []
     },
     {
       "name": "GDG CloudMX",
-      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube."
+      "description": "Google Developer Group CloudMX. Eventos sobre tecnologías de Google Cloud y desarrollo en la nube.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/cloudmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "México City AI, Machine Learning and Computer Vision Meetup",
-      "description": "Comunidad de AI, Machine Learning y Computer Vision en Ciudad de México. Charlas técnicas, networking y eventos sobre inteligencia artificial."
+      "description": "Comunidad de AI, Machine Learning y Computer Vision en Ciudad de México. Charlas técnicas, networking y eventos sobre inteligencia artificial.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup",
+          "label": "Meetup"
+        }
+      ]
     }
   ],
   "events": [
@@ -4022,7 +4477,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -4850,7 +5305,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -6190,7 +6645,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "",
@@ -6461,7 +6916,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6624,7 +7079,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -7787,7 +8242,7 @@
         "ai",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7921,7 +8376,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8030,7 +8485,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -8058,7 +8513,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8492,7 +8947,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+      "source": "https://luma.com/sudo_fciencias_2026",
       "country": "",
       "country_code": "",
       "state": "",
@@ -8520,7 +8975,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+      "source": "https://luma.com/ai-cdmx",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -9202,6 +9657,11 @@
           "platform": "meetup",
           "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
           "label": "Ver en Meetup"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/vals4loe",
+          "label": "Ver en Luma"
         }
       ],
       "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",

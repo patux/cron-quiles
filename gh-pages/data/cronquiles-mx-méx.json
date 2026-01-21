@@ -1,15 +1,23 @@
 {
-  "generated_at": "2026-01-21T18:32:44.630931+00:00",
+  "generated_at": "2026-01-21T19:25:20.260554+00:00",
   "total_events": 4,
   "city": "MX-MÉX",
   "communities": [
     {
       "name": "Global AI CDMX",
-      "description": "Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure."
+      "description": "Capítulo local de la Global AI Community. Enfoque en Microsoft AI y tecnologías Azure.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/globalaicdmx",
+          "label": "Meetup"
+        }
+      ]
     },
     {
       "name": "Mexico Tech Week",
-      "description": "Calendario oficial de Mexico Tech Week 2025."
+      "description": "Calendario oficial de Mexico Tech Week 2025.",
+      "links": []
     }
   ],
   "events": [
