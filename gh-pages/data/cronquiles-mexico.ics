@@ -3900,9 +3900,10 @@ DESCRIPTION:DevOps Workshop\nDevopers\, muy feliz 2026\, ya tenemos tema p
  ara diferentes propósitos y coexistirán.\n\nBottlerocket y Talos Linux s
  on probablemente los más similares en filosofía: ambos deshabilitan el a
  cceso SSH por defecto y utilizan una configuración basada en API\, lo que
-  los hace muy adecuados para patrones de infraestructura inmutables.\n\nA 
- la brevedad compartiremos el link\, pero la transmisión será\, como siem
- pre\, por nuestro canal de Youtube.\n\nsaludos\,
+  los hace muy adecuados para patrones de infraestructura inmutables.\n\nLa
+  transmisión será\, como siempre\, por nuestro canal de Youtube.\n[https
+ ://www.youtube.com/watch?v=X6Yrw_zDWoc](https://www.youtube.com/watch?v=X6
+ Yrw_zDWoc)\n\nsaludos\,
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
@@ -4096,6 +4097,89 @@ DESCRIPTION:Kong/MEXICO-CITY\n**[Register Here](https://konghq.com/events/
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ajolotes en la Nube|AWS re:Invent 2025 re:Cap|México|Ciudad de M
+ éxico
+DTSTART:20260129T190000
+CATEGORIES:ai,cloud,frontend,mobile
+DESCRIPTION:AWS User Group: Ajolotes en la Nube\n## 🦎¿Te perdiste las 
+ novedades del re:Invent 2025? ¡Aquí te las contamos!\n\n¡Los **Ajolotes
+  en la Nube** estamos de regreso!\nNo te pierdas "el" re:Cap\, en donde no
+ s reuniremos para desmenuzar todos los anuncios del re:Invent llevado a ca
+ bo en Las Vegas el pasado mes de Diciembre.\n\nAsí que acompaña a **Vice
+ nte Guzmán** (AWS Community Builder) e **invitados especiales** y experto
+ s de la comunidad\, a navegar entre lo nuevo de la nube: desde la evoluci
+ ón de **Amazon Nova**\, los nuevos chips **Trainium3**\, hasta las innova
+ ciones en **Agentic AI** y Cómputo.\n\nSerá el espacio ideal para:\n\n* 
+ ⚡ **Entender los anuncios clave** sin tanto ruido.\n* 🤝 **Hacer netwo
+ rking** con otros apasionados de la tecnología.\n\n📝 Detalles del Even
+ to\n\n* 📅 **Fecha:** Jueves\, 29 de enero\n* ⏰ **Hora:** 19:00 hrs\n*
+  📍 **Lugar:** Universidad Panamericana (Campus CDMX)\n* ⚠️ **Cupo l
+ imitado**\n\n¡El llamado del Ajolote ha comenzado! Asegura tu sitio en el
+  santuario de la innovación y conecta con el corazón de la comunidad AWS
+  en la CDMX. ¡Que nadie te lo cuente! ✨🦎\n\n***\n\n**IMPORTANTE:** P
+ or políticas de acceso de la Universidad\, es necesario registrarte con t
+ u **nombre real** y presentar una **identificación oficial** a la entrada
+ . De lo contrario\, no se podrá permitir el acceso al campus.\n\n***
+LOCATION:universidad panamericana (campus cdmx)
+X-CRONQUILES-ADDRESS:Av. Javier Barros Sierra 540 - piso 3\, Park Plaza\, 
+ Torre II\, Santa Fe\, Zedec Sta Fé\, Álvaro Obregón\, 01210 Ciudad de M
+ éxico\, CDMX\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Data Pub|Data Pub Enero: Building trustworthy AI products that
+  scale|México|Ciudad de México
+DTSTART:20260129T190000
+CATEGORIES:ai,data,frontend,mobile,security
+DESCRIPTION:The Data Pub\n¡Atención Parroquian@s! 👋\n\nEstamos de reg
+ reso para arrancar con todo este 2026. Esperamos que hayan tenido un excel
+ ente descanso y que hayan disfrutado mucho con su familia y amigos. Este m
+ es contamos con la participación de Andrew Dumit\, Lead AI Engineer en Wa
+ tershed Technology. Actualmente\, Andrew trabaja en el desarrollo de la in
+ teligencia artificial que impulsa los productos de Watershed\, soluciones 
+ que ayudan a las empresas a entender y descarbonizar las cadenas de sumini
+ stro de sus productos físicos. Anteriormente\, Andrew trabajó en el sect
+ or de health tech\, donde construyó sistemas de IA y Machine Learning enf
+ ocados en ayudar a las personas a comprender las causas de sus enfermedade
+ s.\n\nEn esta ocasión\, Andrew nos presenta la charla:\n\n**Building trus
+ tworthy AI products that scale**\n\n¿De qué va la charla?\nIMPORTANTE: L
+ A CHARLA ES EN INGLÉS\n\nAl construir sistemas de inteligencia artificial
+  para dominios de alto impacto\, el instinto natural suele ser optimizar l
+ a precisión y evaluar exhaustivamente antes de lanzar un producto. Sin em
+ bargo\, la confianza de los usuarios no proviene únicamente de mejores m
+ étricas\, sino de la transparencia\, el manejo adecuado de fallos y de da
+ rle control al usuario.\n\n\\-\\-\\-\n\nLa cita es este próximo **jueves*
+ * 29 de enero (2025) a las **7:00 pm (Hora de Ciudad de México)** en "Esc
+ uela de Gobierno y Transformación Pública del Tecnológico de Monterrey"
+  [https://goo.gl/maps/eD5acVqaZ5MamH6T6](https://goo.gl/maps/eD5acVqaZ5Mam
+ H6T6) para aquellos que estén en la CDMX y también estaremos haciendo st
+ reaming del evento por nuestro canal de YouTube:\n\n[https://www.youtube.c
+ om/c/TheDataPubChannel](https://www.youtube.com/c/TheDataPubChannel/videos
+ ).\n\n¡Recuerden que al final tendremos nuestro evento de networking 🌐
+ !\n\n¡Esperamos verlos por acá!\n\nLa agenda es la siguiente:\n\n* 7:00p
+ m - 7:30pm Bienvenida y Anuncios\n* 7:30pm - 8:45pm Building trustworthy A
+ I products that scale\n* 8:45pm - 10:00pm Chelas\, pizzas y networking!\n\
+ nPueden ir reservando su espacio registrándose en el evento.\n\n\\*El lug
+ ar cuenta con estacionamiento $50 pesos tiempo indefinido.\n\n¡Esperamos 
+ verlos por acá!\n\n\\- Data Pub
+LOCATION:Escuela de Gobierno y Transformación Pública del Tecnológico d
+ e Monterrey\, Av. Revolución 756\, Ciudad de México\, CD\, Ciudad de Mé
+ xico
+X-CRONQUILES-ADDRESS:Av. Revolución 756\, Nonoalco\, Benito Juárez\, 037
+ 00 Ciudad de México\, CDMX\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pythonistas GDL|Personalización de LLMs y CLIs en Python|México|
  Jalisco
 DTSTART:20260131T003000Z
@@ -4168,6 +4252,50 @@ LOCATION:Openhub\, Diagonal Patriotismo 6 Colonia Condesa\, Mexico City\,
  CMX 06500\, Mexico\, Mexico City\, CMX
 X-CRONQUILES-ADDRESS:Diagonal Patriotismo 6\, Hipódromo Condesa\, Cuauht
  émoc\, 06170 Ciudad de México\, CDMX\, México
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambi
+ ando como desarrollar código|México|Ciudad de México
+DTSTART:20260212T190000
+CATEGORIES:ai,cloud,frontend,security
+DESCRIPTION:AWS User Group: Ajolotes en la Nube\n# 🚀 Kiro Deep Dive: Do
+ mina el IDE Agéntico con Expertos de AWS\n\n¡El desarrollo de software h
+ a evolucionado! Te invitamos a una sesión técnica exclusiva sobre **Kiro
+ **\, el IDE agéntico diseñado para potenciar el ciclo de vida del softwa
+ re garantizando código de alta calidad.\nAcompañanos en esta **inmersió
+ n profunda** donde exploraremos desde la nueva CLI hasta estrategias de im
+ plementación a gran escala.\n\n***\n\n### 🎙️ Ponentes Invitados\n\nC
+ ontaremos con la participación especial de dos expertos de la industria\,
+  miembros de la comunidad técnica interna de AWS **"Next Generation Devel
+ oper Experience"**:\n\n* **César Bautista:** Arquitecto de Soluciones en 
+ **AWS** para el sector de Telco.\n* **Manuel Quijano:** Arquitecto de Solu
+ ciones Sr en **AWS** para el sector Financiero.\n\n***\n\n### 🎯 ¿Qué 
+ veremos en la sesión?\n\n1. **Demostración Práctica de la Nueva CLI:** 
+ Exploración hands-on de las capacidades más recientes y flujos de trabaj
+ o en tiempo real.\n2. **Casos del Mundo Real:** Estrategias de implementac
+ ión y mejores prácticas de integración.\n3. **Escalando la IA en el Des
+ arrollo:** Consejos para equipos y estrategias de adopción organizacional
+ .\n4. **Q&A Interactivo:** Resolución de dudas específicas de tu context
+ o técnico.\n\n***\n\n### 💻 ¡Importante: Trae tu equipo!\n\nPara parti
+ cipar en las dinámicas y probar las herramientas en tiempo real\, **es fu
+ ndamental que traigas tu laptop** con los siguientes requisitos listos:\n\
+ n1. **Instalar Kiro CLI** (preferiblemente) o el IDE: [Descargar aquí](ht
+ tps://kiro.dev/downloads/)\n2. **Configurar Autenticación:** Haz login co
+ n GitHub o Builder ID siguiendo esta [Guía de Inicio](https://kiro.dev/do
+ cs/getting-started/authentication/)\n\n**¡No pierdas la oportunidad de es
+ tar a la vanguardia del AI-Assisted Software Development junto a líderes 
+ de AWS!**
+LOCATION:Periférico Blvrd Manuel Ávila Camacho 261\, Periférico Blvrd M
+ anuel Ávila Camacho 261\, Ciudad de México\, CD\, Ciudad de México
+X-CRONQUILES-ADDRESS:Periférico Blvrd Manuel Ávila Camacho 261\, Puerta 
+ Polanco\, Polanco I Secc\, Miguel Hidalgo\, 11510 Ciudad de México\, CDMX
+ \, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
@@ -4529,6 +4657,29 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México
 DTSTART:20261020T180000
+CATEGORIES:ai
+DESCRIPTION:AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent
+  live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nh
+ ttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps:/
+ /www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. 
+ You won’t just learn about AI—you’ll learn how to use it to your adv
+ antage.\nThis event is just a glimpse into these topics. Our group dives i
+ nto AI from all angles with monthly events and workshops that explore a wi
+ de range of themes.
+LOCATION:Casa Rafael Galván\, Zacatecas 94\, Col Roma Norte\,\, Mexico Ci
+ ty\, Mexico City
+X-CRONQUILES-ADDRESS:Casa Rafael Galván\, Zacatecas 94\, Col Roma Norte\,
+ \, Mexico City\, Mexico City
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México
+DTSTART:20261117T180000
 CATEGORIES:ai
 DESCRIPTION:AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent
   live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nh

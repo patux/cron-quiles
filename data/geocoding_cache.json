@@ -16276,5 +16276,421 @@
       "street_address",
       "subpremise"
     ]
+  },
+  "Openhub, Diagonal Patriotismo 6, Colonia Condesa, Mexico City, CMX 06500, Mexico City, CMX": {
+    "address_components": [
+      {
+        "long_name": "6",
+        "short_name": "6",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Diagonal Patriotismo",
+        "short_name": "Diagonal Patriotismo",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Hipódromo Condesa",
+        "short_name": "Hipódromo Condesa",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "06170",
+        "short_name": "06170",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Diagonal Patriotismo 6, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.4075534,
+        "lng": -99.17872249999999
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.40885663029151,
+          "lng": -99.1774627197085
+        },
+        "southwest": {
+          "lat": 19.4061586697085,
+          "lng": -99.18016068029151
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.407492,
+          "longitude": -99.17884219999999
+        }
+      }
+    ],
+    "place_id": "ChIJQY9Pslr_0YURRQ7InylPs5I",
+    "plus_code": {
+      "compound_code": "CR5C+2G Ciudad de México, CDMX, México",
+      "global_code": "76F2CR5C+2G"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
+  },
+  "universidad panamericana (campus cdmx)": {
+    "address_components": [
+      {
+        "long_name": "Av. Javier Barros Sierra 540 - piso 3",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "Torre II",
+        "short_name": "Torre II",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Park Plaza",
+        "short_name": "Park Plaza",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Santa Fe",
+        "short_name": "Santa Fe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Zedec Santa Fé",
+        "short_name": "Zedec Sta Fé",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "01210",
+        "short_name": "01210",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. Javier Barros Sierra 540 - piso 3, Park Plaza, Torre II, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.3644569,
+        "lng": -99.259723
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.3657661302915,
+          "lng": -99.25871011970848
+        },
+        "southwest": {
+          "lat": 19.36306816970849,
+          "lng": -99.26140808029149
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.3641729,
+          "longitude": -99.2603424
+        },
+        "restricted_travel_modes": [
+          "WALK"
+        ]
+      },
+      {
+        "location": {
+          "latitude": 19.3646269,
+          "longitude": -99.25999770000001
+        },
+        "restricted_travel_modes": [
+          "DRIVE"
+        ]
+      }
+    ],
+    "place_id": "ChIJRxIVPMMA0oUR7wT2jq7TU-Y",
+    "plus_code": {
+      "compound_code": "9P7R+Q4 Ciudad de México, CDMX, México",
+      "global_code": "76F29P7R+Q4"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ]
+  },
+  "Periférico Blvrd Manuel Ávila Camacho 261, Periférico Blvrd Manuel Ávila Camacho 261, Ciudad de México, CD, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Periférico Boulevard Manuel Ávila Camacho",
+        "short_name": "Periférico Blvrd Manuel Ávila Camacho",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Puerta Polanco",
+        "short_name": "Puerta Polanco",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Polanco I Sección",
+        "short_name": "Polanco I Secc",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "11510",
+        "short_name": "11510",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Periférico Blvrd Manuel Ávila Camacho 261, Puerta Polanco, Polanco I Secc, Miguel Hidalgo, 11510 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.438375,
+        "lng": -99.21348549999999
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.43918208029151,
+          "lng": -99.21214821970848
+        },
+        "southwest": {
+          "lat": 19.4364841197085,
+          "lng": -99.2148461802915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.4373167,
+          "longitude": -99.21324109999999
+        },
+        "restricted_travel_modes": [
+          "WALK"
+        ]
+      },
+      {
+        "location": {
+          "latitude": 19.43829,
+          "longitude": -99.21369209999999
+        },
+        "restricted_travel_modes": [
+          "DRIVE"
+        ]
+      }
+    ],
+    "partial_match": true,
+    "place_id": "ChIJVTJXiyIC0oURZ5nUoQfaoKQ",
+    "types": [
+      "premise",
+      "street_address"
+    ]
+  },
+  "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, Av. Revolución 756, Ciudad de México, CD, Ciudad de México": {
+    "address_components": [
+      {
+        "long_name": "756",
+        "short_name": "756",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenida Revolución",
+        "short_name": "Av. Revolución",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Nonoalco",
+        "short_name": "Nonoalco",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "03700",
+        "short_name": "03700",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Av. Revolución 756, Nonoalco, Benito Juárez, 03700 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.3812471,
+        "lng": -99.1867668
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 19.3826085802915,
+          "lng": -99.18553901970849
+        },
+        "southwest": {
+          "lat": 19.3799106197085,
+          "lng": -99.1882369802915
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.3812653,
+          "longitude": -99.1869428
+        }
+      }
+    ],
+    "partial_match": true,
+    "place_id": "ChIJ7_2nZwv_0YURubTT6nXh8R4",
+    "plus_code": {
+      "compound_code": "9RJ7+F7 Ciudad de México, CDMX, México",
+      "global_code": "76F29RJ7+F7"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
   }
 }
