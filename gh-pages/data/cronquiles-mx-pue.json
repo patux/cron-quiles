@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-01-21T18:32:44.635627+00:00",
+  "generated_at": "2026-01-21T19:25:20.265376+00:00",
   "total_events": 12,
   "city": "Puebla",
   "communities": [
     {
       "name": "PyTalavera",
-      "description": "Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región."
+      "description": "Comunidad Pythonista en Puebla. Eventos, charlas y networking para entusiastas de Python en la región.",
+      "links": []
     },
     {
       "name": "Talavera Valley",
-      "description": "Comunidad que está construyendo el ecosistema de startups más ambicioso y robusto de la región de Puebla. Eventos para startups, talento emergente y capital."
+      "description": "Comunidad que está construyendo el ecosistema de startups más ambicioso y robusto de la región de Puebla. Eventos para startups, talento emergente y capital.",
+      "links": []
     }
   ],
   "events": [

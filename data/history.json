@@ -519,6 +519,11 @@
         "platform": "meetup",
         "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
         "label": "Ver en Meetup"
+      },
+      {
+        "platform": "luma",
+        "url": "https://luma.com/vals4loe",
+        "label": "Ver en Luma"
       }
     ],
     "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
@@ -1192,7 +1197,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1250,7 +1255,7 @@
     "dtstart": "2026-01-19T18:00:00+00:00",
     "dtend": "2026-01-28T20:00:00+00:00",
     "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1686,7 +1691,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1715,7 +1720,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -1823,7 +1828,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -1958,7 +1963,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3120,7 +3125,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3281,7 +3286,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-OQhnPassdSdU1UG",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -3554,7 +3559,7 @@
     "tags": [
       "ai"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -4895,7 +4900,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "",
@@ -5859,7 +5864,7 @@
       "ai",
       "frontend"
     ],
-    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-2gq3mjgfAclpoCp",
+    "source": "https://luma.com/ai-cdmx",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
