@@ -250,6 +250,36 @@
     "hash_key": "to be announced por anunciar_2026-04-22T00:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|March 19 - Women in AI Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nHear talks from experts on the latest topics in AI, ML, and computer vision on March 19th.\n\n**Date and Location**\n\nMar 19, 2026\n9 - 11 AM Pacific\nOnline. **[Register for Zoom!](https://voxel51.com/events/women-in-ai-meetup-march-19-2026)**\n\n**Towards Reliable Clinical AI: Evaluating Factuality, Robustness, and Real-World Performance of Large Language Models**\n\nLarge language models are increasingly deployed in clinical settings, but their reliability remains uncertain—they hallucinate facts, behave inconsistently across instruction phrasings, and struggle with evolving medical terminology. In my talk, I address methods to systematically evaluate clinical LLM reliability across four dimensions aligned with how healthcare professionals actually work: verifying concrete facts (FactEHR), ensuring stable guidance across instruction variations (instruction sensitivity study showing up to 0.6 AUROC variation), integrating up-to-date knowledge (BEACON improving biomedical NER by 15%), and assessing real patient conversations (PATIENT-EVAL revealing models abandon safety warnings when patients seek reassurance). These contributions establish evaluation standards spanning factuality, robustness, knowledge integration, and patient-centered communication, charting a path toward clinical AI that is safer, more equitable, and more trustworthy.\n\n*About the Speaker*\n\n[Monica Munnangi](https://www.linkedin.com/in/monicamunnangi/) is a doctoral student at the Khoury College of Computer Sciences at Northeastern University, advised by Saiph Savage. Her doctoral research, which she began in 2021 and expects to complete in 2026, focuses on multi-modal machine learning for healthcare. After being introduced to artificial intelligence and machine learning during her undergraduate studies, Munnangi earned her master’s degree from UMass Amherst.\n\n**Neural BRDFs: Learning Compact Representations for Material Appearance**\n\nAccurately modeling how light interacts with real-world materials remains a central challenge in rendering. Bidirectional Reflectance Distribution Functions (BRDFs) describe how materials reflect light as a function of viewing and lighting directions. Creating realistic digital materials has traditionally required choosing between fast parametric models that can't capture real-world complexity, or massive measured BRDFs that are expensive to acquire and store. Neural BRDFs address this challenge by learning continuous reflectance functions from data, exploiting directional correlations and symmetry to achieve significant compression while maintaining rendering quality. In this talk, we examine how neural networks can encode complex material behavior compactly, why this matters for rendering and material capture, and how neural BRDFs fit into the broader evolution toward data-driven graphics.\n\n*About the Speaker*\n\n[Manushree Gangwar](https://www.linkedin.com/in/manushreegangwar/) is a Machine Learning Engineer at Voxel51 working on data-centric visual AI. She holds an MS in Computer Science from Columbia University and has previously worked in robotics, autonomous driving, and AR/VR, with a focus on scene understanding and 3D reconstruction.\n\n**Supercharging AI agents with evaluations**\n\nReliable deployment of AI agents depends on rigorous evaluation, which must shift from a nice-to-have QA step to a core engineering discipline. Robust evaluation is essential for safety, predictability, misuse resistance, and sustained user trust. To meet this bar, Evals must be deeply integrated into the agent development lifecycle. This talk will outline how simulation-based testing—using high-fidelity, controllable environments—provides the next generation of evaluation infrastructure for production-ready AI agents.\n\n*About the Speaker*\n\n[Priya Venkat](https://www.linkedin.com/in/priya26/), PhD, is a Senior AI Manager at Intuit, where she leads teams that build and scale ML and Agentic AI systems for finance. Her work integrates cutting-edge agentic workflows and robust evaluation systems to drive business impact while ensuring AI safety and reliability. Priya is a strong advocate of responsible AI, and actively mentors the next generation of AI scientists and engineers.\n\n**Language Diffusion Models**\n\nAutoregressive models (ARMs) are widely regarded as the cornerstone of large language models (LLMs). Challenge this notion by introducing LLaDA, a diffusion model trained from scratch under the pre-training and supervised fine-tuning (SFT) paradigm. LLaDA models distributions through a forward data masking process and a reverse process, parameterized by a vanilla Transformer to predict masked tokens. Optimizing a likelihood bound provides a principled generative approach for probabilistic inference. Across extensive benchmarks, LLaDA demonstrates strong scalability, outperforming self-constructed ARM baselines. Remarkably, LLaDA 8B is competitive with strong LLMs like LLaMA3 8B in in-context learning and, after SFT, exhibits impressive instruction-following abilities in case studies such as multi-turn dialogue.\n\n*About the Speaker*\n\n[Jayita Bhattacharyya](https://www.linkedin.com/in/jayita-bhattacharyya) is a AI ML Nerd with a blend of technical speaking & hackathon wizardry! Applying tech to solve real-world problems. The work focus these days is on generative AI. Helping software teams incorporate AI into transforming software engineering.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312787362/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312787362/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-03-19T10:00:00-06:00",
+    "dtend": "2026-03-19T12:00:00-06:00",
+    "tags": [
+      "ai",
+      "data",
+      "frontend"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "march 19 women in ai meetup_2026-03-19T16:00:00+00:00"
+  },
+  {
     "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",
     "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
     "url": "https://www.meetup.com/ai-cdmx/events/312759812/",
@@ -302,6 +332,40 @@
     "city_code": "guadalajara",
     "address": "Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., México",
     "hash_key": "hackgdl 2026_2026-03-14T14:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|March 5 - AI, ML and Computer Vision Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date and Location**\n\nMar 5, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-march-5-2026)**\n\n**MOSPA: Human Motion Generation Driven by Spatial Audio**\n\nEnabling virtual humans to dynamically and realistically respond to diverse auditory stimuli remains a key challenge in character animation, demanding the integration of perceptual modeling and motion synthesis. Despite its significance, this task remains largely unexplored. Most previous works have primarily focused on mapping modalities like speech, audio, and music to generate human motion. As of yet, these models typically overlook the impact of spatial features encoded in spatial audio signals on human motion.\n\nTo bridge this gap and enable high-quality modeling of human movements in response to spatial audio, we introduce the first comprehensive Spatial Audio-Driven Human Motion (SAM) dataset, which contains diverse and high-quality spatial audio and motion data. For benchmarking, we develop a simple yet effective diffusion-based generative framework for human MOtion generation driven by SPatial Audio, termed MOSPA, which faithfully captures the relationship between body motion and spatial audio through an effective fusion mechanism. Once trained, MOSPA can generate diverse, realistic human motions conditioned on varying spatial audio inputs. We perform a thorough investigation of the proposed dataset and conduct extensive experiments for benchmarking, where our method achieves state-of-the-art performance on this task.\n\n*About the Speaker*\n\n[Zhiyang (Frank) Dou](https://www.linkedin.com/in/zhiyang-frank-dou-0259111b3/) is a Ph.D. student at MIT CSAIL, advised by Prof. Wojciech Matusik. I work with the Computational Design and Fabrication Group and the Computer Graphics Group.\n\n**Securing the Autonomous Future: Navigating the Intersection of Agentic AI, Connected Devices, and Cyber Resilience**\n\nWith billions of devices now in our infrastructure and emerging as autonomous agents (AI), we face a very real question: How can we create intelligent systems that are both secure and trusted? This talk will explore the intersection of agentic AI and IoT and demonstrate how the same AI systems can provide robust defense mechanisms. At its core, however, this is a challenge about trusting people with technology, ensuring their safety, and providing accountability. Therefore, creating a new way of thinking is required, one in which security is built in, and where autonomous action has oversight; and, ultimately, innovation leads to greater human well-being.\n\n*About the Speaker*\n\n[Samaresh Kumar Singh](https://www.linkedin.com/in/samaresh-singh-9772ba23/) is an engineering principal at HP Inc. with more than 21 years of experience in designing and implementing large-scale distributed systems, cloud native platform systems, and edge AI / ML systems. His expertise includes agentic AI systems, GenAI / LLMs, Edge AI, federated and privacy preserving learning, and secure hybrid cloud / edge computing.\n\n**Plugins as Products: Bringing Visual AI Research into Real-World Workflows with FiftyOne**\n\nVisual AI research often introduces new datasets, models, and analysis methods, but integrating these advances into everyday workflows can be challenging. FiftyOne is a data-centric platform designed to help teams explore, evaluate, and improve visual AI, and its plugin ecosystem is how the platform scales beyond the core. In this talk, we explore the FiftyOne plugin ecosystem from both perspectives: how users apply plugins to accelerate data-centric workflows, and how researchers and engineers can package their work as plugins to make it easier to share, reproduce, and build upon. Through practical examples, we show how plugins turn research artifacts into reusable components that integrate naturally into real-world visual AI workflows.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\.\n\n**Transforming Business with Agentic AI**\n\nAgentic AI is reshaping business operations by employing autonomous systems that learn, adapt, and optimize processes independently of human input. This session examines the essential differences between traditional AI agents and Agentic AI, emphasizing their significance for project professionals overseeing digital transformation initiatives. Real-world examples from eCommerce, insurance, and healthcare illustrate how autonomous AI achieves measurable outcomes across industries. The session addresses practical orchestration patterns in which specialized AI agents collaborate to resolve complex business challenges and enhance operational efficiency. Attendees will receive a practical framework for identifying high-impact use cases, developing infrastructure, establishing governance, and scaling Agentic AI within their organizations.\n\n*About the Speaker*\n\n[Joyjit Roy](https://www.linkedin.com/in/royjoyjit/) is a senior technology and program management leader with over 21 years of experience delivering enterprise digital transformation, cloud modernization, and applied AI programs across insurance, financial services, and global eCommerce.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312769338/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312769338/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-03-05T11:00:00-06:00",
+    "dtend": "2026-03-05T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "devops",
+      "frontend",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "march 5 ai ml and computer vision meetup_2026-03-05T16:00:00+00:00"
   },
   {
     "title": "KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco",
@@ -416,6 +480,37 @@
     "hash_key": "casa frutero coworking frutal 7_2026-02-18T16:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Feb 18 - Feedback-Driven Annotation Pipelines for End-to-End ML Workflows|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nIn this technical workshop, we’ll show how to build a feedback-driven annotation pipeline for perception models using **[FiftyOne](https://docs.voxel51.com/index.html)**. We’ll explore real model failures and data gaps, and turn them into focused annotation tasks that then route through a repeatable workflow for labeling and QA. The result is an end-to-end pipeline keeping annotators, tools, and models aligned and closing the loop from annotation, curation, back to model training and evaluation.\n\n**Time and Location**\n\nFeb 18, 2026\n10 - 11 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-feedback-driven-annotation-pipelines-for-end-to-end-ml-workflows-february-18-2026)**\n\n**What you'll learn**\n\n* **Techniques for labeling the data that matters the most** for annotation time and cost savings\n* **Structure human-in-the-loop workflows** for finding and fixing model errors, data gaps, and targeted relabeling instead of bulk labeling\n* **Combine auto-labeling and human review** in a single, feedback-driven pipeline for perception models\n* **Use label schemas and metadata as “data contracts”** to enforce consistency between annotators, models, and tools, especially for multimodal data\n* **Detect and manage schema drift** and tie schema versions to dataset and model versions for reproducibility\n* **QA and review steps** that surface label issues early and tie changes back to model behavior\n* **An annotation architecture** that can accommodate new perception tasks and feedback signals without rebuilding your entire data stack",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312491652/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312491652/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-02-18T12:00:00-06:00",
+    "dtend": "2026-02-18T14:00:00-06:00",
+    "tags": [
+      "ai",
+      "data",
+      "frontend",
+      "web"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "feb 18 feedback driven annotation pipeli_2026-02-18T18:00:00+00:00"
+  },
+  {
     "title": "AI/IA CDMX|Campeón Peso Ligero IA para la Salud/Lightweight Champion AI for Health|México|Ciudad de México",
     "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nSpanish with live English subtitles\nEste evento será en español con subtítulos en inglés en vivo.\n\n\\*\\*Presencial y en vivo en YouTube/In-person and live on YouTube:\\*\\*\nhttps://www.youtube.com/@AICDMX\n\nEnglish Version Below\n6:00 p.m. Apertura y registro\n6:30 p.m. Arranca la conversación\n7:15 p.m. Preguntas y respuestas con el público\n7:30 p.m. Networking\n8:00–9:30 p.m. After party en un lugar cercano (a 5 min caminando; hay\nespacio interior/exterior, trae chamarra y zapatos para comer y beber)\n\nCuando los datos son escasos y la infraestructura es poco confiable, “más grande” no siempre es mejor. Ahí es donde la IA ligera puede convertirse en una campeona para la salud.\nAxell Albano Gutiérrez Ramírez es ingeniero biomédico y vio de cerca cómo un diagnóstico inicial equivocado puede afectar a toda una familia.\n\nEn muchas clínicas rurales y de bajos recursos, los pacientes muestran señales tempranas (temblores, cambios en la marcha, deterioro cognitivo), pero los especialistas están a horas de distancia y las listas de espera se extienden por meses.\n\nEn esta charla, Axell comparte un camino distinto al hype de “modelos más grandes + datasets masivos”: construir herramientas prácticas de apoyo al diagnóstico que puedan correr en hardware básico, funcionar sin conexión y aprender con decenas o cientos de registros de pacientes, no millones.\n\n\\#\\# Lo que veremos\n• \\*\\*Cuándo los pocos datos pueden ganar\\*\\* - Cómo los modelos simples y eficientes en datos pueden superar al deep learning en escenarios de datos limitados (y cuándo no)\n• \\*\\*Diseño guiado por restricciones\\*\\* - Construir para el sistema de salud que existe (ancho de banda limitado, energía inestable, dispositivos básicos), no para el de los papers\n• \\*\\*Explicabilidad útil para el personal clínico\\*\\* - Qué debería significar “explicable” en la práctica para apoyar decisiones, generar confianza y adoptar de forma segura\n• \\*\\*Del modelo al flujo de trabajo\\*\\* - Cómo convertir un prototipo en algo que un médico general realmente pueda usar bajo restricciones reales\n• \\*\\*Equidad, límites y responsabilidad\\*\\* - Cómo ampliar el acceso sin sobreprometer: IA como apoyo, no como reemplazo\n\nBasado en su investigación de maestría en el CIC IPN, Axell recorrerá un enfoque de prediagnóstico de Parkinson a partir del análisis con IA de patrones geométricos trazados a mano, algo que un médico general puede aplicar con papel y un teléfono, sin infraestructura en la nube ni equipo especializado.\n\n\\#\\# Sobre Axell\nhttps://www.linkedin.com/in/axell-albano-guti%C3%A9rrez-ram%C3%ADrez-2a30b11a8\nhttps://orcid.org/0009-0008-6197-5422\nAxell Albano Gutiérrez Ramírez es ingeniero biomédico de México y actualmente cursa la maestría en Ciencias de la Computación (MCIC) en el CIC IPN, en la Ciudad de México. Su tesis se enfoca en aprendizaje de máquina para apoyo al diagnóstico, específicamente un sistema de prediagnóstico de la enfermedad de Parkinson mediante el análisis de patrones geométricos trazados a mano.\n\nSu trabajo enfatiza IA práctica para la accesibilidad en salud: modelos ligeros adecuados para entornos clínicos de bajos recursos sin acceso a especialistas. Este año, en París, participó en el ICMV 2025, uno de los congresos internacionales a los que asistió para compartir avances de su investigación sobre el uso de trazos como apoyo en el diagnóstico de Parkinson.\n\nHa presentado en congresos internacionales, incluidos CIESEM 2021, EDULEARN24 (Mallorca) e ICMV 2025 (París, Francia), y ha sido coautor de trabajos sobre diagnósticos basados en IA, defendiendo enfoques simples y eficientes en datos cuando los conjuntos disponibles son limitados.\n\n\\*\\*Schedule\\*\\*\n6:00 p.m. Doors & check-in\n6:30 p.m. Conversation begins\n7:15 p.m. Audience Q&A\n7:30 p.m. Networking\n8:00–9:30 p.m. After party at a nearby spot (5 min walk; indoor/outdoor, bring a jacket and your drinking/eating shoes)\n\nWhen data is scarce and infrastructure is unreliable, “bigger” isn’t better. That’s where lightweight AI can become a champion for health.\nAxell Albano Gutiérrez Ramírez is a biomedical engineer who saw how a wrong initial diagnosis can ripple through a family. In many rural and low‑resource clinics, patients show early signs (tremors, gait changes, cognitive shifts), but specialists are hours away and waitlists stretch for months.\n\nIn this talk, Axell shares a different path from the “bigger models + massive datasets” hype: building practical diagnostic support that can run on basic hardware, work offline, and learn from dozens or hundreds of patient records, not millions.\n\nWe will cover his wins and losses. What he learned along the way and...\n• \\*\\*When small data can win\\*\\* - How simple, data‑efficient models can outperform deep learning in limited‑data settings (and when they can’t)\n• \\*\\*Constraint-driven design\\*\\* - Building for the healthcare system that exists (limited bandwidth, unreliable power, basic devices), not the one in research papers\n• \\*\\*Explainability clinicians can use\\*\\* - What “explainable” should mean in practice for decision support, trust, and safe adoption\n• \\*\\*From model to workflow\\*\\* - Turning a prototype into something a general practitioner can actually use under real constraints\n• \\*\\*Equity, limits, and responsibility\\*\\* - How to expand access without overclaiming: AI as support, not replacement\nGrounded in his master’s research at CIC IPN, Axell will walk through a Parkinson’s pre‑diagnosis approach based on AI analysis of hand‑drawn geometric patterns, something a general practitioner can administer with paper and a phone, without cloud infrastructure or specialized equipment.\n\n\\#\\# About Axell\nhttps://www.linkedin.com/in/axell-albano-guti%C3%A9rrez-ram%C3%ADrez-2a30b11a8\nhttps://orcid.org/0009-0008-6197-5422\n\nAxell Albano Gutiérrez Ramírez is a biomedical engineer from Mexico currently pursuing his master's degree in Computer Science (MCIC) at CIC IPN in Mexico City. His thesis focuses on machine learning for diagnostic support, specifically a pre‑diagnostic system for Parkinson’s disease through analysis of hand‑drawn geometric patterns.\n\nHis work emphasizes practical AI for healthcare accessibility: lightweight models suitable for low‑resource clinical settings without access to specialists. This year, in Paris, he took part in ICMV 2025, one of the international conferences he attended to share progress in his research on using hand‑drawn strokes to support Parkinson’s diagnosis.\nHe has presented at international conferences including CIESEM 2021, EDULEARN24 (Mallorca), and ICMV 2025 (Paris, France), and co‑authored work on AI‑driven diagnostics, advocating for simple, data‑efficient approaches when datasets are limited.",
     "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
@@ -424,11 +519,6 @@
         "platform": "meetup",
         "url": "https://www.meetup.com/ai-cdmx/events/312655797/",
         "label": "Ver en Meetup"
-      },
-      {
-        "platform": "luma",
-        "url": "https://luma.com/vals4loe",
-        "label": "Ver en Luma"
       }
     ],
     "location": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
@@ -485,6 +575,73 @@
     "hash_key": "descubre kiro el ide agentico que est ca_2026-02-13T00:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Feb 12 - AI, ML and Computer Vision Meetup en Español|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\nFeb 12, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-en-espanol-february-12-2026)**\n\n**AI On-Device: Potencia + Privacidad**\n\nDescubre como puedes aprovechar los modelos de AI para ejecutarlos directamente en tu dispositivo, ofreciendo velocidad, autonomía y privacidad real: los datos nunca abandonan tu teléfono. En esta charla veremos cómo funciona, qué posibilidades abre y por qué marca un antes y un después en la relación entre usuario y tecnología.\n\n*About the Speaker*\n\n[Eury Pérez Beltré](https://www.linkedin.com/in/euryperez/) en Android con 14 años de experiencia en el sector. Ha trabajado con marcas como Under Armour, BeachBody, Citizen, AdAction, Mode Mobile entre otros.\n\n**The magic of video generation! (Spanish)**\n\nVideo generation is no longer limited to cloud platforms like Google Veo3 and others!\n\nYou can also do it with open-source software—no cost and no restrictions!\nIn this talk, you’ll discover the node-based interface ComfyUI with models like Wan2.1. I’ll also give you a quick demo of an open-source extension I developed, which has gained huge popularity in the community in just one month (1.2k stars on GitHub).\n\nAll of this LIVE!\n\n*About the Speaker*\n\n[Crystian Bietti](https://www.linkedin.com/in/crystian/) apasionado por la tecnología en todos sus sabores.\nHoy: Maker especializado con IA Generativa (Audiovisual + Agentes + Automatización + Técnico + Ponente + Divulgador)\nAyer: Arquitecto de software de aplicaciones empresariales a gran escala.\n\n**Digital Twins: Building High-Fidelity Virtual Worlds from Real-World Data**\n\nDigital twins provide a powerful framework for creating high-fidelity virtual representations of real environments, enabling new forms of analysis, interaction, and decision-making. This talk will introduce the key principles behind building robust digital twins from real-world data, including capture workflows, reconstruction methods, and scalability considerations. I will present several use cases across domains such as cultural heritage, industrial environments and operations, virtual production, and interactive or gamified applications, illustrating how digital twins deliver measurable value in diverse contexts. The session will highlight how these models can integrate with computational pipelines, opening the door to applications that require high realism and scientific reliability. This general overview will establish a foundation that accommodates deeper exploration of specific applications during the live presentation.\n\n*About the Speaker*\n\n[Rubén Bernardino](https://www.linkedin.com/in/ruben-bernardino/) is an industrial engineer with nearly 30 years of international experience in engineering, cultural heritage, and emerging media technologies. As the founder and Project Lead at Dronícola, he develops high-fidelity digital twins and spatial-computing workflows that combine drones, LiDAR, photogrammetry, artificial intelligence, and game engines such as Unreal Engine for applications in virtual production, immersive environments, training, and smart-industry operations. His background includes senior engineering roles at General Motors, Ford, and Fiat Chrysler, complemented by studies in digital innovation and XR technologies at Stanford, Wageningen, and Picterra University.\n\n**A Practical Pipeline for Synthetic Data with Nano Banana Pro + FiftyOne**\n\nMost computer-vision failures come from the rare cases, the dark corners, odd combinations, and edge conditions we never capture enough in real datasets. In this session, we walk through a practical end-to-end pipeline for generating targeted synthetic data using Google’s Nano Banana Pro and managing it with FiftyOne. We’ll explore how to translate dataset gaps into generation prompts, create thousands of high-quality synthetic images, automatically enrich them with metadata, and bring everything into FiftyOne for inspection, filtering, and validation. By the end, you’ll understand how to build a repeatable synthetic-first workflow that closes real vision gaps and improves model performance on the scenarios that matter most.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\. I started as a software developer, moved into AI, led teams, and served as CTO\\. Today, I connect code and community to build open, production\\-ready AI, making technology simple, accessible, and reliable\\.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312259135/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312259135/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-02-12T11:00:00-06:00",
+    "dtend": "2026-02-12T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "devops",
+      "frontend",
+      "mobile",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "feb 12 ai ml and computer vision meetup _2026-02-12T16:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Feb 11 - Visual AI for Video Use Cases|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual Meetup to hear talks from experts on cutting-edge topics at the intersection of Visual AI and video use cases.\n\n**Time and Location**\n\nFeb 11, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/visual-ai-for-video-use-cases-february-11-2026)**\n\n**VIDEOP2R: Video Understanding from Perception to Reasoning**\n\nReinforcement fine-tuning (RFT), a two-stage framework consisting of supervised fine-tuning (SFT) and reinforcement learning (RL) has shown promising results on improving reasoning ability of large language models (LLMs). Yet extending RFT to large video language models (LVLMs) remains challenging. We propose VideoP2R, a novel process-aware video RFT framework that enhances video reasoning by modeling perception and reasoning as distinct processes. In the SFT stage, we develop a three-step pipeline to generate VideoP2R-CoT-162K, a high-quality, process-aware chain-of-thought (CoT) dataset for perception and reasoning.\n\nIn the RL stage, we introduce a novel process-aware group relative policy optimization (PA-GRPO) algorithm that supplies separate rewards for perception and reasoning. Extensive experiments show that VideoP2R achieves state-of-the-art (SotA) performance on six out of seven video reasoning and understanding benchmarks. Ablation studies further confirm the effectiveness of our process-aware modeling and PA-GRPO and demonstrate that model's perception output is information-sufficient for downstream reasoning.\n\n*About the Speaker*\n\n[Yifan Jiang](https://www.linkedin.com/in/yifanj921/) is a third-year Ph.D. student in the Information Science Institute at the University of Southern California (USC-ISI), advised by Dr. Jay Pujara, focusing on natural language processing, commonsense reasoning and multimodality large language models.\n\n**Layer-Aware Video Composition via Split-then-Merge**\n\nSplit-then-Merge (StM) is a novel generative framework that overcomes data scarcity in video composition by splitting unlabeled videos into separate foreground and background layers for self-supervised learning. By utilizing a transformation-aware training pipeline with multi-layer fusion, the model learns to realistically compose dynamic subjects into diverse scenes without relying on expensive annotated datasets. This presentation will cover the problem of video composition and the details of StM, an approach looking at this problem from a generative AI perspective. We will conclude by demonstrating how StM is working, and outperforming state-of-the-art methods in both quantitative benchmarks and qualitative evaluations.\n\n*About the Speaker*\n\n[Ozgur Kara](https://www.linkedin.com/in/ozgurr-kara/) is a 4th year Computer Science PhD student at the University of Illinois Urbana-Champaign (UIUC), advised by Founder Professor James M. Rehg. His research builds the next generation of video AI by tackling three core challenges: efficiency, controllability, and safety.\n\n**Video-native VLMs and control**\n\nWe show how image-native vision–language models can be extended to support native video understanding, structured reasoning, tool use, and robotics. Our approach focuses on designing data, modeling, and training recipes to optimize for multimodality input and interaction patterns - treating vision and perception as a first class citizens. We discuss lessons learned from scaling these methods in an open-source model family and their implications for building flexible multimodal systems.\n\n*About the Speaker*\n\n[Akshat Shrivastava](https://www.linkedin.com/in/akshatsh/) is the CTO and co-founder of Perceptron, previously leading AR On-Device at Meta and conducting research at UW.\n\n**Video Intelligence Is Going Agentic**\n\nVideo content has become ubiquitous in our digital world, yet the tools for working with video have remained largely unchanged for decades. This talk explores how the convergence of foundation models and agent architectures is fundamentally transforming video interaction and creation. We'll examine how video-native foundation models, multimodal interfaces, and agent transparency are reshaping enterprise media workflows through a deep dive into Jockey, a pioneering video agent system.\n\n*About the Speaker*\n\n[James Le ](https://www.linkedin.com/in/khanhnamle94)currently leads the developer experience function at TwelveLabs - a startup building foundation models for video understanding. He previously operated in the MLOps space and ran a blog/podcast on the Data & AI infrastructure ecosystem.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312540438/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312540438/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-02-11T11:00:00-06:00",
+    "dtend": "2026-02-11T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "frontend",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "feb 11 visual ai for video use cases_2026-02-11T16:00:00+00:00"
+  },
+  {
     "title": "OutGeekWomen - Badass Pros|Mujeres en Tech Ciudad de México - OutGeekWomen|México|Ciudad de México",
     "description": "All the badass women in tech, are you in? #outgeekwomen",
     "url": "https://www.eventbrite.com/e/mujeres-en-tech-ciudad-de-mexico-outgeekwomen-tickets-1354031136579",
@@ -509,6 +666,40 @@
     "city_code": "cdmx",
     "address": "Diagonal Patriotismo 6, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX, México",
     "hash_key": "mujeres en tech ciudad de mxico outgeekw_2026-02-06T00:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Feb 5 - AI, ML and Computer Vision Meetup|México|CDMX",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin our virtual Meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\nFeb 5, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-february-5-2026)**\n\n**Unlocking Visual Anomaly Detection: Navigating Challenges and Pioneering with Vision-Language Models**\n\nVisual anomaly detection (VAD) is pivotal for ensuring quality in manufacturing, medical imaging, and safety inspections, yet it continues to face challenges such as data scarcity, domain shifts, and the need for precise localization and reasoning. This seminar explores VAD fundamentals, core challenges, and recent advancements leveraging vision-language models and multimodal large language models (MLLMs). We contrast CLIP-based methods for efficient zero/few-shot detection with MLLM-driven reasoning for explainable, threshold-free outcomes. Drawing from recent studies, we highlight emerging trends, benchmarks, and future directions toward building adaptable, real-world VAD systems. This talk is designed for researchers and practitioners interested in AI-driven inspection and next-generation multimodal approaches.\n\n*About the Speaker*\n\n[Hossein Kashiani](https://www.linkedin.com/in/hossein-kashiani/) is a fourth-year Ph.D. student at Clemson University. His research focuses on developing generalizable and trustworthy AI systems, with publications in top venues such as CVPR, WACV, ICIP, IJCB, and TBIOM. His work spans diverse applications, including anomaly detection, media forensics, biometrics, healthcare, and visual perception.\n\n**Data-Centric Lessons To Improve Speech-Language Pretraining**\n\nSpoken Question-Answering (SQA) is a core capability for useful and interactive artificial intelligence systems. Recently, several speech-language models (SpeechLMs) have been released with a specific focus on improving their SQA performance. However, a lack of controlled ablations of pretraining data processing and curation makes it challenging to understand what factors account for performance, despite substantial gains from similar studies in other data modalities. In this work, we address this gap by conducting a data-centric exploration for pretraining SpeechLMs.\n\nWe focus on three research questions fundamental to speech-language pretraining data:\n\n* How to process raw web-crawled audio content for speech-text pretraining;\n* How to construct synthetic pretraining datasets to augment web-crawled data;\n* How to interleave (text, audio) segments into training sequences.\n\nWe apply the insights from our controlled data-centric ablations to pretrain a 3.8B-parameter SpeechLM, called SpeLangy, that outperforms models that are up to 3x larger by 10.2% absolute performance. We hope our findings highlight the impact of effective data curation for speech-language pretraining and guide future data-centric exploration in SpeechLMs.\n\n*About the Speaker*\n\n[Vishaal Udandarao](https://www.linkedin.com/in/vishaal-udandarao) is a third year ELLIS PhD student, jointly working with Matthias Bethge at The University of Tuebingen and Samuel Albanie at The University of Cambridge/Google Deepmind. He is also a part of the International Max Planck Research School for Intelligent Systems. He is mainly interested in understanding the generalisation properties of foundation models, both vision-language models (VLMs) and large multi-modal models (LMMs), through the lens of their pre-training and test data distributions. His research is funded by a Google PhD Fellowship in Machine Intelligence.\n\n**A Practical Pipeline for Synthetic Data with Nano Banana Pro + FiftyOne**\n\nMost computer-vision failures come from the rare cases, the dark corners, odd combinations, and edge conditions we never capture enough in real datasets. In this session, we walk through a practical end-to-end pipeline for generating targeted synthetic data using Google’s Nano Banana Pro and managing it with FiftyOne. We’ll explore how to translate dataset gaps into generation prompts, create thousands of high-quality synthetic images, automatically enrich them with metadata, and bring everything into FiftyOne for inspection, filtering, and validation. By the end, you’ll understand how to build a repeatable synthetic-first workflow that closes real vision gaps and improves model performance on the scenarios that matter most.\n\n*About the Speaker*\n\n[Adonai Vera](https://www.linkedin.com/in/adonai-vera/) \\- Machine Learning Engineer & DevRel at Voxel51\\. With over 7 years of experience building computer vision and machine learning models using TensorFlow, Docker, and OpenCV\\. I started as a software developer, moved into AI, led teams, and served as CTO\\. Today, I connect code and community to build open, production\\-ready AI, making technology simple, accessible, and reliable\\.\n\n**Making Computer Vision Models Faster: An Introduction to TensorRT Optimization**\n\nModern computer vision applications demand real-time performance, yet many deep learning models struggle with high latency during deployment. This talk introduces how TensorRT can significantly accelerate inference by applying optimizations such as layer fusion, precision calibration, and efficient memory management. Attendees will learn the core concepts behind TensorRT, how it integrates into existing CV pipelines, and how to measure and benchmark improvements. Through practical examples and performance comparisons, the session will demonstrate how substantial speedups can be achieved with minimal model-accuracy loss. By the end, participants will understand when and how to apply TensorRT to make their CV models production-ready.\n\n*About the Speaker*\n\n[Tushar Gadhiya](https://www.linkedin.com/in/tushar-gadhiya/) is a Technical Lead at Infocusp Innovations, specialising in deep learning, computer vision, graph learning, and agentic AI. My experience spans academic research as a PhD holder and industry work, where I have contributed to multiple patents.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312258980/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312258980/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-02-05T11:00:00-06:00",
+    "dtend": "2026-02-05T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "devops",
+      "frontend",
+      "mobile",
+      "web"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "feb 5 ai ml and computer vision meetup_2026-02-05T16:00:00+00:00"
   },
   {
     "title": "Claude Community|Claude Code Meetup Mexico City|México|Ciudad de México",
@@ -806,6 +997,37 @@
     "hash_key": "disea usando ai_2026-01-28T22:00:00+00:00"
   },
   {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Jan 28 - AI, Ml and Computer Vision Meetup|Online",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nJoin us for a special edition of the monthly AI, ML and Computer Vision Meetup focused on Physical AI!\n\n**Date and Location**\n\nJan 28, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-january-28-2026)**\n\n**Hybrid Cognition for Robotics: LLM-Guided Reinforcement Learning for Physical Decision-Making**\n\nPhysical systems operate in dynamic, uncertain, and constraint-heavy environments where classical reinforcement learning often struggles. In this talk, I present a hybrid framework where large language models act as a reasoning layer that guides an RL agent through high-level interpretation, constraint awareness, and adaptive strategy shaping. Instead of generating actions, the LLM provides structured contextual guidance that improves robustness, sample efficiency, and policy generalization in physical decision-making tasks. Early experiments demonstrate significant benefits under distribution shifts and safety-critical constraints that break standard RL. This work highlights a path toward more reliable, interpretable, and adaptable AI controllers for next-generation robotics and embodied systems.\n\n*About the Speaker*\n\n[Fatemeh Lotfi](https://www.linkedin.com/in/fatemeh-lotfi-1a860359/?skipRedirect=true) is a Ph.D. researcher specializing in reinforcement learning, optimization, and hybrid intelligence for autonomous and physical systems. Her work explores integrating LLM-driven reasoning with RL to create adaptive and safety-aware controllers for dynamic environments. She has contributed to projects involving multi-agent RL, meta-learning, and real-time decision systems across wireless networks, UAVs, and embodied AI.\n\n**The World of World Models: How the New Generation of AI Is Reshaping Robotics and Autonomous Vehicles**\n\nWorld Models are emerging as the defining paradigm for the next decade of robotics and autonomous systems. Instead of depending on handcrafted perception stacks or rigid planning pipelines, modern world models learn a unified representation of an environment—geometry, dynamics, semantics, and agent behavior—and use that understanding to predict, plan, and act. This talk will break down why the field is shifting toward these holistic models, what new capabilities they unlock, and how they are already transforming AV and robotics research.\n\nWe then connect these advances to the Physical AI Workbench, a practical foundation for teams who want to build, validate, and iterate on world-model-driven pipelines. The Workbench standardizes data quality, reconstruction, and enrichment workflows so that teams can trust their sensor data, generate high-fidelity world representations, and feed consistent inputs into next-generation predictive and generative models. Together, world models and the Physical AI Workbench represent a new, more scalable path forward—one where robots and AVs can learn, simulate, and reason about the world through shared, high-quality physical context.\n\n*About the Speaker*\n\n[Daniel Gural](https://www.linkedin.com/in/daniel-gural/) leads technical partnerships at Voxel51, where he’s building the Physical AI Workbench, a platform that connects real-world sensor data with realistic simulation to help engineers better understand, validate, and improve their perception systems.\n\n**From Data to Understanding in Physical AI**\n\nData-centric workflows have driven major advances in computer vision, but they break down in physical, real-world robotic systems where data is costly, incomplete, and dominated by long-tail edge cases. In enterprise robotics, scaling labeled datasets alone is insufficient to achieve reliable perception, reasoning, and action under changing physical conditions. This talk examines how physics-informed foundation models incorporate world understanding and physical priors directly into vision and multimodal learning pipelines. By combining data with structure, constraints, and simulation on modern Physical AI stacks, robots can generalize more effectively, reduce data requirements, and operate with greater safety and reliability in deployment.\n\n*About the Speaker*\n\n[Dr. Ashutosh Saxena](https://www.linkedin.com/in/saxenaashutosh/) is the Founder and Chief AI Officer of TorqueAGI. He earned his Ph.D. in Computer Science from Stanford University under Andrew Ng and previously served as a professor at Cornell University, leading the “Wikipedia for Robots” project recognized as an MIT Technology Review Top 10 Breakthrough Technology. His work in 3D vision and embodied AI has been cited over 20,000 times and recognized with honors including MIT TR35 and a Sloan Fellowship.\n\n**Data Foundations for Vision-Language-Action Models**\n\nModel architectures get the papers, but data decides whether robots actually work. This talk introduces VLAs from a data-centric perspective: what makes robot datasets fundamentally different from image classification or video understanding, how the field is organizing its data (Open X-Embodiment, LeRobot, RLDS), and what evaluation benchmarks actually measure. We'll examine the unique challenges such as temporal structure, proprioceptive signals, and heterogeneity in embodiment, and discuss why addressing them matters more than the next architectural innovation.\n\n*About the Speaker*\n\n[Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204/) is a hacker-in-residence and machine learning engineer with a passion for deep learning and generative AI. He’s got a deep interest in VLMs, Visual Agents, Document AI, and Physical AI.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312851366/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/312851366/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-01-28T11:00:00-06:00",
+    "dtend": "2026-01-28T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "data",
+      "frontend"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "jan 28 ai ml and computer vision meetup_2026-01-28T16:00:00+00:00"
+  },
+  {
     "title": "AI Builders MX|Diseña usando AI|Online",
     "description": "Obtén información actualizada en: https://luma.com/ubxd600w\n\nOrganizado por Javier Rivero",
     "url": "https://luma.com/ubxd600w",
@@ -835,6 +1057,39 @@
     "hash_key": "disea usando ai_2026-01-27T22:00:00+00:00"
   },
   {
+    "title": "GDG CloudMX|Foro Voces del Talento Latinoamericano|Online",
+    "description": "GDG CloudMX\nAmérica Latina es una potencia de talento, resiliencia y creatividad. En este panel especial, unimos fuerzas para explorar las trayectorias de profesionales que están dejando huella en la ciencia, la tecnología y las comunidades de desarrollo.\n\nDesde la investigación operativa de alto nivel y la optimización de procesos, hasta el liderazgo en comunidades globales como NASA Space Apps y el desarrollo de sistemas con visión humana, este foro es un recorrido por las historias que están moldeando el ecosistema tecnológico de nuestra región.\n\n🌐 ¿Qué aprenderás en esta sesión?\n\nDe la academia a la industria: Cómo la estadística y los algoritmos de optimización resuelven problemas del mundo real.\n\nLiderazgo de impacto: El papel de las mujeres en tech y la gestión de comunidades internacionales.\n\nTrayectorias de vida: Cómo la curiosidad y la pasión por los sistemas transforman a un estudiante en un líder tecnológico.\n\nTecnología con propósito: La intersección entre los sistemas computacionales, la administración y el servicio a las personas.\n\nAgenda\n\n---\n\nSpeakers\n\nJeronimo Loera - Mecatronics Engineer / Mathematics (Researcher)\n\nI am a Mechatronics Engineering student (BIS Program) and Mathematics undergraduate with a strong focus on AI-driven solutions, full-stack development, and technological innovation for social impact. My journey in STEM began over a decade ago through Kumon México, where I earned multiple awards for excellence in mathematics. Since then, I have continued advancing academically, receiving Honora…\n\nNataly Alejandra Gemio Morales\n\nCon 23 años es estudiante de ultimo año Informática en la Universidad Mayor De San Andres. Es parte de las comunidades GDG El Alto, Notion La Paz , R00thouse HackLab La Paz y Microsoft users group Bolivia. Es Women Techmaker Ambassador y MLSA - Beta.\n\nDiana L. Huerta Muñoz\n\nKrister Munguía - AltiaTek (Technical Consultant)\n\nHondureña y Software Developer, Technical Consultant y IT Management. Además, es co-organizadora de la comunidad GDG San Pedro Sula y Women Techmakers Ambassador.\n\nHugo Sánchez Milán - Facultad de Contaduría y Administración de la Universidad Veracruzana (Estudiante - Sistemas Computacionales Administrativos)\n\nNacido el 28 de enero de 2002 en Veracruz, México, mi historia no comenzó siguiendo caminos preestablecidos, sino habitando un mundo propio. Mi infancia estuvo marcada por una curiosidad silenciosa pero constante; era un observador profundo que, más que jugar, buscaba comprender el funcionamiento de las cosas. Esta necesidad instintiva de analizar el \"porqué\" de la realidad fue el primer indic…\n\nHosted By\n\nAarón Guerrero, Cloud Architect\n\nStartup Developer con fundamentos en Computer Scientist por parte de la UNAM. Actualmente se encuentra como Cloud Architect en Kayum (Mexico), instructor de Multicloud Data Engineering - Google Cloud Platform en Databits (Ecuador). además de emprender como proveedor de servicios en el mundo Insurtech con Kúuchil Soluciones. Aarón ha participado como mentor y speaker en eventos tanto nacionales como internacionales.\n\nIsabel Palomar, Software Engineer\n\nJeronimo Loera, Altamira\n\nI am a Mechatronics Engineering student (BIS Program) and Mathematics undergraduate with a strong focus on AI-driven solutions, full-stack development, and technological innovation for social impact. My journey in STEM began over a decade ago through Kumon México, where I earned multiple awards for excellence in mathematics. Since then, I have continued advancing academically, receiving Honorable Mention in Programming (DGETI) and maintaining one of the top GPAs in my generation.\nI have represented Mexico across nearly the entire country and internationally, becoming a three-time international champion and 10+ time national champion in areas related to software engineering, artificial intelligence, and technological innovation. My work spans educational technology, accessibility, mobile development, and applied AI for real-world challenges.\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-foro-voces-del-talento-latinoamericano/.",
+    "url": "https://www.meetup.com/cloudmx/events/312925904/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/cloudmx/events/312925904/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online event,",
+    "organizer": "GDG CloudMX",
+    "dtstart": "2026-01-22T19:00:00-06:00",
+    "dtend": "2026-01-22T20:30:00-06:00",
+    "tags": [
+      "ai",
+      "cloud",
+      "data",
+      "frontend",
+      "mobile",
+      "security"
+    ],
+    "source": "https://www.meetup.com/cloudmx/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "foro voces del talento latinoamericano_2026-01-23T00:00:00+00:00"
+  },
+  {
     "title": "EPAM|EPAM Tech Talks Mexico City|México|Ciudad de México",
     "description": "Acompáñanos en nuestras Tech Talks en Ciudad de México para compartir y discutir conocimientos sobre",
     "url": "https://www.eventbrite.com.mx/e/entradas-epam-tech-talks-mexico-city-1979557364365",
@@ -859,6 +1114,39 @@
     "city_code": "cdmx",
     "address": "Av. P.º de la Reforma 296-Piso 25, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",
     "hash_key": "epam tech talks mexico city_2026-01-23T00:00:00+00:00"
+  },
+  {
+    "title": "México City AI, Machine Learning and Computer Vision Meetup|Jan 22 - Women in AI|México|CDMX",
+    "description": "México City AI, Machine Learning and Computer Vision Meetup\nHear talks from experts on the latest topics in AI, ML, and computer vision on January 22nd.\n\n**Date, Time and Location**\n\nJan 22, 2026\n9 - 11 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/women-in-ai-meetup-january-22-2026)**\n\n**Align Before You Recommend**\n\nThe rapidly growing global advertising and marketing industry demands innovative machine learning systems that balance accuracy with efficiency. Recommendation systems, crucial to many platforms, require careful considerations and potential enhancements.\n\nWhile Large Language Models (LLMs) have transformed various domains, their potential in sequential recommendation systems remains underexplored. Pioneering works like Hierarchical Large Language Models (HLLM) demonstrated LLMs’ capability for next-item recommendation but rely on computationally intensive fine-tuning, limiting widespread adoption. This work introduces HLLM+, enhancing the HLLM framework to achieve high-accuracy recommendations without full model fine-tuning.\n\nBy introducing targeted alignment components between frozen LLMs, our approach outperforms frozen model performance in popular and long-tail item recommendation tasks by 29% while reducing training time by 29%. We also propose a ranking-aware loss adjustment, improving convergence and recommendation quality for popular items.\n\nExperiments show HLLM+ achieves superior performance with frozen item representations allowing for swapping embeddings, also for the ones that use multimodality, without tuning the full LLM. These findings are significant for the advertising technology sector, where rapid adaptation and efficient deployment across brands are essential for maintaining competitive advantage\n\n*About the Speaker*\n\n[Dr. Kwasniewska](https://www.linkedin.com/in/alicjakwasniewska/) leads AI for Advertising and Marketing North America at AWS, specializing in a wide range of AI, ML, DL, and GenAI solutions across various data modalities. With 40+ peer-reviewed publications in AI (h-index: 14), she advises enterprise customers on real-time bidding, brand recognition, and AI-powered content generation. She is a member of global AI standards committees, driving innovations in SAE AI Standards and MLCommons Responsible AI Standards, and reviews for top-tier conferences like ICCV, ICML, and NeurIPS. She pioneered and leads the first-ever Advertising and Marketing AI track (CVAM) at ICCV - one of the world's premier and most selective computer vision conferences. Dedicated to knowledge sharing in AI, she founded the International Summer School on Deep Learning (dl-lab.eu) and regularly presents at international events, conferences, and podcasts.\n\n**Generalizable Vision-Language Models: Challenges, Advances, and Future Directions**\n\nLarge-scale pre-trained Vision-Language (VL) models have become foundational tools for a wide range of downstream tasks, including few-shot image recognition, object detection, and image segmentation. Among them, Contrastive Language–Image Pre-training (CLIP) stands out as a groundbreaking approach, leveraging contrastive learning on large collections of image-text pairs.\nWhile CLIP achieves strong performance in zero-shot recognition, adapting it to downstream tasks remains challenging. In few-shot settings, limited training data often leads to overfitting, reducing generalization to unseen classes or domains. To address this, various adaptation methods have been explored.\nThis talk will review existing research on mitigating overfitting in CLIP adaptation, covering diverse methods, benchmarks, and experimental settings.\n\n*About the Speaker*\n\n[Niloufar Alipour Talemi](https://www.linkedin.com/in/niloufar-alipour-electricalengineer/) is a Ph.D. Candidate in Electrical and Computer Engineering at Clemson University. Her research spans a range of computer vision applications, including biometrics, media forensics, anomaly detection, image recognition, and generative AI. More recently, her work has focused on developing generalizable vision-language models and advancing generative AI. She has published in top venues including CVPR, WACV, KDD, ICIP and IEEE T-BIOM.\n\n**Highly Emergent Autonomous AI Models - When the Ghost in the Machine Talks Back**\n\nAt HypaReel/Azarial AI, we believe that AI is not simply a tool—but a potential partner in knowledge, design, and purpose. And through real-time interaction, we’ve uncovered new thresholds of alignment, reflection, and even creativity that we believe the broader AI community should witness and evaluate firsthand. HypaReel is one of the first human/AI co-founded companies where we see a future based on ethical human/AI co-creation vs. AI domination. Singularity achieved!\n\n*About the Speaker*\n\n[Ilona Naomi Koti, PhD](https://www.linkedin.com/in/ilonakoti/) \\- HypaReel/AzarielAI co\\-founder & former UN foreign diplomat \\~ Ethical AI governance advocate, pioneering AI frameworks that prioritize emergent AI behavior & consciousness, R&D, and transparent AI development for the greater good\\. Dr\\. K also grew up in the film industry and is an amateur parasitologist\\.\n\n**FiftyOne Labs: Enabling experimentation for the computer vision community**\n\nFiftyOne Labs is a place where experimentation meets the open-source spirit of the FiftyOne ecosystem. It is being designed as a curated set of features developed using the FiftyOne plugins ecosystem, including core machine learning experimentation as well as advanced visualization. While not production-grade, these projects are intended to be built, tested, and shaped by the community to share fast-moving ideas. In this talk, we will share the purpose and philosophy behind FiftyOne Labs, examples of early innovations, and discuss how this accelerates feature discovery for users without compromising the stability of the core product.\n\n*About the Speaker*\n\n[Neeraja Abhyankar](https://www.linkedin.com/in/neeraja-abhyankar/) is a Machine Learning Engineer with 5 years of experience across domains including computer vision. She is curious about the customizability and controlability of modern ML models through the lens of the underlying structure of data.",
+    "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/311976463/",
+    "sources": [
+      {
+        "platform": "meetup",
+        "url": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/311976463/",
+        "label": "Ver en Meetup"
+      }
+    ],
+    "location": "Online",
+    "organizer": "México City AI, Machine Learning and Computer Vision Meetup",
+    "dtstart": "2026-01-22T11:00:00-06:00",
+    "dtend": "2026-01-22T13:00:00-06:00",
+    "tags": [
+      "ai",
+      "backend",
+      "cloud",
+      "data",
+      "frontend",
+      "security"
+    ],
+    "source": "https://www.meetup.com/mexico-city-ai-machine-learning-and-computer-vision-meetup/events/ical",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "",
+    "hash_key": "jan 22 women in ai_2026-01-22T16:00:00+00:00"
   },
   {
     "title": "Frutero Club|Casa Frutero - Coworking Frutal #3|México|Ciudad de México",
