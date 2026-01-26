@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:32:08.629274+00:00",
-  "total_events": 237,
+  "generated_at": "2026-01-26T01:21:13.880763+00:00",
+  "total_events": 238,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -5970,6 +5970,35 @@
       "city_code": "cdmx",
       "address": "Av. P.º de la Reforma 296-Piso 25, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",
       "hash_key": "epam tech talks mexico city_2026-01-23T00:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|Rust-AICollective|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/rust-ios-ai\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective y 4 personas más",
+      "url": "https://luma.com/rust-ios-ai",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/rust-ios-ai",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Roma Norte, Ciudad de México",
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-01-28T00:00:00+00:00",
+      "dtend": "2026-01-28T03:00:00+00:00",
+      "tags": [
+        "ai",
+        "mobile"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Roma Nte., 06700 Ciudad de México, CDMX, México",
+      "hash_key": "rust aicollective_2026-01-28T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective / The AI Collective|Primer Meetup: Retos de la Posada de Código 2025|Online",
