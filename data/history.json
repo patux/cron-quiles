@@ -280,11 +280,11 @@
   {
     "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",
     "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-    "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+    "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
     "sources": [
       {
         "platform": "meetup",
-        "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+        "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
         "label": "Ver en Meetup"
       }
     ],
@@ -779,6 +779,35 @@
     "city_code": "cdmx",
     "address": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
     "hash_key": "campen peso ligero ia para la salud ligh_2026-02-18T00:00:00+00:00"
+  },
+  {
+    "title": "Rust-AICollective|Collective Intelligence: Agent Building: Prototype Playbook|Online",
+    "description": "Obtén información actualizada en: https://luma.com/aic-gl-2-12\n\nOrganizado por The AI Collective y 3 personas más",
+    "url": "https://luma.com/aic-gl-2-12",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/aic-gl-2-12",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+    "organizer": "Rust-AICollective",
+    "dtstart": "2026-02-12T23:30:00+00:00",
+    "dtend": "2026-02-13T00:30:00+00:00",
+    "tags": [
+      "ai",
+      "frontend"
+    ],
+    "source": "https://luma.com/rust-ios-ai",
+    "country": "",
+    "country_code": "",
+    "state": "",
+    "state_code": "",
+    "city": "",
+    "city_code": "",
+    "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+    "hash_key": "collective intelligence agent building p_2026-02-12T22:00:00+00:00"
   },
   {
     "title": "Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambiando como desarrollar código|México|Ciudad de México",
@@ -1594,7 +1623,7 @@
   },
   {
     "title": "Rust-AICollective|Rust-AICollective|México|Ciudad de México",
-    "description": "Obtén información actualizada en: https://luma.com/rust-ios-ai\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective y 4 personas más",
+    "description": "Obtén información actualizada en: https://luma.com/rust-ios-ai\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective y 3 personas más",
     "url": "https://luma.com/rust-ios-ai",
     "sources": [
       {

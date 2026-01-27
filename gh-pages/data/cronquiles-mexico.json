@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:36:06.498996+00:00",
-  "total_events": 391,
+  "generated_at": "2026-01-27T01:19:52.343562+00:00",
+  "total_events": 392,
   "city": "México",
   "communities": [
     {
@@ -9849,7 +9849,7 @@
     },
     {
       "title": "Rust-AICollective|Rust-AICollective|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/rust-ios-ai\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective y 4 personas más",
+      "description": "Obtén información actualizada en: https://luma.com/rust-ios-ai\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por The AI Collective y 3 personas más",
       "url": "https://luma.com/rust-ios-ai",
       "sources": [
         {
@@ -10690,6 +10690,35 @@
       "hash_key": "feb 12 ai ml and computer vision meetup _2026-02-12T16:00:00+00:00"
     },
     {
+      "title": "Rust-AICollective|Collective Intelligence: Agent Building: Prototype Playbook|Online",
+      "description": "Obtén información actualizada en: https://luma.com/aic-gl-2-12\n\nOrganizado por The AI Collective y 3 personas más",
+      "url": "https://luma.com/aic-gl-2-12",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-gl-2-12",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-02-12T23:30:00+00:00",
+      "dtend": "2026-02-13T00:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+      "hash_key": "collective intelligence agent building p_2026-02-12T22:00:00+00:00"
+    },
+    {
       "title": "Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambiando como desarrollar código|México|Ciudad de México",
       "description": "AWS User Group: Ajolotes en la Nube\n# 🚀 Kiro Deep Dive: Domina el IDE Agéntico con Expertos de AWS\n\n¡El desarrollo de software ha evolucionado! Te invitamos a una sesión técnica exclusiva sobre **Kiro**, el IDE agéntico diseñado para potenciar el ciclo de vida del software garantizando código de alta calidad.\nAcompañanos en esta **inmersión profunda** donde exploraremos desde la nueva CLI hasta estrategias de implementación a gran escala.\n\n***\n\n### 🎙️ Ponentes Invitados\n\nContaremos con la participación especial de dos expertos de la industria, miembros de la comunidad técnica interna de AWS **\"Next Generation Developer Experience\"**:\n\n* **César Bautista:** Arquitecto de Soluciones en **AWS** para el sector de Telco.\n* **Manuel Quijano:** Arquitecto de Soluciones Sr en **AWS** para el sector Financiero.\n\n***\n\n### 🎯 ¿Qué veremos en la sesión?\n\n1. **Demostración Práctica de la Nueva CLI:** Exploración hands-on de las capacidades más recientes y flujos de trabajo en tiempo real.\n2. **Casos del Mundo Real:** Estrategias de implementación y mejores prácticas de integración.\n3. **Escalando la IA en el Desarrollo:** Consejos para equipos y estrategias de adopción organizacional.\n4. **Q&A Interactivo:** Resolución de dudas específicas de tu contexto técnico.\n\n***\n\n### 💻 ¡Importante: Trae tu equipo!\n\nPara participar en las dinámicas y probar las herramientas en tiempo real, **es fundamental que traigas tu laptop** con los siguientes requisitos listos:\n\n1. **Instalar Kiro CLI** (preferiblemente) o el IDE: [Descargar aquí](https://kiro.dev/downloads/)\n2. **Configurar Autenticación:** Haz login con GitHub o Builder ID siguiendo esta [Guía de Inicio](https://kiro.dev/docs/getting-started/authentication/)\n\n**¡No pierdas la oportunidad de estar a la vanguardia del AI-Assisted Software Development junto a líderes de AWS!**",
       "url": "https://www.meetup.com/ajolotesenlanube/events/312936734/",
@@ -11198,11 +11227,11 @@
     {
       "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",
       "description": "AI/IA CDMX (Ciudad de México Inteligencia Artificial)\nEvent live streams on youtube.\nhttps://www.youtube.com/@AICDMX\n\nFollow us\nhttps://www.instagram.com/cdmxai/\nhttps://www.facebook.com/aicdmx\nhttps://www.linkedin.com/company/ai-cdmx\n\nJoin us and stay ahead of the curve. You won’t just learn about AI—you’ll learn how to use it to your advantage.\nThis event is just a glimpse into these topics. Our group dives into AI from all angles with monthly events and workshops that explore a wide range of themes.",
-      "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+      "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
       "sources": [
         {
           "platform": "meetup",
-          "url": "https://www.meetup.com/ai-cdmx/events/lwpsttyjcgbcc/",
+          "url": "https://www.meetup.com/ai-cdmx/events/313073151/",
           "label": "Ver en Meetup"
         }
       ],
