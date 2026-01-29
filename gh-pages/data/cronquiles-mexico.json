@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T12:48:07.731443+00:00",
-  "total_events": 399,
+  "generated_at": "2026-01-29T18:46:14.160540+00:00",
+  "total_events": 400,
   "city": "México",
   "communities": [
     {
@@ -10772,6 +10772,35 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
       "hash_key": "collective intelligence agent building p_2026-02-12T22:00:00+00:00"
+    },
+    {
+      "title": "Rust-AICollective|AI Education: Building AI Agents Together – Prototyping with the Playbook|Online",
+      "description": "Obtén información actualizada en: https://luma.com/aic-gl-2-12\n\nOrganizado por The AI Collective y 3 personas más",
+      "url": "https://luma.com/aic-gl-2-12",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/aic-gl-2-12",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+      "organizer": "Rust-AICollective",
+      "dtstart": "2026-02-12T23:30:00+00:00",
+      "dtend": "2026-02-13T00:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://luma.com/rust-ios-ai",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
+      "hash_key": "ai education building ai agents together_2026-02-12T22:00:00+00:00"
     },
     {
       "title": "Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambiando como desarrollar código|México|Ciudad de México",
