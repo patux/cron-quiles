@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:39:43.321976+00:00",
-  "total_events": 241,
+  "generated_at": "2026-01-29T01:24:13.744837+00:00",
+  "total_events": 242,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -4831,7 +4831,7 @@
     },
     {
       "title": "Mexico Tech Week|Latin America’s B2B tech landscape in the AI era|México|Ciudad de México",
-      "description": "Obtén información actualizada en: https://luma.com/q7hmwcva\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y 4 personas más",
+      "description": "Obtén información actualizada en: https://luma.com/q7hmwcva\n\nDirección:\nConsulta la página del evento para obtener más detalles.\n\nOrganizado por Mexico Tech Week y 5 personas más",
       "url": "https://luma.com/q7hmwcva",
       "sources": [
         {
@@ -6563,6 +6563,32 @@
       "city_code": "cdmx",
       "address": "Casa Rafael Galván, Zacatecas 94, Col Roma Norte,, Mexico City, Mexico City",
       "hash_key": "to be announced por anunciar_2026-07-22T00:00:00+00:00"
+    },
+    {
+      "title": "Global Startup Ecosystem|Mexico Tech Summit|México|Ciudad de México",
+      "description": "MexicoTech Summit is an international program featuring global speakers and partners passionate about the future of Mexico. The central",
+      "url": "https://www.eventbrite.com/e/mexico-tech-summit-tickets-96326080901",
+      "sources": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com/e/mexico-tech-summit-tickets-96326080901",
+          "label": "Ver en Eventbrite"
+        }
+      ],
+      "location": "Location TBA, TBA, Mexico City",
+      "organizer": "Global Startup Ecosystem",
+      "dtstart": "2026-07-30T10:00:00-06:00",
+      "dtend": "2026-07-30T15:00:00-06:00",
+      "tags": [],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Ciudad de México, CDMX, México",
+      "hash_key": "mexico tech summit_2026-07-30T16:00:00+00:00"
     },
     {
       "title": "AI/IA CDMX|To Be Announced/Por anunciar|México|Ciudad de México",

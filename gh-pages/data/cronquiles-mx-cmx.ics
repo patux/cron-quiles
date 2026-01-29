@@ -3081,7 +3081,7 @@ DTSTART:20251020T160000Z
 CATEGORIES:ai
 DESCRIPTION:Obtén información actualizada en: https://luma.com/q7hmwcva\
  n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 4 personas más
+ \n\nOrganizado por Mexico Tech Week y 5 personas más
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -4378,6 +4378,21 @@ LOCATION:Casa Rafael Galván\, Zacatecas 94\, Col Roma Norte\,\, Mexico Ci
  ty\, Mexico City
 X-CRONQUILES-ADDRESS:Casa Rafael Galván\, Zacatecas 94\, Col Roma Norte\,
  \, Mexico City\, Mexico City
+X-CRONQUILES-CITY:Ciudad de México
+X-CRONQUILES-CITY-CODE:cdmx
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Ciudad de México
+X-CRONQUILES-STATE-CODE:MX-CMX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Startup Ecosystem|Mexico Tech Summit|México|Ciudad de Méx
+ ico
+DTSTART:20260730T100000
+DESCRIPTION:MexicoTech Summit is an international program featuring globa
+ l speakers and partners passionate about the future of Mexico. The central
+LOCATION:Location TBA\, TBA\, Mexico City
+X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
 X-CRONQUILES-CITY-CODE:cdmx
 X-CRONQUILES-COUNTRY:México
