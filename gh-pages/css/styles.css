@@ -135,6 +135,27 @@
     color: var(--terminal-black);
 }
 
+.load-more-btn {
+    display: block;
+    width: 100%;
+    margin-top: var(--spacing-lg);
+    padding: 12px;
+    background: transparent;
+    border: 1px solid var(--terminal-green);
+    color: var(--terminal-green);
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 0.95em;
+    cursor: pointer;
+    border-radius: var(--radius-md);
+    transition: all var(--transition-normal);
+}
+
+.load-more-btn:hover {
+    background: var(--terminal-green);
+    color: var(--terminal-black);
+}
+
 .calendar-title {
     color: var(--terminal-white);
     font-weight: bold;

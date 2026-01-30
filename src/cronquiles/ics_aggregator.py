@@ -8,6 +8,7 @@ y genera un calendario unificado.
 import logging
 import json
 import time
+import concurrent.futures
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -279,49 +280,59 @@ class ICSAggregator:
         logger.info(f"Deduplicación: {len(events)} -> {len(deduplicated)} eventos")
         return deduplicated
 
+    def _select_aggregator(self, url: str):
+        """Selecciona el agregador apropiado según la URL del feed."""
+        if (
+            "eventbrite." in url
+            and "/e/" not in url
+            and "/o/" not in url
+            and "ical" not in url
+        ):
+            return self.aggregators["eventbrite"]
+        elif "eventbrite." in url and (
+            "eventbrite.com" in url or "eventbrite.com.mx" in url
+        ):
+            return self.aggregators["eventbrite"]
+        elif "lu.ma" in url or "luma.com" in url:
+            return self.aggregators["luma"]
+        elif "meetup.com" in url:
+            return self.aggregators["meetup"]
+        elif "/reuniones." in url or "hi.events" in url:
+            return self.aggregators["hievents"]
+        else:
+            return self.aggregators["ics"]
+
+    def _extract_single_feed(self, feed) -> List[EventNormalized]:
+        """Extrae eventos de un solo feed (para ejecución paralela)."""
+        url = feed if isinstance(feed, str) else feed.get("url")
+        name = None if isinstance(feed, str) else feed.get("name")
+
+        if not url:
+            return []
+
+        agg = self._select_aggregator(url)
+
+        try:
+            return agg.extract(feed, name)
+        except Exception as e:
+            logger.error(f"Error extracting from {url}: {e}")
+            return []
+
     def aggregate_feeds(
         self, feed_urls: List[str], manual_data: Optional[List[Dict]] = None
     ) -> List[EventNormalized]:
         all_events = []
 
-        # 1. Process config feeds
-        for feed in feed_urls:
-            url = feed if isinstance(feed, str) else feed.get("url")
-            name = None if isinstance(feed, str) else feed.get("name")
-
-            if not url:
-                continue
-
-            # Dispatch logic
-            if (
-                "eventbrite." in url
-                and "/e/" not in url
-                and "/o/" not in url
-                and "ical" not in url
-            ):
-                # Check if likely direct Eventbrite URL vs ICS proxy
-                # Actually our code handles this logic. If it looks like eventbrite, use EB aggregator
-                # Assuming direct EB urls:
-                agg = self.aggregators["eventbrite"]
-            elif "eventbrite." in url and (
-                "eventbrite.com" in url or "eventbrite.com.mx" in url
-            ):
-                # Stronger check for Eventbrite domains
-                agg = self.aggregators["eventbrite"]
-            elif "lu.ma" in url or "luma.com" in url:
-                agg = self.aggregators["luma"]
-            elif "meetup.com" in url:
-                agg = self.aggregators["meetup"]
-            elif "/reuniones." in url or "hi.events" in url:
-                agg = self.aggregators["hievents"]
-            else:
-                agg = self.aggregators["ics"]
-
-            try:
-                events = agg.extract(feed, name)
+        # 1. Obtener eventos de feeds en paralelo
+        max_workers = min(10, len(feed_urls)) if feed_urls else 1
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {
+                executor.submit(self._extract_single_feed, feed): feed
+                for feed in feed_urls
+            }
+            for future in concurrent.futures.as_completed(futures):
+                events = future.result()
                 all_events.extend(events)
-            except Exception as e:
-                logger.error(f"Error extracting from {url}: {e}")
 
         # 2. Process manual events
         if manual_data:
@@ -421,7 +432,7 @@ class ICSAggregator:
     ) -> Dict[str, List[EventNormalized]]:
         grouped = {}
         for event in events:
-            code = event.state_code if event.state_code else "ONLINE"
+            code = "ONLINE" if event._is_online() else (event.state_code or "ONLINE")
             if code not in grouped:
                 grouped[code] = []
             grouped[code].append(event)

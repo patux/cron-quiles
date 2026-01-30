@@ -1,12 +1,15 @@
 import logging
 import re
-import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Optional, Dict
 from urllib.parse import urlparse, parse_qs
 from .ics import GenericICSAggregator
 from ..models import EventNormalized
+from ..rate_limiter import RateLimiter, enrich_with_backoff
 
 logger = logging.getLogger(__name__)
+
+_luma_limiter = RateLimiter(min_interval=0.3)
 
 
 class LumaAggregator(GenericICSAggregator):
@@ -202,12 +205,21 @@ class LumaAggregator(GenericICSAggregator):
 
         if to_enrich:
             logger.info(f"Found {len(to_enrich)} Luma events to potentially enrich")
-            for i, event in enumerate(to_enrich):
-                if i > 0:
-                    time.sleep(1)
-                try:
-                    event.enrich_location_from_luma(self.session)
-                except Exception as e:
-                    logger.warning(f"Error enriching Luma event {event.url}: {e}")
+            session = self.session
+
+            def _enrich(event):
+                enrich_with_backoff(
+                    event,
+                    lambda e: e.enrich_location_from_luma(session),
+                    _luma_limiter,
+                )
+
+            with ThreadPoolExecutor(max_workers=5) as pool:
+                futures = {pool.submit(_enrich, e): e for e in to_enrich}
+                for future in as_completed(futures):
+                    exc = future.exception()
+                    if exc:
+                        event = futures[future]
+                        logger.warning(f"Error enriching Luma event {event.url}: {exc}")
 
         return events

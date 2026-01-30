@@ -1477,6 +1477,8 @@ class EventNormalized:
             }
             logger.debug(f"Enriching location from Meetup: {self.url}")
             response = session.get(self.url, headers=headers, timeout=10)
+            if response.status_code in (429, 500, 502, 503, 504):
+                response.raise_for_status()
             if response.status_code != 200:
                 return False
 
@@ -1611,6 +1613,8 @@ class EventNormalized:
             }
             logger.debug(f"Enriching location from Luma: {self.url}")
             response = session.get(self.url, headers=headers, timeout=10)
+            if response.status_code in (429, 500, 502, 503, 504):
+                response.raise_for_status()
             if response.status_code != 200:
                 return False
 

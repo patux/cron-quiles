@@ -196,7 +196,7 @@ feeds:
   name: Python CDMX
   description: Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.
   # -----------------------------------
-- url: https://api2.luma.com/ics/get?entity=calendar&id=cal-f8GxWvNMvBvvuLb
+- url: https://luma.com/pythoncdmx-eventos-2025
   name: Python CDMX
   description: Comunidad de entusiastas de Python en México. Charlas, talleres y networking para todos los niveles.
   # -----------------------------------
