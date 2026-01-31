@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 404,
-    "future_event_count": 57,
+    "future_event_count": 56,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -94,7 +94,7 @@
     "name": "Jalisco",
     "slug": "mx-jal",
     "event_count": 10,
-    "future_event_count": 3,
+    "future_event_count": 2,
     "active_months": [
       "2024-03",
       "2025-03",
