@@ -123,9 +123,6 @@ jobs:
           git commit -m "🤖 Auto-update: Refresh events calendar & persist data [skip ci]" || exit 0
           git push origin gh-pages --force
 
-          # Volver a main para los pasos siguientes
-          git checkout main
-
       - name: Setup Pages
         if: steps.check-deploy.outputs.deploy == 'true'
         uses: actions/configure-pages@v4
@@ -134,7 +131,7 @@ jobs:
         if: steps.check-deploy.outputs.deploy == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'gh-pages'
+          path: '.'
 
       - name: Deploy to GitHub Pages
         if: steps.check-deploy.outputs.deploy == 'true'
