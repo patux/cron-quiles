@@ -107,7 +107,7 @@ jobs:
 
           # Cambiar a rama orphan gh-pages (crear si no existe)
           if git fetch origin gh-pages 2>/dev/null; then
-            git checkout gh-pages
+            git checkout -f gh-pages
           else
             git checkout --orphan gh-pages
             git rm -rf . 2>/dev/null || true

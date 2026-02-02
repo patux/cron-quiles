@@ -393,6 +393,10 @@ def main():
 
     logger.info(f"Cargados {len(feed_config)} feeds desde {args.feeds}")
 
+    # TODO: TEMPORAL - limitar a 5 feeds para pruebas de pipeline
+    feed_config = feed_config[:5]
+    logger.info(f"TEMPORAL: Limitando a {len(feed_config)} feeds para prueba")
+
     # 1.1 Cargar eventos manuales
     manual_events_path = Path("config/manual_events.json")
     manual_data = load_manual_events(str(manual_events_path))
