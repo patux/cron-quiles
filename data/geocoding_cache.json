@@ -18650,5 +18650,104 @@
       "establishment",
       "point_of_interest"
     ]
+  },
+  "Facultad de Ciencias UNAM, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México": {
+    "address_components": [
+      {
+        "long_name": "Investigación Científica",
+        "short_name": "Investigación Científica",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Ciudad Universitaria",
+        "short_name": "CU",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "México",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "04510",
+        "short_name": "04510",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",
+    "geometry": {
+      "location": {
+        "lat": 19.3242765,
+        "lng": -99.1791318
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 19.3251920302915,
+          "lng": -99.17882329999999
+        },
+        "southwest": {
+          "lat": 19.3224940697085,
+          "lng": -99.1818673
+        }
+      }
+    },
+    "navigation_points": [
+      {
+        "location": {
+          "latitude": 19.322541,
+          "longitude": -99.17882329999999
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.3248653,
+          "longitude": -99.18183890000002
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.3251533,
+          "longitude": -99.1816072
+        }
+      }
+    ],
+    "place_id": "ChIJjyiW3Q8AzoURjdMDW5uvlhA",
+    "plus_code": {
+      "compound_code": "8RFC+P8 Ciudad de México, CDMX, México",
+      "global_code": "76F28RFC+P8"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ]
   }
 }

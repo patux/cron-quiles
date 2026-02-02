@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T12:48:34.441610+00:00",
-  "total_events": 13,
+  "generated_at": "2026-02-02T18:44:26.266903+00:00",
+  "total_events": 14,
   "city": "Puebla",
   "communities": [
     {
@@ -323,6 +323,34 @@
       "city_code": "heroicapuebladezaragoza",
       "address": "Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., México",
       "hash_key": "meetup enero python puebla_2026-01-16T00:00:00+00:00"
+    },
+    {
+      "title": "PyTalavera|Python Meetup Puebla + Tamaliza|México|Puebla",
+      "description": "Obtén información actualizada en: https://luma.com/f2up8h4n\n\nDirección:\nValenza Casa de Creativos - Plaza Dorada\nHeroica Puebla de Zaragoza, Puebla\nMéxico\n\nOrganizado por Gabriel Gómez Téllez",
+      "url": "https://luma.com/f2up8h4n",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/f2up8h4n",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Valenza Casa de Creativos - Plaza Dorada, Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., México",
+      "organizer": "PyTalavera",
+      "dtstart": "2026-02-06T00:30:00+00:00",
+      "dtend": "2026-02-06T04:30:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-ZiazPAzfyRnM7zl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Puebla",
+      "state_code": "MX-PUE",
+      "city": "Heroica Puebla de Zaragoza",
+      "city_code": "heroicapuebladezaragoza",
+      "address": "Av. Venustiano Carranza 205, San Baltazar Campeche, 72550 Heroica Puebla de Zaragoza, Pue., México",
+      "hash_key": "python meetup puebla tamaliza_2026-02-06T00:00:00+00:00"
     },
     {
       "title": "Talavera Valley|Kick Off Talavera Valley Hub|México|Puebla",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T12:48:34.424080+00:00",
-  "total_events": 245,
+  "generated_at": "2026-02-02T18:44:26.249062+00:00",
+  "total_events": 246,
   "city": "Ciudad de México",
   "communities": [
     {
@@ -6316,6 +6316,34 @@
       "city_code": "cdmx",
       "address": "C. Montes Urales 455-piso 1 y 2, Lomas - Virreyes, Lomas de Chapultepec III Secc, Miguel Hidalgo, 11000 Ciudad de México, CDMX, México",
       "hash_key": "mujeres en tech ciudad de mxico outgeekw_2026-02-06T00:00:00+00:00"
+    },
+    {
+      "title": "Sudo FCiencias|Bases de datos no relacionales, ¿qué es eso?|México|Ciudad de México",
+      "description": "Obtén información actualizada en: https://luma.com/e17fbtoo\n\nDirección:\nFacultad de Ciencias UNAM\nLaboratorio de Ciencias de la Computación 1, Edificio Tlahuizcalpan\nCiudad de México, Ciudad de México\nMéxico\n\nOrganizado por Sudo FCiencias",
+      "url": "https://luma.com/e17fbtoo",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/e17fbtoo",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Facultad de Ciencias UNAM, Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",
+      "organizer": "Sudo FCiencias",
+      "dtstart": "2026-02-06T21:00:00+00:00",
+      "dtend": "2026-02-06T22:30:00+00:00",
+      "tags": [
+        "frontend"
+      ],
+      "source": "https://luma.com/sudo_fciencias_2026",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Ciudad de México",
+      "state_code": "MX-CMX",
+      "city": "Ciudad de México",
+      "city_code": "cdmx",
+      "address": "Investigación Científica, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",
+      "hash_key": "bases de datos no relacionales qu es eso_2026-02-06T20:00:00+00:00"
     },
     {
       "title": "Frutero Club|Casa Frutero - Coworking Frutal #6|México|Ciudad de México",
