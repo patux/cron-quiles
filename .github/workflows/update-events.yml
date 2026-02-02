@@ -102,6 +102,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
+          # Eliminar directorio gh-pages/ para evitar ambigüedad con la rama
+          rm -rf gh-pages
+
           # Cambiar a rama orphan gh-pages (crear si no existe)
           if git fetch origin gh-pages 2>/dev/null; then
             git checkout gh-pages
