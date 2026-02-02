@@ -1,6 +1,5 @@
 import logging
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Optional, Dict
 from urllib.parse import urlparse, parse_qs
 from .ics import GenericICSAggregator
@@ -9,7 +8,10 @@ from ..rate_limiter import RateLimiter, enrich_with_backoff
 
 logger = logging.getLogger(__name__)
 
-_luma_limiter = RateLimiter(min_interval=0.3)
+_luma_limiter = RateLimiter(min_interval=2.0)
+
+# Cache de enriquecimiento: URL del evento -> datos de ubicación ya obtenidos
+_enrichment_cache: Dict[str, Optional[str]] = {}
 
 
 class LumaAggregator(GenericICSAggregator):
@@ -189,7 +191,10 @@ class LumaAggregator(GenericICSAggregator):
         # La vanity URL está guardada en self.vanity_url_cache para uso en generate_json
         events = self.extract_events_from_calendar(calendar, original_url, name)
 
-        # Enrich events needing location
+        return events
+
+    def enrich_events(self, events: List[EventNormalized]) -> None:
+        """Enriquece ubicación de eventos Luma que lo necesiten (post-filtrado)."""
         to_enrich = [
             e
             for e in events
@@ -203,23 +208,28 @@ class LumaAggregator(GenericICSAggregator):
             )
         ]
 
-        if to_enrich:
-            logger.info(f"Found {len(to_enrich)} Luma events to potentially enrich")
-            session = self.session
+        if not to_enrich:
+            return
 
-            def _enrich(event):
+        logger.info(f"Enriqueciendo {len(to_enrich)} eventos Luma")
+        session = self.session
+
+        for event in to_enrich:
+            # Revisar cache de enriquecimiento para no re-fetchar
+            if event.url in _enrichment_cache:
+                cached_loc = _enrichment_cache[event.url]
+                if cached_loc:
+                    event.location = cached_loc
+                    logger.debug(f"Ubicación de cache: {event.url}")
+                continue
+
+            try:
                 enrich_with_backoff(
                     event,
                     lambda e: e.enrich_location_from_luma(session),
                     _luma_limiter,
                 )
-
-            with ThreadPoolExecutor(max_workers=5) as pool:
-                futures = {pool.submit(_enrich, e): e for e in to_enrich}
-                for future in as_completed(futures):
-                    exc = future.exception()
-                    if exc:
-                        event = futures[future]
-                        logger.warning(f"Error enriching Luma event {event.url}: {exc}")
-
-        return events
+                _enrichment_cache[event.url] = event.location
+            except Exception as exc:
+                _enrichment_cache[event.url] = None
+                logger.warning(f"Error enriching Luma event {event.url}: {exc}")

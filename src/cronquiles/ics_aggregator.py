@@ -323,6 +323,17 @@ class ICSAggregator:
     ) -> List[EventNormalized]:
         all_events = []
 
+        # 0. Pre-cargar historia para evitar re-enriquecer eventos Luma conocidos
+        self.history_manager.load_history()
+        from .aggregators.luma import _enrichment_cache
+        for evt_dict in self.history_manager.events.values():
+            url = evt_dict.get("url", "")
+            loc = evt_dict.get("location", "")
+            if url and ("lu.ma" in url or "luma.com" in url) and loc and len(loc) >= 15:
+                _enrichment_cache[url] = loc
+        if _enrichment_cache:
+            logger.info(f"Pre-cargados {len(_enrichment_cache)} eventos Luma desde historia")
+
         # 1. Obtener eventos de feeds en paralelo
         max_workers = min(10, len(feed_urls)) if feed_urls else 1
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -339,7 +350,28 @@ class ICSAggregator:
             events = self.aggregators["manual"].extract(manual_data)
             all_events.extend(events)
 
-        # 2.5 Filter events by country (Only Mexico or Online)
+        # 2.5 Enriquecer ubicación de eventos Luma sin country_code (para poder filtrar correctamente)
+        luma_unknown = [
+            e for e in all_events
+            if not e.country_code and not e._is_online()
+            and e.url and ("lu.ma" in e.url or "luma.com" in e.url)
+        ]
+        if luma_unknown:
+            logger.info(f"Enriqueciendo {len(luma_unknown)} eventos Luma sin país conocido")
+            self.aggregators["luma"].enrich_events(luma_unknown)
+            # Re-extraer detalles de ubicación después de enriquecer
+            for e in luma_unknown:
+                if e.location:
+                    loc_details = e._extract_location_details()
+                    e.country = loc_details["country"]
+                    e.country_code = loc_details["country_code"]
+                    e.state = loc_details["state"]
+                    e.state_code = loc_details["state_code"]
+                    e.city = loc_details["city"]
+                    e.city_code = loc_details["city_code"]
+                    e._standardize_location()
+
+        # 2.6 Filter events by country (Only Mexico or Online)
         before_filter_count = len(all_events)
         all_events = [e for e in all_events if e.country_code == "MX" or e._is_online()]
         if len(all_events) < before_filter_count:
