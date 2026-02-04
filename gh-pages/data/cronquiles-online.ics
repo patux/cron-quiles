@@ -125,6 +125,41 @@ LOCATION:https://partiful.com/e/QRNMpghsgVNorMn7AbCd
 X-CRONQUILES-ADDRESS:https://partiful.com/e/QRNMpghsgVNorMn7AbCd
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Everything is storytelling|Online
+DTSTART:20230726T190000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/everythingisst
+ orytelling\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-e9MnPdmeIZDwZ6k
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-e9MnPdmeIZDwZ6k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Get more LPs|Online
+DTSTART:20230809T163000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/getmorelps\n\n
+ Hosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-4Krdqb6f3DP2OBn
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-4Krdqb6f3DP2OBn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Selling the Dream: How to explain your awes
+ ome market and opportunity to investors (no BS allowed)|Online
+DTSTART:20230829T170000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/sellingthedrea
+ m\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-uuo2blcOSr9Yggx
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-uuo2blcOSr9Yggx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Week in Fintech|The Fintech Job Fair|Online
+DTSTART:20230906T130000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/fintech-job-fa
+ ir\n\nHosted by This Week in Fintech
+LOCATION:https://luma.com/event/evt-3QJRnwHwI46eunH
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-3QJRnwHwI46eunH
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI Investors & Networking|Online
 DTSTART:20230911T230000Z
 CATEGORIES:ai
@@ -135,12 +170,47 @@ X-CRONQUILES-ADDRESS:https://www.eventbrite.com/e/ai-investors-networking-
  tickets-707083233987?aff=ebdsoporgprofile
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Understanding the Secondary Market in Ventu
+ re|Online
+DTSTART:20230912T170000Z
+CATEGORIES:security
+DESCRIPTION:Get up-to-date information at: https://luma.com/secondarymarke
+ t\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-SjfBmp6y8g6CsAE
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-SjfBmp6y8g6CsAE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|LLM x Law Hackathon #2 @Stanford|Online
 DTSTART:20230923T160000Z
 CATEGORIES:ai
 DESCRIPTION:Find more information on https://luma.com/genai-collective
 LOCATION:https://partiful.com/e/xlVcg6ApMYiun8yt4pTp
 X-CRONQUILES-ADDRESS:https://partiful.com/e/xlVcg6ApMYiun8yt4pTp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Automate your lead gen (and earn more reven
+ ue!)|Online
+DTSTART:20230927T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/automateyourle
+ adgen\n\nHosted by Janel Spilker & Hustle Fund
+LOCATION:https://luma.com/event/evt-Q6y8rwqE52I1uFP
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Q6y8rwqE52I1uFP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Founder-Led Sales with Pete Kazanjy|Online
+DTSTART:20230929T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/founderledsale
+ swithpete\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-HzmhZEXVPYHTRRS
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-HzmhZEXVPYHTRRS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Storytelling for Startups|Online
+DTSTART:20231003T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/storytellingfo
+ rstartups\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-qYPgUR0h87hL9sT
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-qYPgUR0h87hL9sT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|TedAI Hackathon|Online
@@ -169,6 +239,14 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/11-21\n\nHoste
  d by The AI Collective & 4 others
 LOCATION:https://luma.com/event/evt-YDkpPkYuPBXIpCH
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-YDkpPkYuPBXIpCH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Testing|Online
+DTSTART:20240207T003000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/vyftgrfp\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-LqbycCMZit3K7Uq
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-LqbycCMZit3K7Uq
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|🧠 GenAI Collective 🧠  Community Town Hall 
@@ -201,6 +279,14 @@ X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Scaling Sales Beyond the Founder|Online
+DTSTART:20240617T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/r0nbpfhv\n\nHo
+ sted by Hustle Fund\, Pat Reyes & Elizabeth Yin
+LOCATION:https://luma.com/event/evt-vbiSPvRJkL1Jiip
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vbiSPvRJkL1Jiip
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|🧠 GenAI Collective x OctoAI 🐙 All About Fi
  ne-Tuning LLMs|Online
 DTSTART:20240625T180050Z
@@ -221,12 +307,30 @@ LOCATION:https://luma.com/event/evt-BAYYJfemJabkiKB
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-BAYYJfemJabkiKB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Early-Stage Startup Funding: Business Strat
+ egies and Legal Essentials|Online
+DTSTART:20240725T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/dmk1wcbz\n\nHo
+ sted by Kristina Subbotina - Startup Lawyer
+LOCATION:https://luma.com/event/evt-RGWOnuPO4uiDS3G
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-RGWOnuPO4uiDS3G
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Frutero Club F5|Online
 DTSTART:20240830T000000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/r517q0h2\n\nHo
  sted by mel
 LOCATION:https://luma.com/event/evt-6vq7fAy6FXHzWOU
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-6vq7fAy6FXHzWOU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|How to Get 70K+ Monthly Visits With SEO in 
+ Less Than 5 Months|Online
+DTSTART:20240903T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/7k7tjh5h\n\nHo
+ sted by Wesley Sheh & 3 others
+LOCATION:https://luma.com/event/evt-aeVCMMiEAJSX0aF
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-aeVCMMiEAJSX0aF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Richard Kasperowski|Global Office Hours with Richard Kasperowski -
@@ -421,6 +525,16 @@ LOCATION:Online
 X-CRONQUILES-ADDRESS:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Second Opinion Live Podcast|Online
+DTSTART:20241217T200000Z
+CATEGORIES:security
+DESCRIPTION:Get up-to-date information at: https://luma.com/second-opinion
+ -live-podcast-dec172024\n\nHosted by Hustle Fund\, Mark Golub & Deck Docto
+ rs
+LOCATION:https://luma.com/event/evt-EeNZEoYwKDTVe7W
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-EeNZEoYwKDTVe7W
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Frutero Explora x Dabl Club Capítulo 1: Agentes IA|O
  nline
 DTSTART:20241221T170000Z
@@ -474,6 +588,16 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/fvq1u887\n\nHo
  sted by Carlos Rodríguez
 LOCATION:https://luma.com/event/evt-fQ4spf468xauodZ
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-fQ4spf468xauodZ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Second Opinion Live Podcast|Online
+DTSTART:20250211T180000Z
+CATEGORIES:security
+DESCRIPTION:Get up-to-date information at: https://luma.com/second-opinion
+ -live-podcast-feb112024\n\nHosted by Hustle Fund\, Mark Golub & Deck Docto
+ rs
+LOCATION:https://luma.com/event/evt-2r6lEgBHXt58nHR
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-2r6lEgBHXt58nHR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Secretos de un CTO para llegar a Y Combinator|Online
@@ -548,6 +672,25 @@ LOCATION:https://luma.com/event/evt-4KOLIHsMA7MwFel
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-4KOLIHsMA7MwFel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Angel Squad Open House 🏠|Online
+DTSTART:20250325T170000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/9mlyylbt\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-JM9GL3h39SANuOV
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-JM9GL3h39SANuOV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|NYC: Claim your 30 day Angel Squad Guest Pa
+ ss|Online
+DTSTART:20250327T173000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/j5lbeu61\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-bHDiEzXv77L67gr
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-bHDiEzXv77L67gr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Frutero Talk #010 - Salud mental en Web3|Online
 DTSTART:20250401T230000Z
 CATEGORIES:web
@@ -567,12 +710,72 @@ LOCATION:https://luma.com/event/evt-T0z9nCR0hg3IwkX
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-T0z9nCR0hg3IwkX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Miami: Claim your 30 day Angel Squad Guest 
+ Pass|Online
+DTSTART:20250415T173000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/5lge3xpl\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-ENIluEGEp0Z68wh
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-ENIluEGEp0Z68wh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Los Angeles: Claim your 30 day Angel Squad 
+ Guest Pass|Online
+DTSTART:20250415T173000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/un8oavbt\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-gv4JtT4E33xU9zm
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-gv4JtT4E33xU9zm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|DC: Claim your 30 day Angel Squad Guest Pas
+ s|Online
+DTSTART:20250415T173000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/bzs5xfd3\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-nGBjHQD3BtaqYCv
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-nGBjHQD3BtaqYCv
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Frutero Talk #012 - Mantle Network en Latam|Online
 DTSTART:20250415T230000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/wjgm1fz4\n\nHo
  sted by René Hernández
 LOCATION:https://luma.com/event/evt-8OrYQANLSFuy9Yj
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-8OrYQANLSFuy9Yj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Nashville: Claim your 30 day Angel Squad Gu
+ est Pass|Online
+DTSTART:20250422T153000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/rvsmtv11\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-Swr4Skt7ZMAhiPK
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Swr4Skt7ZMAhiPK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Austin: Claim your 30 day Angel Squad Guest
+  Pass|Online
+DTSTART:20250422T153000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/yjdcys3a\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-HuQ0D9BpuZXJBRH
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-HuQ0D9BpuZXJBRH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Toronto: Claim your 30 day Angel Squad Gues
+ t Pass|Online
+DTSTART:20250422T153000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/688vnl5n\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-4p0qcU7yuzMcRPG
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-4p0qcU7yuzMcRPG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Frutero Talk #013 - ¿Qué es Ledger Leaders Week? co
@@ -584,6 +787,45 @@ LOCATION:https://luma.com/event/evt-xgjYW4xbSlteRrg
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-xgjYW4xbSlteRrg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Venture Bites: The #1 Mistake Eric Bahn See
+ s Angel Investors Make|Online
+DTSTART:20250424T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/iqdyq2l7\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-bwps12cQsGU0CQt
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-bwps12cQsGU0CQt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Singapore: Claim your 30 day Angel Squad Gu
+ est Pass|Online
+DTSTART:20250429T200000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/jba3nyqn\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-Sj9muIZAl50PxWp
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Sj9muIZAl50PxWp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Boston: Claim your 30 day Angel Squad Guest
+  Pass|Online
+DTSTART:20250429T200000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/udlg3jpu\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-g4Kv6EARAbhC5MX
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-g4Kv6EARAbhC5MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Seattle: Claim your 30 day Angel Squad Gues
+ t Pass|Online
+DTSTART:20250429T200000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/8xwugnsb\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-IUNr9mkqIu8MRu9
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-IUNr9mkqIu8MRu9
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI Fireside Chat 🧠 GenAI Collective x Brett B
  erhoff 🧠|Online
 DTSTART:20250507T170000Z
@@ -592,6 +834,56 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/AIfireside\n\n
  Hosted by The AI Collective & ⚡️BRETT BERHOFF⚡️
 LOCATION:https://luma.com/event/evt-9BZaij9bfy1TBnw
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-9BZaij9bfy1TBnw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Jakarta: Claim your 30 day Angel Squad Gues
+ t Pass|Online
+DTSTART:20250507T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/sfubyqdf\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-j1aDDbfGqmRAIgQ
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-j1aDDbfGqmRAIgQ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Tulsa: Claim your 30 day Angel Squad Guest 
+ Pass|Online
+DTSTART:20250507T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/7nph0txt\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-YlybcBFhJGGiGBu
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-YlybcBFhJGGiGBu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|San Francisco: Claim your 30 day Angel Squa
+ d Guest Pass|Online
+DTSTART:20250507T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/lshwpvf2\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-780stbyofbBC3HN
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-780stbyofbBC3HN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Bentonville: Claim your 30 day Angel Squad 
+ Guest Pass|Online
+DTSTART:20250507T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/7dbnny8t\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-wlqBonvCpwTIP13
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-wlqBonvCpwTIP13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Hustle Fund / Angel Squad: Claim your 30 da
+ y Guest Pass|Online
+DTSTART:20250528T180000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/6ijtp2mp\n\nHo
+ sted by Hustle Fund & Wael Jabir
+LOCATION:https://luma.com/event/evt-O1E8LIYm2GaxY4U
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-O1E8LIYm2GaxY4U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rust-AICollective|AI Collective Worldwide Launch Party 🚀|Online
@@ -619,12 +911,31 @@ LOCATION:https://luma.com/event/evt-BdnWzeaUTboIfh0
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-BdnWzeaUTboIfh0
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|How Notion’s AI Lead Runs a High-Velocity
+  Eng Team with AI|Online
+DTSTART:20250623T170000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/lead-team-with
+ -ai\n\nHosted by Hustle Fund\, Janel Spilker & Elizabeth Yin
+LOCATION:https://luma.com/event/evt-dCeH8TBWdAjUwcI
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-dCeH8TBWdAjUwcI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Sesión 4 - Uniswap Lab con Frutero Club|Online
 DTSTART:20250624T003000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/v1csn6b1\n\nHo
  sted by René Hernández & 3 others
 LOCATION:https://luma.com/event/evt-puEQsNioFj40AOB
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-puEQsNioFj40AOB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Venture Bites: Behind the Scenes of Hustle 
+ Fund's Venture Fellowship|Online
+DTSTART:20250625T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/ccsyx1mn\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-ViGYdQ695VpOohB
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-ViGYdQ695VpOohB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Sesión 5 - Uniswap Lab con Frutero Club|Online
@@ -668,6 +979,24 @@ LOCATION:https://luma.com/event/evt-LTnWJzF64Tke7e8
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-LTnWJzF64Tke7e8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Venture Bites: Why Founders Should Angel In
+ vest Micro-Checks|Online
+DTSTART:20250731T180000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/ze2bsy6l\n\nHo
+ sted by Hustle Fund
+LOCATION:https://luma.com/event/evt-jAbrAB2UuAtd9ay
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-jAbrAB2UuAtd9ay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Venture Bites: Why Product Leaders Make Gre
+ at Angel Investors|Online
+DTSTART:20250814T180000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/swaxoorh\n\nHo
+ sted by Hustle Fund & Brian Nichols
+LOCATION:https://luma.com/event/evt-lBIaSzT6l1fN3SQ
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-lBIaSzT6l1fN3SQ
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI/IA CDMX|Beyond the Plateau: Rethinking AI in 2025|Online
 DTSTART:20250820T010000Z
 CATEGORIES:ai
@@ -676,6 +1005,15 @@ LOCATION:https://www.meetup.com/ai-cdmx/events/310087422/
 X-CRONQUILES-ADDRESS:https://www.meetup.com/ai-cdmx/events/310087422/
 X-CRONQUILES-COUNTRY:México
 X-CRONQUILES-COUNTRY-CODE:MX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|10 Minute Blitz with Nicole DeTommaso: How 
+ to Break into VC as an Angel Investor|Online
+DTSTART:20250910T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/vhw2j6z1\n\nHo
+ sted by Wael Jabir & Nicole DeTommaso
+LOCATION:https://luma.com/event/evt-bCXzW5aarpAQHid
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-bCXzW5aarpAQHid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claude Users Group|Build with Claude Code|Online
@@ -687,9 +1025,28 @@ LOCATION:https://luma.com/event/evt-T9Ma1BnBItT1Yb2
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-T9Ma1BnBItT1Yb2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Builders MX|How I Use AI – Vol 1|Online
-DTSTART:20251007T220000Z
+SUMMARY:Founder Friends Mexico|Byldd x Angel Squad Present: The 5 Most Eff
+ ective Techniques to Use AI for Building at Startups and Small Businesses|
+ Online
+DTSTART:20251002T160000Z
 CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/lu0cezoe\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-5bzZksYMsetVmKD
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-5bzZksYMsetVmKD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|BATTER UP! REGIONAL PITCH COMPETITION 2025 
+ - #SFTechWeek|Online
+DTSTART:20251006T173000Z
+DESCRIPTION:Find more information on https://luma.com/hustlefund
+LOCATION:https://partiful.com/e/b0uCIPkiXO9lph7mTQ8S
+X-CRONQUILES-ADDRESS:https://partiful.com/e/b0uCIPkiXO9lph7mTQ8S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:v0 Prompt to Production Mexico City|How I Use AI – Vol 1|Online
+DTSTART:20251007T220000Z
+CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/pi3ebsn2\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-gCpfBqRDQhEOJf9
@@ -703,6 +1060,51 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/elv412dg\n\nHo
  sted by Sudo FCiencias & Luis Daniel Paredes Zamudio
 LOCATION:https://luma.com/event/evt-J4Et3DBgzVr7ieI
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-J4Et3DBgzVr7ieI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|10 Minute Blitz with Turner Novak: How to B
+ reak into VC through Personal Branding|Online
+DTSTART:20251016T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/1fa14671\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-crhnVKntad1hufu
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-crhnVKntad1hufu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|10 Minute Blitz with Ann Miura-Ko: Pattern 
+ Recognition in Early Stage Investing|Online
+DTSTART:20251024T180000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/4giedi1j\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-vz1LMNtWMjcyQiF
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vz1LMNtWMjcyQiF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|10 Minute Blitz with Ankur Nagpal: Avoiding
+  Tax Pitfalls as an Angel Investor|Online
+DTSTART:20251106T183000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/nj9b0s5n\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-FmCBjqaT7Bx4B0i
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-FmCBjqaT7Bx4B0i
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Angel Squad x Nicole DeTommaso\, Bootcamp: 
+ How to Break into VC Through Angel Investing|Online
+DTSTART:20251113T180000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/2hyeeggr\n\nHo
+ sted by Wael Jabir\, Nicole DeTommaso & Brian Nichols
+LOCATION:https://luma.com/event/evt-Nxe2wxIrRaHFmwm
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Nxe2wxIrRaHFmwm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|10 Minute Blitz with Melissa Perri: Why Pro
+ duct Leaders Make Phenomenal Angel Investors|Online
+DTSTART:20251120T190000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/wje7wfw4\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-Oa0s1kPFFR8VtCh
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-Oa0s1kPFFR8VtCh
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sudo FCiencias|Kubernetes 101 (w/Victor Morales)|Online
@@ -722,12 +1124,29 @@ LOCATION:https://luma.com/event/evt-OugMCae81OaArCd
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-OugMCae81OaArCd
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Venture Bites: How small check writers driv
+ e big impact|Online
+DTSTART:20251210T190000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/4f9mrnkg\n\nHo
+ sted by Wael Jabir
+LOCATION:https://luma.com/event/evt-slbZ24DNKXrv76g
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-slbZ24DNKXrv76g
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #26 Gather Edition|Online
 DTSTART:20251217T160000Z
 DESCRIPTION:Get up-to-date information at: https://luma.com/qwkzsekx\n\nHo
  sted by Frutero
 LOCATION:https://luma.com/event/evt-dCijW1iczXlhBFD
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-dCijW1iczXlhBFD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founder Friends Mexico|Uncapped Notes Live|Online
+DTSTART:20251217T200000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/uncapped-notes
+ -live-dec-2025\n\nHosted by Hustle Fund
+LOCATION:https://luma.com/event/evt-MNA5eK2UuxsFKxQ
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-MNA5eK2UuxsFKxQ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #27 Gather Edition|Online
@@ -967,9 +1386,9 @@ LOCATION:https://luma.com/event/evt-vQHQI5t7hCs2lma
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-vQHQI5t7hCs2lma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Builders MX|Diseña usando AI|Online
+SUMMARY:v0 Prompt to Production Mexico City|Diseña usando AI|Online
 DTSTART:20260127T230000Z
-CATEGORIES:ai,frontend
+CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/ubxd600w\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-IWVh1A0cdphlpRP
@@ -1082,9 +1501,9 @@ DESCRIPTION:México City AI\, Machine Learning and Computer Vision Meetup\
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Builders MX|Diseña usando AI|Online
+SUMMARY:v0 Prompt to Production Mexico City|Diseña usando AI|Online
 DTSTART:20260128T230000Z
-CATEGORIES:ai,frontend
+CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/5nq96pxw\n\nHo
  sted by Javier Rivero
 LOCATION:https://luma.com/event/evt-H4WPxCoPFcne2bC
