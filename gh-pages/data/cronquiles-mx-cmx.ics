@@ -10,9 +10,9 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Sesiones Co-work: Lluvia de Ideas|México|Ciudad de M
  éxico
 DTSTART:20240926T200000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/e3vnxjix\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por mel
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/e3vnxjix\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by mel
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -26,10 +26,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Conexión de visionarios|México|Ciudad de Méxic
  o
 DTSTART:20241009T213000Z
-CATEGORIES:mobile
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ejamvz7l\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Dulce Díaz\, Edgar Torres y Nadia Lezcano
+CATEGORIES:ai,mobile
+DESCRIPTION:Get up-to-date information at: https://luma.com/ejamvz7l\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Dulce Díaz\, Edga
+ r Torres & Nadia Lezcano
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -43,9 +43,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Startups Running Club - ASDeporte Invita|México|
  Ciudad de México
 DTSTART:20241021T123000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/zncyaaun\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/zncyaaun\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & 4 others
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -63,10 +63,9 @@ SUMMARY:Mexico Tech Week|Amela & Carpe Morning Club: Connect with female f
  ounders|México|Ciudad de México
 DTSTART:20241021T140000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/rve02fjv\
- n\nDirección:\nCarpe Diem Mindful Training\nCiudad de México\, Ciudad de
-  México\nMexico\n\nOrganizado por Mexico Tech Week\, Anais Cisneros y Sus
- ana Espinosa
+DESCRIPTION:Get up-to-date information at: https://luma.com/rve02fjv\n\nAd
+ dress:\nCarpe Diem Mindful Training\nCiudad de México\, Ciudad de México
+ \nMexico\n\nHosted by Mexico Tech Week\, Anais Cisneros & Susana Espinosa
 LOCATION:Carpe Diem Mindful Training\, Lago Andromaco 17\, Granada\, Migue
  l Hidalgo\, 11529 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Andromaco 17\, Granada\, Miguel Hidalgo\, 11529 
@@ -83,9 +82,8 @@ SUMMARY:Mexico Tech Week|Desayuno Ejecutivo: Integrando AI de forma confia
  ble y escalable en las empresas|México|Ciudad de México
 DTSTART:20241021T150000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/f9yx7hoc\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Luciana Reznik
+DESCRIPTION:Get up-to-date information at: https://luma.com/f9yx7hoc\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Luciana Reznik
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -99,9 +97,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Generative ¡Aí! Revolución|México|Ciudad de M
  éxico
 DTSTART:20241021T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/jziomo5e\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/jziomo5e\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -118,9 +116,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Healthtech Visionaries: Opportunities in Women’
  s Health|México|Ciudad de México
 DTSTART:20241021T163000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/sscoy6u2\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 6 personas más
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/sscoy6u2\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  6 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -136,10 +135,9 @@ SUMMARY:Mexico Tech Week|Panel Belvo: Superando el efectivo: retos y oport
  dad de México
 DTSTART:20241021T170000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/46ml624p\
- n\nDirección:\nColony House Reforma\nAv. P.º de la Reforma 560\nCiudad d
- e México\, Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y
-  Belvo
+DESCRIPTION:Get up-to-date information at: https://luma.com/46ml624p\n\nAd
+ dress:\nColony House Reforma\nAv. P.º de la Reforma 560\nCiudad de Méxic
+ o\, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Belvo
 LOCATION:Colony House Reforma\, Av. P.º de la Reforma 560\, Lomas - Virre
  yes\, Lomas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CD
  MX\, Mexico
@@ -158,9 +156,9 @@ SUMMARY:Mexico Tech Week|Mastering Fundraising: Building a Strong Foundati
  on for Growth|México|Ciudad de México
 DTSTART:20241021T173000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/1vedoug6\
- n\nDirección:\nBBVA\nFloor 33rd\nCiudad de México\, Ciudad de México\nM
- exico\n\nOrganizado por Mexico Tech Week y Andrea López
+DESCRIPTION:Get up-to-date information at: https://luma.com/1vedoug6\n\nAd
+ dress:\nBBVA\nFloor 33rd\nCiudad de México\, Ciudad de México\nMexico\n\
+ nHosted by Mexico Tech Week & Andrea López
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -176,10 +174,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Fintech Frenzy Future: Web3 Panel & Burger Lunch|
  México|Ciudad de México
 DTSTART:20241021T190000Z
-CATEGORIES:web
-DESCRIPTION:Obtén información actualizada en: https://luma.com/vadiMXTW2
- 024\n\nDirección:\nConsulta la página del evento para obtener más detal
- les.\n\nOrganizado por Mexico Tech Week y 3 personas más
+CATEGORIES:ai,web
+DESCRIPTION:Get up-to-date information at: https://luma.com/vadiMXTW2024\n
+ \nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech We
+ ek & 3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -193,9 +191,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Tacos\, Beer and Gen AI|México|Ciudad de México
 DTSTART:20241021T193000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/heroguest
- \n\nDirección:\nConsulta la página del evento para obtener más detalles
- .\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/heroguest\n\nA
+ ddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week 
+ & 3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -209,10 +207,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Fintech Feast:  Luncheon with Pygma\, Mastercard\
  , Google & This Week in Fintech|México|Ciudad de México
 DTSTART:20241021T210000Z
-CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/8o2qc0sg\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week\, Andrés Cano y Jorge Gonzalez Soler
+CATEGORIES:ai,python
+DESCRIPTION:Get up-to-date information at: https://luma.com/8o2qc0sg\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week\,
+  Andrés Cano & Jorge Gonzalez Soler
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -226,9 +224,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Emprelatam Connect Day CDMX|México|Ciudad de Mé
  xico
 DTSTART:20241021T213000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/rk2rp5gp\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week\, Emprelatam y Denisse Galindo
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/rk2rp5gp\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week\,
+  Emprelatam & Denisse Galindo
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -243,9 +242,9 @@ SUMMARY:Mexico Tech Week|Founders & Drinks by Startup Grind #MexicoTechWee
  k|México|Ciudad de México
 DTSTART:20241021T230000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/cranm43m\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week\, Guillermo Vizcaino y Carlos Zárate
+DESCRIPTION:Get up-to-date information at: https://luma.com/cranm43m\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week\,
+  Guillermo Vizcaino & Carlos Zárate
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -260,9 +259,9 @@ SUMMARY:Mexico Tech Week|Diving deep on AI in Mexico: In Conversation with
   Rest of World|México|Ciudad de México
 DTSTART:20241021T230000Z
 CATEGORIES:ai,backend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/2ts08m45\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y Rest of World
+DESCRIPTION:Get up-to-date information at: https://luma.com/2ts08m45\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  Rest of World
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -275,9 +274,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|KASZEK Day|México|Ciudad de México
 DTSTART:20241022T133000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/kaszekmtw
- 2024\n\nDirección:\nConsulta la página del evento para obtener más deta
- lles.\n\nOrganizado por Mexico Tech Week\, Mariano Bomaggio y Julia Salles
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/kaszekmtw2024\
+ n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech W
+ eek\, Mariano Bomaggio & Julia Salles
 LOCATION:Mexico City
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -291,10 +291,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|AWS Startups + Síclo + Cosmic  -  Fitness & Tech
   sessions @ Síclo|México|Ciudad de México
 DTSTART:20241022T134500Z
-CATEGORIES:cloud
-DESCRIPTION:Obtén información actualizada en: https://luma.com/fehc1pqz\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 3 personas más
+CATEGORIES:ai,cloud
+DESCRIPTION:Get up-to-date information at: https://luma.com/fehc1pqz\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -308,9 +308,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Finance for Hypergrowth - Measure What Matters|M
  éxico|Ciudad de México
 DTSTART:20241022T143000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/9zgfnaxv\
- n\nDirección:\nBUNA - La Tostadora\nCiudad de México\, Ciudad de México
- \nMexico\n\nOrganizado por Mexico Tech Week y Juan Pablo Donoso
+DESCRIPTION:Get up-to-date information at: https://luma.com/9zgfnaxv\n\nAd
+ dress:\nBUNA - La Tostadora\nCiudad de México\, Ciudad de México\nMexico
+ \n\nHosted by Mexico Tech Week & Juan Pablo Donoso
 LOCATION:BUNA - La Tostadora\, C. Dr. Lucio 181\, Doctores\, Cuauhtémoc\,
   06720 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Dr. Lucio 181\, Doctores\, Cuauhtémoc\, 06720 Ciu
@@ -327,9 +327,9 @@ SUMMARY:Mexico Tech Week|MXTW: Transformación Digital Para Fundadoras No
  Técnicos|México|Ciudad de México
 DTSTART:20241022T143000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/j0opyj2u\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/j0opyj2u\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & 4 others
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -347,10 +347,10 @@ SUMMARY:Mexico Tech Week|Aws y  Merlin Data Quality invitan a Desayuno pre
  sencial: ¿Cómo convertir datos en negocios rentables?|México|Ciudad de 
  México
 DTSTART:20241022T150000Z
-CATEGORIES:cloud,data,mobile
-DESCRIPTION:Obtén información actualizada en: https://luma.com/zw6btxfv\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 5 personas más
+CATEGORIES:ai,cloud,data,mobile
+DESCRIPTION:Get up-to-date information at: https://luma.com/zw6btxfv\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  5 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -365,9 +365,8 @@ SUMMARY:Mexico Tech Week|Desayuno Ejecutivo: Potencia tus Reportes de Sust
  entabilidad con AI|México|Ciudad de México
 DTSTART:20241022T150000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/jbj63hw1\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Luciana Reznik
+DESCRIPTION:Get up-to-date information at: https://luma.com/jbj63hw1\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Luciana Reznik
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -382,9 +381,9 @@ SUMMARY:Mexico Tech Week|Amela\, Agora & Fan Trivia: Hacking Entrepreneurs
  hip 👩🏻‍💻  -  CDMX|México|Ciudad de México
 DTSTART:20241022T150000Z
 CATEGORIES:ai,security
-DESCRIPTION:Obtén información actualizada en: https://luma.com/iccowu0y\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week\, Andrea Román y Anais Cisneros
+DESCRIPTION:Get up-to-date information at: https://luma.com/iccowu0y\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week\,
+  Andrea Román & Anais Cisneros
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -399,9 +398,9 @@ SUMMARY:Mexico Tech Week|AWS Startups  -  GenAI Workshop|México|Ciudad d
  e México
 DTSTART:20241022T150000Z
 CATEGORIES:ai,cloud
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ytcxgpit\
- n\nDirección:\nNápoles 47\nCiudad de México\, Ciudad de México\nMexico
- \n\nOrganizado por Alex Santana\, Mexico Tech Week y Daniel Bedolla
+DESCRIPTION:Get up-to-date information at: https://luma.com/ytcxgpit\n\nAd
+ dress:\nNápoles 47\nCiudad de México\, Ciudad de México\nMexico\n\nHost
+ ed by Alex Santana\, Mexico Tech Week & Daniel Bedolla
 LOCATION:Nápoles 47\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, C
  DMX\, Mexico
 X-CRONQUILES-ADDRESS:Nápoles 47\, Juárez\, Cuauhtémoc\, 06600 Ciudad de
@@ -418,9 +417,9 @@ SUMMARY:Mexico Tech Week|Ganas Ventures Coffee 🇲🇽  #MexicoTechWeek|M
  éxico|Ciudad de México
 DTSTART:20241022T163000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hknigmzv\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y Guillermo Vizcaino
+DESCRIPTION:Get up-to-date information at: https://luma.com/hknigmzv\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  Guillermo Vizcaino
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -434,10 +433,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Contratar para crecer: cuándo y cómo incorporar
   roles ejecutivos para impulsar tu Startup|México|Ciudad de México
 DTSTART:20241022T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/mvzw73l4\
- n\nDirección:\nThe Square at Corporativo Neuchatel\nCiudad de México\, C
- iudad de México\nMexico\n\nOrganizado por Mexico Tech Week\, Araceli y Ma
- uro L'Estrange
+DESCRIPTION:Get up-to-date information at: https://luma.com/mvzw73l4\n\nAd
+ dress:\nThe Square at Corporativo Neuchatel\nCiudad de México\, Ciudad de
+  México\nMexico\n\nHosted by Mexico Tech Week\, Araceli & Mauro L'Estrang
+ e
 LOCATION:The Square at Corporativo Neuchatel\, Av. Río San Joaquín 498\,
   Polanco\, Amp Granada\, Miguel Hidalgo\, 11529 Ciudad de México\, CDMX\,
   Mexico
@@ -454,10 +453,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Why USA\, why now ? Accelerating LatAm  -  pygma 
  & Select USA|México|Ciudad de México
 DTSTART:20241022T190000Z
-CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/v49bw2fj\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 4 personas más
+CATEGORIES:ai,python
+DESCRIPTION:Get up-to-date information at: https://luma.com/v49bw2fj\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  4 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -471,9 +470,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Platanus Day 🍌 - pitches\, pints and petanca|M
  éxico|Ciudad de México
 DTSTART:20241022T210000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/platanus-
- day\n\nDirección:\nConsulta la página del evento para obtener más detal
- les.\n\nOrganizado por Mexico Tech Week y 5 personas más
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/platanus-day\n
+ \nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech We
+ ek & 5 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -487,10 +487,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|AWS Startups + Clouxer  -  Tips para un proceso d
  e Due Diligence técnico exitoso|México|Ciudad de México
 DTSTART:20241022T230000Z
-CATEGORIES:cloud,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/633u6r4v\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y 3 personas más
+CATEGORIES:ai,cloud,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/633u6r4v\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -504,9 +504,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Emerging Managers & LP meetup #MexicoTechWeek|Mé
  xico|Ciudad de México
 DTSTART:20241022T233000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ev1tas7v\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week\, Mat Gantar y Alex Santana
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/ev1tas7v\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week\,
+  Mat Gantar & Alex Santana
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -521,9 +522,9 @@ SUMMARY:Mexico Tech Week|Networking Cocktail & Invitational Party by Capit
  al One|México|Ciudad de México
 DTSTART:20241023T000000Z
 CATEGORIES:ai,backend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/5upe1x94\
- n\nDirección:\nBrick Hotel México City\nCuauhtémoc\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y Capital One
+DESCRIPTION:Get up-to-date information at: https://luma.com/5upe1x94\n\nAd
+ dress:\nBrick Hotel México City\nCuauhtémoc\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & Capital One
 LOCATION:Brick Hotel México City\, C. Orizaba 95\, Roma Nte.\, Cuauhtémo
  c\, 06700 Cuauhtémoc\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Orizaba 95\, Roma Nte.\, Cuauhtémoc\, 06700 Cuauh
@@ -539,9 +540,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Tech Nights: Retos de escalar SaaS en Latinoamér
  ica.|México|Ciudad de México
 DTSTART:20241023T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/jl3q7igg\
- n\nDirección:\nHaab Project Condesa\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Mexico Tech Week y 12 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/jl3q7igg\n\nAd
+ dress:\nHaab Project Condesa\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Mexico Tech Week & 12 others
 LOCATION:Haab Project Condesa\, Ámsterdam 255\, Hipódromo Condesa\, Cuau
  htémoc\, 06100 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Ámsterdam 255\, Hipódromo Condesa\, Cuauhtémoc\, 0
@@ -558,9 +559,9 @@ SUMMARY:Mexico Tech Week|Entendiendo los modelos de IA/GenAI y cómo aplic
  arnos en las empresas.|México|Ciudad de México
 DTSTART:20241023T000000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/w71txum2\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Mexico Tech Week y Israel Cauich Viñas
+DESCRIPTION:Get up-to-date information at: https://luma.com/w71txum2\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week &
+  Israel Cauich Viñas
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -574,9 +575,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|International Community in Mexico: Unlocking Prof
  essional\, Economic\, and Cultural Opportunities|México|Ciudad de México
 DTSTART:20241023T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/qmsds6o6\
- n\nDirección:\nCoffeefy Workafe - WTC\nCiudad de México\, Ciudad de Méx
- ico\nMexico\n\nOrganizado por Mexico Tech Week\, Eduardo L De Leon y Raf
+DESCRIPTION:Get up-to-date information at: https://luma.com/qmsds6o6\n\nAd
+ dress:\nCoffeefy Workafe - WTC\nCiudad de México\, Ciudad de México\nMex
+ ico\n\nHosted by Mexico Tech Week\, Eduardo L De Leon & Raf
 LOCATION:Coffeefy Workafe - WTC\, Torres Adalid 15\, Col del Valle Centro\
  , Benito Juárez\, 03100 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Torres Adalid 15\, Col del Valle Centro\, Benito Juá
@@ -608,9 +609,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|TWIF Fintech Mixer for Founders\, Operators & VCs
  |México|Ciudad de México
 DTSTART:20241023T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/synjm1uw\
- n\nDirección:\nCarajillo\nCiudad de México\, Ciudad de México\nMexico\n
- \nOrganizado por Mexico Tech Week y 6 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/synjm1uw\n\nAd
+ dress:\nCarajillo\nCiudad de México\, Ciudad de México\nMexico\n\nHosted
+  by Mexico Tech Week & 6 others
 LOCATION:Carajillo\, C. Salamanca 32\, Roma Nte.\, Cuauhtémoc\, 06700 Ciu
  dad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Salamanca 32\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
@@ -710,9 +711,9 @@ SUMMARY:Mexico Tech Week|Amazon Q vs Github Copilot  -  IAM Identify Cente
  r "Trabajar en un esquema multicuenta sin morir en el intento"|México|Ciu
  dad de México
 DTSTART:20241023T010000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/gzq7z7a4\
- n\nDirección:\nWizeline\nCiudad de México\, Ciudad de México\nMexico\n\
- nOrganizado por Mexico Tech Week y Kevin Carmona
+DESCRIPTION:Get up-to-date information at: https://luma.com/gzq7z7a4\n\nAd
+ dress:\nWizeline\nCiudad de México\, Ciudad de México\nMexico\n\nHosted 
+ by Mexico Tech Week & Kevin Carmona
 LOCATION:Wizeline\, Av. P.º de la Reforma 296-Piso 32\, Juárez\, Cuauht
  émoc\, 06600 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 296-Piso 32\, Juárez\, Cuauht
@@ -763,9 +764,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Studio Berlin's Open Mic\, Mexico Tech Week Speci
  al Edition|México|Ciudad de México
 DTSTART:20241023T020000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/07dz4tvr\
- n\nDirección:\nStudio Berlin\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Mexico Tech Week y Studio Berlin
+DESCRIPTION:Get up-to-date information at: https://luma.com/07dz4tvr\n\nAd
+ dress:\nStudio Berlin\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Mexico Tech Week & Studio Berlin
 LOCATION:Studio Berlin\, Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciu
  dad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad 
@@ -781,9 +782,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Deel Padel Series en MTW|México|Ciudad de Méxic
  o
 DTSTART:20241023T130000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/y3nz09hm\
- n\nDirección:\nPadel Company\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Deel y Mexico Tech Week
+DESCRIPTION:Get up-to-date information at: https://luma.com/y3nz09hm\n\nAd
+ dress:\nPadel Company\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Deel & Mexico Tech Week
 LOCATION:Padel Company\, Lago Andromaco 17\, Granada\, Miguel Hidalgo\, 11
  529 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Andromaco 17\, Granada\, Miguel Hidalgo\, 11529 
@@ -799,9 +800,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Corrida 7K + Cafecito 🏃☕|México|Ciudad de M
  éxico
 DTSTART:20241023T130000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/cj3cw8do\
- n\nDirección:\nLuz Park\nCiudad de México\, Ciudad de México\nMexico\n\
- nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/cj3cw8do\n\nAd
+ dress:\nLuz Park\nCiudad de México\, Ciudad de México\nMexico\n\nHosted 
+ by Mexico Tech Week & 3 others
 LOCATION:Luz Park\, Bosque de Chapultepec II Secc\, Miguel Hidalgo\, 11100
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Parque de la Luz\, Bosque de Chapultepec II Secc\, Mi
@@ -818,10 +819,10 @@ SUMMARY:Mexico Tech Week|Sofía + BBVA Spark  -  Desayuno con un Médico G
  enetista|México|Ciudad de México
 DTSTART:20241023T143000Z
 CATEGORIES:data
-DESCRIPTION:Obtén información actualizada en: https://luma.com/54prcbbt\
- n\nDirección:\nBBVA\nTorre BBVA\, Spark Space\, Piso 33\, Patio & War roo
- m 1\nCiudad de México\, Ciudad de México\nMexico\n\nOrganizado por Sophi
- a Liu\, Mexico Tech Week y Iliana
+DESCRIPTION:Get up-to-date information at: https://luma.com/54prcbbt\n\nAd
+ dress:\nBBVA\nTorre BBVA\, Spark Space\, Piso 33\, Patio & War room 1\nCiu
+ dad de México\, Ciudad de México\nMexico\n\nHosted by Sophia Liu\, Mexic
+ o Tech Week & Iliana
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -837,10 +838,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Marketing + IA = MarIA (Crash Course + Breakfast)
  |México|Ciudad de México
 DTSTART:20241023T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/s4ycmyv3\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week\, Salvador Vazquez y Erick Sala
- zar
+DESCRIPTION:Get up-to-date information at: https://luma.com/s4ycmyv3\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week\, Salvador Vazquez & Erick Salazar
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -891,9 +891,9 @@ SUMMARY:Mexico Tech Week|Your Business AI Canvas- Workshop|México|Ciudad
  de México
 DTSTART:20241023T160000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/aicanvas\
- n\nDirección:\nCo-Madre Lomas\nCiudad de México\, Ciudad de México\nMex
- ico\n\nOrganizado por Mexico Tech Week\, Vanesa y Emiliana
+DESCRIPTION:Get up-to-date information at: https://luma.com/aicanvas\n\nAd
+ dress:\nCo-Madre Lomas\nCiudad de México\, Ciudad de México\nMexico\n\nH
+ osted by Mexico Tech Week\, Vanesa & Emiliana
 LOCATION:Co-Madre Lomas\, C. Montes Urales 455-Piso 1 y 2\, Lomas - Virrey
  es\, Lomas de Chapultepec III Secc\, Miguel Hidalgo\, 11000 Ciudad de Méx
  ico\, CDMX\, Mexico
@@ -943,10 +943,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Mobility & Tech|México|Ciudad de México
 DTSTART:20241023T180000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/qp2bl68g\
- n\nDirección:\nBBVA\nPiso 33\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Juan Manuel Pancic Arigon\, Mexico Tech Week y Sabina
-  Balestrino
+DESCRIPTION:Get up-to-date information at: https://luma.com/qp2bl68g\n\nAd
+ dress:\nBBVA\nPiso 33\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Juan Manuel Pancic Arigon\, Mexico Tech Week & Sabina Balestrino
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -963,9 +962,9 @@ SUMMARY:Mexico Tech Week|Padel Tournament - Game ON! by Capital One|Méxic
  o|Ciudad de México
 DTSTART:20241023T180000Z
 CATEGORIES:backend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ogeodttw\
- n\nDirección:\nPadel Company\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Mexico Tech Week y Capital One
+DESCRIPTION:Get up-to-date information at: https://luma.com/ogeodttw\n\nAd
+ dress:\nPadel Company\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Mexico Tech Week & Capital One
 LOCATION:Padel Company\, Lago Andromaco 17\, Granada\, Miguel Hidalgo\, 11
  529 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Andromaco 17\, Granada\, Miguel Hidalgo\, 11529 
@@ -981,10 +980,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|La Realidad de las nuevas "Realidades"|México|Ci
  udad de México
 DTSTART:20241023T190000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/yqt9iqmy\
- n\nDirección:\nWeWork Espacio de Oficinas & Coworking\nCiudad de México\
- , Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y David Esp
- ino
+DESCRIPTION:Get up-to-date information at: https://luma.com/yqt9iqmy\n\nAd
+ dress:\nWeWork Espacio de Oficinas & Coworking\nCiudad de México\, Ciudad
+  de México\nMexico\n\nHosted by Mexico Tech Week & David Espino
 LOCATION:WeWork Espacio de Oficinas & Coworking\, Lago Alberto 375\, Anáh
  uac I Secc\, Miguel Hidalgo\, 11320 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Alberto 375\, Anáhuac I Secc\, Miguel Hidalgo\,
@@ -1000,9 +998,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Founders’ session on F*ck Ups on People Managem
  ent by Skala|México|Ciudad de México
 DTSTART:20241023T200000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/txu3oczd\
- n\nDirección:\nMadre Café\nCiudad de México\, Ciudad de México\nMexico
- \n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/txu3oczd\n\nAd
+ dress:\nMadre Café\nCiudad de México\, Ciudad de México\nMexico\n\nHost
+ ed by Mexico Tech Week & 4 others
 LOCATION:Madre Café\, Orizaba 131\, Roma Nte.\, Cuauhtémoc\, 06700 Ciuda
  d de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Orizaba 131\, Roma Nte.\, Cuauhtémoc\, 06700 Ciud
@@ -1018,9 +1016,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|La Neta del VC <> SoftBank LatAm <> BBVA: Latest 
  Take on LatAm’s Tech Ecosystem 🌎🚀|México|Ciudad de México
 DTSTART:20241023T210000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/iuj8sn32\
- n\nDirección:\nBBVA\nCiudad de México\, Ciudad de México\nMexico\n\nOrg
- anizado por Natalia Gonzalez Vela  y Mexico Tech Week
+DESCRIPTION:Get up-to-date information at: https://luma.com/iuj8sn32\n\nAd
+ dress:\nBBVA\nCiudad de México\, Ciudad de México\nMexico\n\nHosted by N
+ atalia Gonzalez Vela  & Mexico Tech Week
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -1037,9 +1035,9 @@ SUMMARY:Mexico Tech Week|Mexico Early Stage 100: learn how to build a worl
  d class startup in Mexico|México|Ciudad de México
 DTSTART:20241023T210000Z
 CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/wpu1hhlx\
- n\nDirección:\nC. Dinamarca 32\nCiudad de México\, Ciudad de México\nMe
- xico\n\nOrganizado por Mexico Tech Week\, Ivan Montoya y Bruno Migliorini
+DESCRIPTION:Get up-to-date information at: https://luma.com/wpu1hhlx\n\nAd
+ dress:\nC. Dinamarca 32\nCiudad de México\, Ciudad de México\nMexico\n\n
+ Hosted by Mexico Tech Week\, Ivan Montoya & Bruno Migliorini
 LOCATION:C. Dinamarca 32\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México
  \, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Dinamarca 32\, Juárez\, Cuauhtémoc\, 06600 Ciuda
@@ -1088,9 +1086,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|LIF Brand Global Ambassadors: connecting innovati
  on|México|Ciudad de México
 DTSTART:20241023T220000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/fuevi059\
- n\nDirección:\nMexico City\nMexico City\, Mexico City\nMexico\n\nOrganiza
- do por Mexico Tech Week\, Michelle Barrera Villegas y Jorge Garcia
+DESCRIPTION:Get up-to-date information at: https://luma.com/fuevi059\n\nAd
+ dress:\nMexico City\nMexico City\, Mexico City\nMexico\n\nHosted by Mexico
+  Tech Week\, Michelle Barrera Villegas & Jorge Garcia
 LOCATION:Mexico City\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -1121,9 +1119,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Exit Strategy: Time to Sell?|México|Ciudad de M
  éxico
 DTSTART:20241023T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ndpo3qw9\
- n\nDirección:\nGoogle Mexico City\nTerraza\nCiudad de México\, Ciudad de
-  México\nMexico\n\nOrganizado por Mexico Tech Week y 5 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/ndpo3qw9\n\nAd
+ dress:\nGoogle Mexico City\nTerraza\nCiudad de México\, Ciudad de México
+ \nMexico\n\nHosted by Mexico Tech Week & 5 others
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -1156,9 +1154,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Emprendimiento Digital: innovación sin límites|
  México|Ciudad de México
 DTSTART:20241023T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ebc_panel
- \n\nDirección:\nC. Dinamarca 32\nCiudad de México\, Ciudad de México\nM
- exico\n\nOrganizado por Mexico Tech Week y Erika Barón
+DESCRIPTION:Get up-to-date information at: https://luma.com/ebc_panel\n\nA
+ ddress:\nC. Dinamarca 32\nCiudad de México\, Ciudad de México\nMexico\n\
+ nHosted by Mexico Tech Week & Erika Barón
 LOCATION:C. Dinamarca 32\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México
  \, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Dinamarca 32\, Juárez\, Cuauhtémoc\, 06600 Ciuda
@@ -1174,9 +1172,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Movilidad + Ventas + Inteligencia Artificial ✦|
  México|Ciudad de México
 DTSTART:20241023T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/92l1gasp\
- n\nDirección:\nAnatole France 51\nCiudad de México\, Ciudad de México\n
- Mexico\n\nOrganizado por Mexico Tech Week y 9 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/92l1gasp\n\nAd
+ dress:\nAnatole France 51\nCiudad de México\, Ciudad de México\nMexico\n
+ \nHosted by Mexico Tech Week & 9 others
 LOCATION:Anatole France 51\, Polanco\, Polanco III Secc\, Miguel Hidalgo\,
   11540 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Anatole France 51\, Polanco\, Polanco III Secc\, Migu
@@ -1192,9 +1190,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Evento Presencial: Impacto Real de la IA GPT en E
  commerce y Gobiernos|México|Ciudad de México
 DTSTART:20241023T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/1buoleos\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y Grupo Hekterra
+DESCRIPTION:Get up-to-date information at: https://luma.com/1buoleos\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & Grupo Hekterra
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -1228,9 +1226,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Innovation Fintech Speed-Dating x Radar|México|C
  iudad de México
 DTSTART:20241024T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/sves7t65\
- n\nDirección:\nPolanco\nMexico City\, Mexico City\nMexico\n\nOrganizado p
- or Mexico Tech Week y Radar
+DESCRIPTION:Get up-to-date information at: https://luma.com/sves7t65\n\nAd
+ dress:\nPolanco\nMexico City\, Mexico City\nMexico\n\nHosted by Mexico Tec
+ h Week & Radar
 LOCATION:Polanco\, Polanco I Secc\, Mexico City\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Polanco\, Polanco I Secc\, 11510 Ciudad de México\, 
  CDMX\, México
@@ -1263,9 +1261,9 @@ SUMMARY:Mexico Tech Week|Mujeres en Tech Happy Hour🍸👩‍💻Powered
  by Capital One|México|Ciudad de México
 DTSTART:20241024T000000Z
 CATEGORIES:backend,frontend,python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/mzxtng7s\
- n\nDirección:\nCultural Center Casa Lamm\nCiudad de México\, Ciudad de M
- éxico\nMexico\n\nOrganizado por Carolina y Montserrat Anguiano Garcia
+DESCRIPTION:Get up-to-date information at: https://luma.com/mzxtng7s\n\nAd
+ dress:\nCultural Center Casa Lamm\nCiudad de México\, Ciudad de México\n
+ Mexico\n\nHosted by Carolina & Montserrat Anguiano Garcia
 LOCATION:Cultural Center Casa Lamm\, Av. Álvaro Obregón 99\, Roma Nte.\,
   Cuauhtémoc\, 06700 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Álvaro Obregón 99\, Roma Nte.\, Cuauhtémoc\, 0
@@ -1281,10 +1279,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Pizza\, Beer & Startup Talks! 🚀|México|Ciudad
   de México
 DTSTART:20241024T010000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/StartupBe
- ers\n\nDirección:\nLoop Climbing Center\nCiudad de México\, Ciudad de M
- éxico\nMexico\n\nOrganizado por Mexico Tech Week\, Aleksi Lehtola y Migue
- l Del Monte
+DESCRIPTION:Get up-to-date information at: https://luma.com/StartupBeers\n
+ \nAddress:\nLoop Climbing Center\nCiudad de México\, Ciudad de México\nM
+ exico\n\nHosted by Mexico Tech Week\, Aleksi Lehtola & Miguel Del Monte
 LOCATION:Loop Climbing Center\, C. Lago Wenner 37\, Cuauhtémoc Pensil\, M
  iguel Hidalgo\, 11490 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Lago Wenner 37\, Cuauhtémoc Pensil\, Miguel Hidal
@@ -1301,10 +1298,10 @@ SUMMARY:Mexico Tech Week|Cybersecurity Foundations for Tech Startups & Sca
  leups|México|Ciudad de México
 DTSTART:20241024T010000Z
 CATEGORIES:security
-DESCRIPTION:Obtén información actualizada en: https://luma.com/9shzrpuy\
- n\nDirección:\nNINYAS\nVersalles 21\, Juárez\, Cuauhtémoc\, Ciudad de M
- éxico (frente a Soho House)\nCiudad de México\, Ciudad de México\nMexic
- o\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/9shzrpuy\n\nAd
+ dress:\nNINYAS\nVersalles 21\, Juárez\, Cuauhtémoc\, Ciudad de México (
+ frente a Soho House)\nCiudad de México\, Ciudad de México\nMexico\n\nHos
+ ted by Mexico Tech Week & 3 others
 LOCATION:NINYAS\, C. Versalles 21\, Juárez\, Cuauhtémoc\, 06600 Ciudad d
  e México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Versalles 21\, Juárez\, Cuauhtémoc\, 06600 Ciuda
@@ -1320,9 +1317,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Salud Mental y Respiración c/ Yimis|México|Ciud
  ad de México
 DTSTART:20241024T130000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hkstakr0\
- n\nDirección:\nCanadian Totem\nCiudad de México\, Ciudad de México\nMex
- ico\n\nOrganizado por Mexico Tech Week y Yimis
+DESCRIPTION:Get up-to-date information at: https://luma.com/hkstakr0\n\nAd
+ dress:\nCanadian Totem\nCiudad de México\, Ciudad de México\nMexico\n\nH
+ osted by Mexico Tech Week & Yimis
 LOCATION:Canadian Totem\, Calz. del Rey\, Panteón Civíl de Dolores\, Mig
  uel Hidalgo\, 11580 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Calz. del Rey\, Panteón Civíl de Dolores\, Miguel H
@@ -1338,9 +1335,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Padel Club x Fintual|México|Ciudad de México
 DTSTART:20241024T140000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ai25cw26\
- n\nDirección:\nEstá Pádel\nCiudad de México\, Ciudad de México\nMexic
- o\n\nOrganizado por Mexico Tech Week y Anahí Sosa
+DESCRIPTION:Get up-to-date information at: https://luma.com/ai25cw26\n\nAd
+ dress:\nEstá Pádel\nCiudad de México\, Ciudad de México\nMexico\n\nHos
+ ted by Mexico Tech Week & Anahí Sosa
 LOCATION:Está Pádel\, Lago Ladoga 210\, Modelo Pensil\, Miguel Hidalgo\,
   11450 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Ladoga 210\, Modelo Pensil\, Miguel Hidalgo\, 11
@@ -1356,10 +1353,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|2° Health Day in Tech by Asociación Healthtech 
  México|México|Ciudad de México
 DTSTART:20241024T143000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/0woyzn7r\
- n\nDirección:\nAv. Río Mixcoac 108\nEL EDIFICIO NO CUENTA CON ESTACIONAM
- IENTO\nCiudad de México\, Ciudad de México\nMexico\n\nOrganizado por Mex
- ico Tech Week\, Erick Salazar y Asociación HealthTech México
+DESCRIPTION:Get up-to-date information at: https://luma.com/0woyzn7r\n\nAd
+ dress:\nAv. Río Mixcoac 108\nEL EDIFICIO NO CUENTA CON ESTACIONAMIENTO\nC
+ iudad de México\, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week
+ \, Erick Salazar & Asociación HealthTech México
 LOCATION:Av. Río Mixcoac 108\, Actipan\, Benito Juárez\, 03230 Ciudad de
   México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Río Mixcoac 108\, Actipan\, Benito Juárez\, 032
@@ -1409,9 +1406,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Cabrito Valley @ MTW|México|Ciudad de México
 DTSTART:20241024T150000Z
 CATEGORIES:data,web
-DESCRIPTION:Obtén información actualizada en: https://luma.com/b4hjs361\
- n\nDirección:\nBBVA\nBBVA Spark CDMX\nCiudad de México\, Ciudad de Méxi
- co\nMexico\n\nOrganizado por Mexico Tech Week y 8 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/b4hjs361\n\nAd
+ dress:\nBBVA\nBBVA Spark CDMX\nCiudad de México\, Ciudad de México\nMexi
+ co\n\nHosted by Mexico Tech Week & 8 others
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -1460,9 +1457,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Crecimiento B2B con el KYB del futuro: historias 
  reales|México|Ciudad de México
 DTSTART:20241024T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/s60sln7s\
- n\nDirección:\nAmazon México Oficinas\nCiudad de México\, Ciudad de Mé
- xico\nMexico\n\nOrganizado por Mexico Tech Week y Rodolfo
+DESCRIPTION:Get up-to-date information at: https://luma.com/s60sln7s\n\nAd
+ dress:\nAmazon México Oficinas\nCiudad de México\, Ciudad de México\nMe
+ xico\n\nHosted by Mexico Tech Week & Rodolfo
 LOCATION:Amazon México Oficinas\, Periférico Blvrd Manuel Ávila Camacho
   261\, Polanco\, Lomas de Chapultepec III Secc\, Miguel Hidalgo\, 11510 Ci
  udad de México\, CDMX\, Mexico
@@ -1497,9 +1494,9 @@ SUMMARY:Mexico Tech Week|Halcyon Latin America & the Caribbean (LAC) Clima
  te Fellowship Showcase|México|Ciudad de México
 DTSTART:20241024T170000Z
 CATEGORIES:web
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ix35osjs\
- n\nDirección:\nISDI México\nCiudad de México\, Ciudad de México\nMexic
- o\n\nOrganizado por Marcelo Homrich y Mexico Tech Week
+DESCRIPTION:Get up-to-date information at: https://luma.com/ix35osjs\n\nAd
+ dress:\nISDI México\nCiudad de México\, Ciudad de México\nMexico\n\nHos
+ ted by Marcelo Homrich & Mexico Tech Week
 LOCATION:ISDI México\, Calle Marsella 45\, Juárez\, Cuauhtémoc\, 06600 
  Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Calle Marsella 45\, Juárez\, Cuauhtémoc\, 06600 Ciu
@@ -1580,9 +1577,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Pivote (from the concept of pivoting)|México|Ciu
  dad de México
 DTSTART:20241024T220000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ilnes23n\
- n\nDirección:\nNúcleo\nCiudad de México\, Ciudad de México\nMexico\n\n
- Organizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/ilnes23n\n\nAd
+ dress:\nNúcleo\nCiudad de México\, Ciudad de México\nMexico\n\nHosted b
+ y Mexico Tech Week & 4 others
 LOCATION:Núcleo\, Av Plan de San Luis 491\, Nueva Santa María\, Azcapotz
  alco\, 02800 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av Plan de San Luis 491\, Nueva Santa María\, Azcapo
@@ -1634,9 +1631,9 @@ SUMMARY:Mexico Tech Week|The Future of AI is Realtime  -  Agora Panel Sess
  ion + Happy Hour!|México|Ciudad de México
 DTSTART:20241024T223000Z
 CATEGORIES:ai,python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hcbw1ua0\
- n\nDirección:\nStudio Berlin\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Mexico Tech Week y Kan Maheshwary
+DESCRIPTION:Get up-to-date information at: https://luma.com/hcbw1ua0\n\nAd
+ dress:\nStudio Berlin\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Mexico Tech Week & Kan Maheshwary
 LOCATION:Studio Berlin\, Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciu
  dad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Tonalá 145\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad 
@@ -1652,10 +1649,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|AI Open|México|Ciudad de México
 DTSTART:20241024T230000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/5tdu732u\
- n\nDirección:\nTorre Virreyes\nPiso 21 | Meta \nCiudad de México\, Ciuda
- d de México\nMexico\n\nOrganizado por Hi Ventures\, Mexico Tech Week y Al
- exi Andrade
+DESCRIPTION:Get up-to-date information at: https://luma.com/5tdu732u\n\nAd
+ dress:\nTorre Virreyes\nPiso 21 | Meta \nCiudad de México\, Ciudad de Mé
+ xico\nMexico\n\nHosted by Hi Ventures\, Mexico Tech Week & Alexi Andrade
 LOCATION:Torre Virreyes\, Pedregal 24 junto al\, Bosque de Chapultepec\, M
  olino del Rey\, Lomas - Virreyes\, Molino del Rey\, Miguel Hidalgo\, 11000
   Ciudad de México\, CDMX\, Mexico
@@ -1672,10 +1668,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Crossing the Chasm: Unlocking Proptech Opportunit
  ies in Mexico|México|Ciudad de México
 DTSTART:20241024T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hrox05gq\
- n\nDirección:\nPÚBLICO Reforma\nPiso 2\, registro en el lobby con un doc
- umento de identidad con foto\nCiudad de México\, Ciudad de México\nMexic
- o\n\nOrganizado por Mexico Tech Week y Juan Vargas
+DESCRIPTION:Get up-to-date information at: https://luma.com/hrox05gq\n\nAd
+ dress:\nPÚBLICO Reforma\nPiso 2\, registro en el lobby con un documento d
+ e identidad con foto\nCiudad de México\, Ciudad de México\nMexico\n\nHos
+ ted by Mexico Tech Week & Juan Vargas
 LOCATION:P√öBLICO Reforma\, Av. P.º de la Reforma 333\, Cuauhtémoc\, 
  06500 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 333\, Cuauhtémoc\, 06500 Ciud
@@ -1692,9 +1688,9 @@ SUMMARY:Mexico Tech Week|Startup to Exit in Mexico: Connect\, Learn & Suns
  et Party @HAAB Condesa by DBMx. Powered by BluePixel & Andromeda|México|C
  iudad de México
 DTSTART:20241024T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/dtgm3mb9\
- n\nDirección:\nHaab Project Condesa\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Mexico Tech Week y DBM
+DESCRIPTION:Get up-to-date information at: https://luma.com/dtgm3mb9\n\nAd
+ dress:\nHaab Project Condesa\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Mexico Tech Week & DBM
 LOCATION:Haab Project Condesa\, Ámsterdam 255\, Hipódromo Condesa\, Cuau
  htémoc\, 06100 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Ámsterdam 255\, Hipódromo Condesa\, Cuauhtémoc\, 0
@@ -1711,9 +1707,9 @@ SUMMARY:Mexico Tech Week|Happy Hour: Conectando con el Ecosistema de Impac
  to|México|Ciudad de México
 DTSTART:20241024T233000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/32oa0da8\
- n\nDirección:\nEspacio Nativo\nCiudad de México\, Ciudad de México\nMex
- ico\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/32oa0da8\n\nAd
+ dress:\nEspacio Nativo\nCiudad de México\, Ciudad de México\nMexico\n\nH
+ osted by Mexico Tech Week & 3 others
 LOCATION:Espacio Nativo\, Gobernador José Guadalupe Covarrubias 57-20\, S
  an Miguel Chapultepec I Secc\, Miguel Hidalgo\, 11850 Ciudad de México\, 
  CDMX\, Mexico
@@ -1732,9 +1728,9 @@ SUMMARY:Mexico Tech Week|Media for Equity: Not a Typical Fund|México|Ciud
  ad de México
 DTSTART:20241025T000000Z
 CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/18nx4d2n\
- n\nDirección:\nVINTORY Business House\nCiudad de México\, Ciudad de Méx
- ico\nMéxico\n\nOrganizado por Mexico Tech Week y Pixië
+DESCRIPTION:Get up-to-date information at: https://luma.com/18nx4d2n\n\nAd
+ dress:\nVINTORY Business House\nCiudad de México\, Ciudad de México\nMé
+ xico\n\nHosted by Mexico Tech Week & Pixië
 LOCATION:VINTORY Business House\, Av. P.º de la Reforma 180\, Juárez\, C
  uauhtémoc\, 06600 Ciudad de México\, CDMX\, México
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 180\, Juárez\, Cuauhtémoc\, 
@@ -1766,9 +1762,9 @@ SUMMARY:Mexico Tech Week|IOS Offices + Cabrito Valley: Building Communitie
  s|México|Ciudad de México
 DTSTART:20241025T000000Z
 CATEGORIES:frontend,mobile
-DESCRIPTION:Obtén información actualizada en: https://luma.com/w1pnd7pq\
- n\nDirección:\nTorre Virreyes\nCiudad de México\, Ciudad de México\nMex
- ico\n\nOrganizado por AngelHub Ventures y 9 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/w1pnd7pq\n\nAd
+ dress:\nTorre Virreyes\nCiudad de México\, Ciudad de México\nMexico\n\nH
+ osted by AngelHub Ventures & 9 others
 LOCATION:Torre Virreyes\, Pedregal 24 junto al\, Bosque de Chapultepec\, M
  olino del Rey\, Lomas - Virreyes\, Molino del Rey\, Miguel Hidalgo\, 11000
   Ciudad de México\, CDMX\, Mexico
@@ -1786,9 +1782,9 @@ SUMMARY:Mexico Tech Week|SPARK Founders Live @ Mexico Tech Week|México|Ci
  udad de México
 DTSTART:20241025T000000Z
 CATEGORIES:data
-DESCRIPTION:Obtén información actualizada en: https://luma.com/tunrasqg\
- n\nDirección:\nColony Spaces Cibeles\nCiudad de México\, Ciudad de Méxi
- co\nMexico\n\nOrganizado por Mexico Tech Week y Spark Founders
+DESCRIPTION:Get up-to-date information at: https://luma.com/tunrasqg\n\nAd
+ dress:\nColony Spaces Cibeles\nCiudad de México\, Ciudad de México\nMexi
+ co\n\nHosted by Mexico Tech Week & Spark Founders
 LOCATION:Colony Spaces Cibeles\, Puebla 237\, Roma Nte.\, Cuauhtémoc\, 06
  700 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Puebla 237\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad d
@@ -1888,9 +1884,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Tech 4 Mother Nature: Storytelling by Decididas &
   Savia Ventures|México|Ciudad de México
 DTSTART:20241025T010000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/y3v84mev\
- n\nDirección:\nSoho House Mexico City\nCiudad de México\, Ciudad de Méx
- ico\nMexico\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/y3v84mev\n\nAd
+ dress:\nSoho House Mexico City\nCiudad de México\, Ciudad de México\nMex
+ ico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Soho House Mexico City\, C. Versalles 28\, Juárez\, Cuauhtémoc\
  , 06600 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Versalles 28\, Juárez\, Cuauhtémoc\, 06600 Ciuda
@@ -1957,9 +1953,9 @@ SUMMARY:Mexico Tech Week|Startup Cocktail Lab by MAUNA|México|Ciudad de M
  éxico
 DTSTART:20241025T010000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/unz9c5td\
- n\nDirección:\nC. Montes Urales 455\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/unz9c5td\n\nAd
+ dress:\nC. Montes Urales 455\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Mexico Tech Week & 4 others
 LOCATION:C. Montes Urales 455\, Lomas - Virreyes\, Lomas de Chapultepec II
  I Secc\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Montes Urales 455\, Lomas - Virreyes\, Lomas de Ch
@@ -1976,9 +1972,9 @@ BEGIN:VEVENT
 SUMMARY:AI/IA CDMX|AI For Hustlers|México|Ciudad de México
 DTSTART:20241025T010000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/lxfgbzju\
- n\nDirección:\n#Hashtag Gallery Ltd\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Benjamin Ullrich y Gilberto Aguila Alamillo
+DESCRIPTION:Get up-to-date information at: https://luma.com/lxfgbzju\n\nAd
+ dress:\n#Hashtag Gallery Ltd\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Benjamin Ullrich & Gilberto Aguila Alamillo
 LOCATION:#Hashtag Gallery Ltd\, Av. Benjamín Franklin 151-A\, Hipódromo\
  , Cuauhtémoc\, 06140 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Benjamín Franklin 151-A\, Hipódromo\, Cuauhtém
@@ -1995,9 +1991,9 @@ SUMMARY:Mexico Tech Week|AI Starter Pack - Breakfast + Crash Course  -  Fi
  ntual & Google|México|Ciudad de México
 DTSTART:20241025T150000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/73a956ii\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y Salvador Vazquez
+DESCRIPTION:Get up-to-date information at: https://luma.com/73a956ii\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & Salvador Vazquez
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -2014,10 +2010,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|LeadGen 2.0: Deep Dive con Meta + NeoPerformance|
  México|Ciudad de México
 DTSTART:20241025T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/t3qahk1s\
- n\nDirección:\nTorre Virreyes\n→ Meta MX Offices 🔵\nCiudad de Méxic
- o\, Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week\, José C
- astellanos y Lili Juárez
+DESCRIPTION:Get up-to-date information at: https://luma.com/t3qahk1s\n\nAd
+ dress:\nTorre Virreyes\n→ Meta MX Offices 🔵\nCiudad de México\, Ciud
+ ad de México\nMexico\n\nHosted by Mexico Tech Week\, José Castellanos & 
+ Lili Juárez
 LOCATION:Torre Virreyes\, Pedregal 24 junto al\, Bosque de Chapultepec\, M
  olino del Rey\, Lomas - Virreyes\, Molino del Rey\, Miguel Hidalgo\, 11000
   Ciudad de México\, CDMX\, Mexico
@@ -2034,10 +2030,10 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Coffee Talks: Art 🎨 & Tech 👩🏽‍💻|Mé
  xico|Ciudad de México
 DTSTART:20241025T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/4te2l7c2\
- n\nDirección:\nLS / Galería | Galería de Arte Moderno y Contemporáneo\
- nCiudad de México\, Ciudad de México\nMexico\n\nOrganizado por Mexico Te
- ch Week y Cubic
+DESCRIPTION:Get up-to-date information at: https://luma.com/4te2l7c2\n\nAd
+ dress:\nLS / Galería | Galería de Arte Moderno y Contemporáneo\nCiudad 
+ de México\, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & Cub
+ ic
 LOCATION:LS / Galería | Galería de Arte Moderno y Contemporáneo\, Enriq
  ue Ibsen 32-A\, Polanco\, Polanco III Secc\, Miguel Hidalgo\, 11560 Ciudad
   de México\, CDMX\, Mexico
@@ -2055,12 +2051,12 @@ SUMMARY:Mexico Tech Week|Conoce todo sobre Apple Intelligence y cómo util
  izar AI/ML en tus apps|México|Ciudad de México
 DTSTART:20241025T170000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/h9qyyyjt\
- n\nDirección:\nApple Operations México\nTorre Reforma\, Piso 41 (Av. P.
- º de la Reforma 483)\, si vienes en coche se recomienda buscar un lugar d
- e parquímetro o algún estacionamiento cerca\, ya que el de la torre es m
- uy caro\nCiudad de México\, Ciudad de México\nMexico\n\nOrganizado por M
- exico Tech Week y Jero Cosio
+DESCRIPTION:Get up-to-date information at: https://luma.com/h9qyyyjt\n\nAd
+ dress:\nApple Operations México\nTorre Reforma\, Piso 41 (Av. P.º de la 
+ Reforma 483)\, si vienes en coche se recomienda buscar un lugar de parquí
+ metro o algún estacionamiento cerca\, ya que el de la torre es muy caro\n
+ Ciudad de México\, Ciudad de México\nMexico\n\nHosted by Mexico Tech Wee
+ k & Jero Cosio
 LOCATION:Apple Operations México\, Av. P.º de la Reforma 483\, Cuauhtém
  oc\, 06500 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 483\, Cuauhtémoc\, 06500 Ciud
@@ -2076,10 +2072,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Encuentro de Social Media: estrategia\, contenido
   y Ads by Converzzo|México|Ciudad de México
 DTSTART:20241025T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/converzzo
- enmexico\n\nDirección:\nCto. Interior Melchor Ocampo 469\nCiudad de Méxi
- co\, Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y Juan T
- amayo
+DESCRIPTION:Get up-to-date information at: https://luma.com/converzzoenmex
+ ico\n\nAddress:\nCto. Interior Melchor Ocampo 469\nCiudad de México\, Ciu
+ dad de México\nMexico\n\nHosted by Mexico Tech Week & Juan Tamayo
 LOCATION:Cto. Interior Melchor Ocampo 469\, Anzures\, Miguel Hidalgo\, 115
  90 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Cto. Interior Melchor Ocampo 469\, Anzures\, Miguel H
@@ -2096,10 +2091,9 @@ SUMMARY:Mexico Tech Week|TechLab: Workshop Manipulación de datos de Pytho
  n|México|Ciudad de México
 DTSTART:20241025T213000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/nzb89n7y\
- n\nDirección:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciuda
- d de México\, CDMX\n\nOrganizado por Mexico Tech Week y Intellectia Acade
- my
+DESCRIPTION:Get up-to-date information at: https://luma.com/nzb89n7y\n\nAd
+ dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
 LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
  xico\, CDMX
 X-CRONQUILES-ADDRESS:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 C
@@ -2115,10 +2109,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|TechLab: Workshop Análisis de Datos|México|Ciud
  ad de México
 DTSTART:20241025T213000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/8dtqdfok\
- n\nDirección:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciuda
- d de México\, CDMX\n\nOrganizado por Mexico Tech Week y Intellectia Acade
- my
+DESCRIPTION:Get up-to-date information at: https://luma.com/8dtqdfok\n\nAd
+ dress:\n Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
+ xico\, CDMX\n\nHosted by Mexico Tech Week & Intellectia Academy
 LOCATION:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Mé
  xico\, CDMX
 X-CRONQUILES-ADDRESS:Florencia 31-Piso 9\, Juárez\, Cuauhtémoc\, 06600 C
@@ -2151,9 +2144,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|The future of Automotive Aftermarket Industry|Mé
  xico|Ciudad de México
 DTSTART:20241025T223000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/5rh9cgs1\
- n\nDirección:\nPÚBLICO Reforma\nCiudad de México\, Ciudad de México\nM
- exico\n\nOrganizado por Mexico Tech Week y Merauto
+DESCRIPTION:Get up-to-date information at: https://luma.com/5rh9cgs1\n\nAd
+ dress:\nPÚBLICO Reforma\nCiudad de México\, Ciudad de México\nMexico\n\
+ nHosted by Mexico Tech Week & Merauto
 LOCATION:P√öBLICO Reforma\, Av. P.º de la Reforma 333\, Cuauhtémoc\, 
  06500 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 333\, Cuauhtémoc\, 06500 Ciud
@@ -2202,14 +2195,13 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Masterclass para cerrar clientes con Whatsapp|Mé
  xico|Ciudad de México
 DTSTART:20241026T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hilosmxtw
- \n\nDirección:\nAv. P.º de la Reforma 180-piso 29\nOficina de Stripe Mé
- xico: Reforma 180\, piso 29\, Juárez\, Cuauhtémoc\, 06600 Ciudad de Méx
- ico\, CDMX Stripe está en el piso 29 de Torre Punta Reforma. Necesitarás
-  una identificación para registrarte en la recepción de la planta baja y
-  pedir que te permitan subir a la oficina de Stripe.\nCiudad de México\, 
- Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y 3 personas 
- más
+DESCRIPTION:Get up-to-date information at: https://luma.com/hilosmxtw\n\nA
+ ddress:\nAv. P.º de la Reforma 180-piso 29\nOficina de Stripe México: Re
+ forma 180\, piso 29\, Juárez\, Cuauhtémoc\, 06600 Ciudad de México\, CD
+ MX Stripe está en el piso 29 de Torre Punta Reforma. Necesitarás una ide
+ ntificación para registrarte en la recepción de la planta baja y pedir q
+ ue te permitan subir a la oficina de Stripe.\nCiudad de México\, Ciudad d
+ e México\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Av. P.º de la Reforma 180-piso 29\, Juárez\, Cuauhtémoc\, 0660
  0 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 180-piso 29\, Juárez\, Cuauht
@@ -2257,9 +2249,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Bridging Continents: Leveraging India and Mexico 
  in Global Tech Strategies|México|Ciudad de México
 DTSTART:20241026T000000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/zulljvlj\
- n\nDirección:\nAv. Thiers 251\nSan Miguel\, Ciudad de México\nMexico\n\n
- Organizado por Mexico Tech Week y Mario Beteta
+DESCRIPTION:Get up-to-date information at: https://luma.com/zulljvlj\n\nAd
+ dress:\nAv. Thiers 251\nSan Miguel\, Ciudad de México\nMexico\n\nHosted b
+ y Mexico Tech Week & Mario Beteta
 LOCATION:Av. Thiers 251\, Anzures\, Miguel Hidalgo\, 22235 San Miguel\, CD
  MX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Thiers 251\, Anzures\, Miguel Hidalgo\, 22235 San
@@ -2374,10 +2366,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Más allá del Go-to-Market: Escalamiento Acelera
  do y Sostenible|México|Ciudad de México
 DTSTART:20241026T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/lzcktkgq\
- n\nDirección:\nSheraton Mexico City Maria Isabel Hotel\nCiudad de México
- \, Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y André T
- orres
+DESCRIPTION:Get up-to-date information at: https://luma.com/lzcktkgq\n\nAd
+ dress:\nSheraton Mexico City Maria Isabel Hotel\nCiudad de México\, Ciuda
+ d de México\nMexico\n\nHosted by Mexico Tech Week & André Torres
 LOCATION:Sheraton Mexico City Maria Isabel Hotel\, Av. P.º de la Reforma 
  325\, Cuauhtémoc\, 06500 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 325\, Cuauhtémoc\, 06500 Ciud
@@ -2410,10 +2401,10 @@ SUMMARY:Mexico Tech Week|Latinos in Mexico Closing Rooftop Party #MexicoTe
  chWeek|México|Ciudad de México
 DTSTART:20241026T210000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/or2e93ua\
- n\nDirección:\nFiesta Inn Insurgentes Viaducto\nCiudad de México\, Ciuda
- d de México\nMexico\n\nOrganizado por Mexico Tech Week\, Guillermo Vizcai
- no y Gerardo MxTW
+DESCRIPTION:Get up-to-date information at: https://luma.com/or2e93ua\n\nAd
+ dress:\nFiesta Inn Insurgentes Viaducto\nCiudad de México\, Ciudad de Mé
+ xico\nMexico\n\nHosted by Mexico Tech Week\, Guillermo Vizcaino & Gerardo 
+ MxTW
 LOCATION:Fiesta Inn Insurgentes Viaducto\, Av. Insurgentes Sur 553\, Escan
  dón II Secc\, Miguel Hidalgo\, 11800 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 553\, Escandón II Secc\, Miguel 
@@ -2493,9 +2484,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal 3|México|Ciudad de México
 DTSTART:20250618T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/7dpb781y\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por René Hernández\, mel y Anthony Morales
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/7dpb781y\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by René Hernández\,
+  mel & Anthony Morales
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2508,9 +2500,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #4|México|Ciudad de México
 DTSTART:20250625T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/rhoz6d8c\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por René Hernández\, mel y Anthony Morales
+DESCRIPTION:Get up-to-date information at: https://luma.com/rhoz6d8c\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by René Hernández\, mel & Anthony Morales
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2526,9 +2518,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #5|México|Ciudad de México
 DTSTART:20250702T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/2rjqt746\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por René Hernández y 3 personas más
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/2rjqt746\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by René Hernández &
+  3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2541,9 +2534,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #6|México|Ciudad de México
 DTSTART:20250709T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/javb4g8b\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por René Hernández y 3 personas más
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/javb4g8b\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by René Hernández &
+  3 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2556,9 +2550,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #7|México|Ciudad de México
 DTSTART:20250716T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/pzp6tc9w\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por René Hernández\, mel y Anthony Morales
+DESCRIPTION:Get up-to-date information at: https://luma.com/pzp6tc9w\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by René Hernández\, mel & Anthony Morales
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2574,9 +2568,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #8🫐|México|Ciudad de México
 DTSTART:20250723T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/xehxr5bu\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por René Hernández y 4 personas más
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/xehxr5bu\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by René Hernández &
+  4 others
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2590,10 +2585,9 @@ BEGIN:VEVENT
 SUMMARY:Java Mexico|Arquitecturas Modernas en Java: Hacia Servicios Escala
  bles y Flexibles|México|Ciudad de México
 DTSTART:20250730T003000Z
-CATEGORIES:frontend,mobile
-DESCRIPTION:Obtén información actualizada en: https://luma.com/83si3bw5\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Benek
+CATEGORIES:ai,frontend,mobile
+DESCRIPTION:Get up-to-date information at: https://luma.com/83si3bw5\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Benek
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2606,9 +2600,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #9🥑|México|Ciudad de México
 DTSTART:20250806T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/28h8jcg9\
- n\nDirección:\nSan Francisco 1845\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por René Hernández y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/28h8jcg9\n\nAd
+ dress:\nSan Francisco 1845\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by René Hernández & 3 others
 LOCATION:San Francisco 1845\, Actipan\, Benito Juárez\, 03230 Ciudad de M
  éxico\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:San Francisco 1845\, Actipan\, Benito Juárez\, 03230
@@ -2624,9 +2618,9 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #10🍇|México|Ciudad de México
 DTSTART:20250813T160000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ipyrqici\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Frutero Club
+DESCRIPTION:Get up-to-date information at: https://luma.com/ipyrqici\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Frutero Club
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2675,9 +2669,9 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #11🍎|México|Ciudad de México
 DTSTART:20250903T160000Z
 CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/11lsuxdy\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Frutero Club
+DESCRIPTION:Get up-to-date information at: https://luma.com/11lsuxdy\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Frutero Club
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2694,9 +2688,9 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #12​​🍇|México|Ciudad de Méx
  ico
 DTSTART:20250910T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ljvkhn2v\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Emmanuel Martínez
+DESCRIPTION:Get up-to-date information at: https://luma.com/ljvkhn2v\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Emmanuel Martínez
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2714,9 +2708,8 @@ SUMMARY:AI Builders MX|From Idea to MVP: Construye tu propia app usando AI
  |México|Ciudad de México
 DTSTART:20250911T230000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/r8rwqnn9\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Rivero
+DESCRIPTION:Get up-to-date information at: https://luma.com/r8rwqnn9\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Rivero
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2729,9 +2722,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #13 🍏|México|Ciudad de México
 DTSTART:20250917T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/lzug9x8c\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Emmanuel Martínez
+DESCRIPTION:Get up-to-date information at: https://luma.com/lzug9x8c\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Emmanuel Martínez
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2748,10 +2741,10 @@ BEGIN:VEVENT
 SUMMARY:Sudo FCiencias|Charla: Aprendizajes y Perspectivas Actuales sobre 
  la Déuda Técnica|México|Ciudad de México
 DTSTART:20250919T220000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/9hu9w8j7\
- n\nDirección:\nUNAM - Facultad De Ciencias\nAnfiteatro Alfredo Barrera\, 
- Edificio Amoxcalli.\nCiudad de México\, Ciudad de México\nMexico\n\nOrga
- nizado por Sudo FCiencias
+DESCRIPTION:Get up-to-date information at: https://luma.com/9hu9w8j7\n\nAd
+ dress:\nUNAM - Facultad De Ciencias\nAnfiteatro Alfredo Barrera\, Edificio
+  Amoxcalli.\nCiudad de México\, Ciudad de México\nMexico\n\nHosted by Su
+ do FCiencias
 LOCATION:UNAM - Facultad De Ciencias\, Investigación Científica\, C.U.\,
   Coyoacán\, 04510 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Investigación Científica\, C.U.\, Coyoacán\, 04510
@@ -2766,9 +2759,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #14 🍓|México|Ciudad de México
 DTSTART:20250924T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ah7we3xm\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Emmanuel Martínez y Myosin.xyz
+DESCRIPTION:Get up-to-date information at: https://luma.com/ah7we3xm\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Emmanuel Martínez & Myosin.xyz
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2784,9 +2777,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #15 🍊|México|Ciudad de México
 DTSTART:20251001T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/5m8k24yw\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Emmanuel Martínez
+DESCRIPTION:Get up-to-date information at: https://luma.com/5m8k24yw\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Emmanuel Martínez
 LOCATION:Chez Vous #Timecafé\, Av. de los Insurgentes Sur 1188\, Tlacoque
  mecatl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexic
  o
@@ -2802,9 +2795,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #16🍉|México|Ciudad de México
 DTSTART:20251008T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/bcvv90v9\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Emmanuel Martínez
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/bcvv90v9\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Emmanuel Martínez
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -2835,9 +2828,9 @@ SUMMARY:Mexico Tech Week|Mega Clase Gratuita de Inteligencia  Artifical|M
  éxico|Ciudad de México
 DTSTART:20251019T160000Z
 CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/6de4zsvg\
- n\nDirección:\nParque Tezozómoc Azcapotzalco\nMexico City\, Mexico City\
- nMexico\n\nOrganizado por Geraldine Masso\, Mexico Tech Week y Host Team
+DESCRIPTION:Get up-to-date information at: https://luma.com/6de4zsvg\n\nAd
+ dress:\nParque Tezozómoc Azcapotzalco\nMexico City\, Mexico City\nMexico\
+ n\nHosted by Geraldine Masso\, Mexico Tech Week & Host Team
 LOCATION:Parque Tezozómoc Azcapotzalco\, Hacienda del Rosario\, Ex el Ros
  ario\, 02420 Mexico City\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Parque Tezozómoc Azcapotzalco\, Hacienda del Rosario
@@ -2885,9 +2878,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|HYROX - HYBRID CLASS @CARPE|México|Ciudad de Mé
  xico
 DTSTART:20251020T120000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/lq1rnyo7\
- n\nDirección:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México\, Ciud
- ad de México\nMexico\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/lq1rnyo7\n\nAd
+ dress:\nCalz. Gral. Mariano Escobedo 726\nCiudad de México\, Ciudad de M
+ éxico\nMexico\n\nHosted by Mexico Tech Week & 3 others
 LOCATION:Calz. Gral. Mariano Escobedo 726\, Polanco\, Anzures\, Miguel Hid
  algo\, 11590 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Calz. Gral. Mariano Escobedo 726\, Anzures\, Miguel H
@@ -2970,9 +2963,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Startups Festival - México|México|Ciudad de Mé
  xico
 DTSTART:20251020T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/yg5ruli0\
- n\nDirección:\nLago Alberto 375\nCiudad de México\, Ciudad de México\nM
- exico\n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/yg5ruli0\n\nAd
+ dress:\nLago Alberto 375\nCiudad de México\, Ciudad de México\nMexico\n\
+ nHosted by Mexico Tech Week & 3 others
 LOCATION:Lago Alberto 375\, Juárez\, Miguel Hidalgo\, 11320 Ciudad de Mé
  xico\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Lago Alberto 375\, Juárez\, Miguel Hidalgo\, 11320 C
@@ -3003,9 +2996,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|MexaTh0n X Google|México|Ciudad de México
 DTSTART:20251020T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ry8nvk9c\
- n\nDirección:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/ry8nvk9c\n\nAd
+ dress:\nGoogle Mexico City\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Mexico Tech Week & 4 others
 LOCATION:Google Mexico City\, C. Montes Urales 445\, Lomas - Virreyes\, Lo
  mas de Chapultepec\, Miguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mex
  ico
@@ -3022,9 +3015,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Moffin & 'Migos: Breakfast at Amazon|México|Ciud
  ad de México
 DTSTART:20251020T150000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/hhrxr7xn\
- n\nDirección:\nAmazon México Oficinas\nCiudad de México\, Ciudad de Mé
- xico\nMexico\n\nOrganizado por Mexico Tech Week y 11 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/hhrxr7xn\n\nAd
+ dress:\nAmazon México Oficinas\nCiudad de México\, Ciudad de México\nMe
+ xico\n\nHosted by Mexico Tech Week & 11 others
 LOCATION:Amazon México Oficinas\, Periférico Blvrd Manuel Ávila Camacho
   261\, Polanco\, Lomas de Chapultepec III Secc\, Miguel Hidalgo\, 11510 Ci
  udad de México\, CDMX\, Mexico
@@ -3059,10 +3052,9 @@ SUMMARY:Mexico Tech Week|AI: Governance & Responsibilities|México|Ciudad
  de México
 DTSTART:20251020T160000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/v1csyri8\
- n\nDirección:\nCórdoba 42\nPiso 5 - Suite B\, viene a MIRAI\nCiudad de M
- éxico\, Ciudad de México\nMexico\n\nOrganizado por Mexico Tech Week y 6 
- personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/v1csyri8\n\nAd
+ dress:\nCórdoba 42\nPiso 5 - Suite B\, viene a MIRAI\nCiudad de México\,
+  Ciudad de México\nMexico\n\nHosted by Mexico Tech Week & 6 others
 LOCATION:Córdoba 42\, Centro Urbano Pdte. Juárez\, Roma Nte.\, Cuauhtém
  oc\, 06700 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Córdoba 42\, Centro Urbano Pdte. Juárez\, Roma Nte.
@@ -3111,9 +3103,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Monday Brunch Breaks by Pluria: Tech That Brings 
  People Together|México|Ciudad de México
 DTSTART:20251020T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/w5b8uzk7\
- n\nDirección:\nCoffeefy Workafe - Juárez\nCiudad de México\, Ciudad de 
- México\nMexico\n\nOrganizado por Mexico Tech Week y 5 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/w5b8uzk7\n\nAd
+ dress:\nCoffeefy Workafe - Juárez\nCiudad de México\, Ciudad de México\
+ nMexico\n\nHosted by Mexico Tech Week & 5 others
 LOCATION:Coffeefy Workafe - Juárez\, Liverpool 69\, Juárez\, Cuauhtémoc
  \, 06600 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Liverpool 69\, Juárez\, Cuauhtémoc\, 06600 Ciudad d
@@ -3163,9 +3155,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|From Lab to Life: BioWit’s HPV Detection Platfo
  rm|México|Ciudad de México
 DTSTART:20251020T190000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ffozzgt9\
- n\nDirección:\nYelizcalli\nCiudad de México\, Ciudad de México\nMexico\
- n\nOrganizado por Mexico Tech Week\, Fiordelisio Tatiana y Host Team
+DESCRIPTION:Get up-to-date information at: https://luma.com/ffozzgt9\n\nAd
+ dress:\nYelizcalli\nCiudad de México\, Ciudad de México\nMexico\n\nHoste
+ d by Mexico Tech Week\, Fiordelisio Tatiana & Host Team
 LOCATION:Yelizcalli\, Cto. Bicipuma\, C.U.\, Coyoacán\, 04510 Ciudad de M
  éxico\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Cto. Bicipuma\, C.U.\, Coyoacán\, 04510 Ciudad de M
@@ -3198,10 +3190,10 @@ SUMMARY:Mexico Tech Week|Build Your First AI Dashboard in 90 Minutes: Danu
   and AWS Experts Show the Full Process|México|Ciudad de México
 DTSTART:20251020T210000Z
 CATEGORIES:ai,cloud,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/jns5acew\
- n\nDirección:\nPeriférico Blvrd Manuel Ávila Camacho 261\nAWS Offices P
- uerta Polanco. Piso 5\nCiudad de México\, Ciudad de México\nMexico\n\nOr
- ganizado por Mexico Tech Week y 6 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/jns5acew\n\nAd
+ dress:\nPeriférico Blvrd Manuel Ávila Camacho 261\nAWS Offices Puerta Po
+ lanco. Piso 5\nCiudad de México\, Ciudad de México\nMexico\n\nHosted by 
+ Mexico Tech Week & 6 others
 LOCATION:Periférico Blvrd Manuel Ávila Camacho 261\, Polanco\, Polanco I
   Secc\, Miguel Hidalgo\, 11510 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Periférico Blvrd Manuel Ávila Camacho 261\, Puerta 
@@ -3219,9 +3211,9 @@ SUMMARY:Mexico Tech Week|Tu primer empleo en el mundo Cloud: lo que nadie
  te dice|México|Ciudad de México
 DTSTART:20251020T220000Z
 CATEGORIES:cloud
-DESCRIPTION:Obtén información actualizada en: https://luma.com/h5xk6j2e\
- n\nDirección:\nRackspace\nCiudad de México\, Ciudad de México\nMexico\n
- \nOrganizado por Mexico Tech Week\, Elba Torres Ornelas y Host Team
+DESCRIPTION:Get up-to-date information at: https://luma.com/h5xk6j2e\n\nAd
+ dress:\nRackspace\nCiudad de México\, Ciudad de México\nMexico\n\nHosted
+  by Mexico Tech Week\, Elba Torres Ornelas & Host Team
 LOCATION:Rackspace\, C. Lago Zurich 219-Piso 11\, Amp Granada\, Miguel Hid
  algo\, 11529 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:C. Lago Zurich 219-Piso 11\, Amp Granada\, Miguel Hid
@@ -3254,11 +3246,11 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Unlocking Global Growth: The Role of EOR Solution
  s in Scaling Tech Companies|México|Ciudad de México
 DTSTART:20251020T220000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/u1abgg73\
- n\nDirección:\nTorre Médica Metropolitana Sucursal Condesa\nTorre Medica
-  Metropolitana Sucursal Condesa (Tampico 8\, Cuauhtémoc\, 06700\, CDMX\, 
- MX\nCiudad de México\, Ciudad de México\nMexico\n\nOrganizado por Mexico
-  Tech Week\, Koren Eloul y Host Team
+DESCRIPTION:Get up-to-date information at: https://luma.com/u1abgg73\n\nAd
+ dress:\nTorre Médica Metropolitana Sucursal Condesa\nTorre Medica Metropo
+ litana Sucursal Condesa (Tampico 8\, Cuauhtémoc\, 06700\, CDMX\, MX\nCiud
+ ad de México\, Ciudad de México\nMexico\n\nHosted by Mexico Tech Week\, 
+ Koren Eloul & Host Team
 LOCATION:Torre Médica Metropolitana Sucursal Condesa\, Tampico 8\, Coloni
  a Condesa\, Cuauhtémoc\, 06700 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Tampico 8\, Colonia Condesa\, Cuauhtémoc\, 06700 Ciu
@@ -3274,9 +3266,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Factorial One AI Launch|México|Ciudad de México
 DTSTART:20251020T220000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/7scxlyn9\
- n\nDirección:\nPedregal 55\nCiudad de México\, Ciudad de México\nMexico
- \n\nOrganizado por Mexico Tech Week y 3 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/7scxlyn9\n\nAd
+ dress:\nPedregal 55\nCiudad de México\, Ciudad de México\nMexico\n\nHost
+ ed by Mexico Tech Week & 3 others
 LOCATION:Pedregal 55\, Lomas - Virreyes\, Lomas de Chapultepec IV Secc\, M
  iguel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Pedregal 55\, Lomas - Virreyes\, Lomas de Chapultepec
@@ -3292,9 +3284,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Emprelatam Connect Day México|México|Ciudad de 
  México
 DTSTART:20251020T220000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/1uylfgn1\
- n\nDirección:\nAv. P.º de la Reforma 180\nCiudad de México\, Ciudad de 
- México\nMexico\n\nOrganizado por Mexico Tech Week y 6 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/1uylfgn1\n\nAd
+ dress:\nAv. P.º de la Reforma 180\nCiudad de México\, Ciudad de México\
+ nMexico\n\nHosted by Mexico Tech Week & 6 others
 LOCATION:Av. P.º de la Reforma 180\, Juárez\, Cuauhtémoc\, 06600 Ciudad
   de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Reforma 180\, Juárez\, Cuauhtémoc\, 06600 Ciudad de
@@ -3310,9 +3302,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Tesorerías de Bitcoin para Startups / Bitcoin Tr
  easuries for Startups|México|Ciudad de México
 DTSTART:20251020T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/BTC-TSY\n
- \nDirección:\nBBVA\nPiso 33\nCiudad de México\, Ciudad de México\nMexic
- o\n\nOrganizado por Mexico Tech Week y 6 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/BTC-TSY\n\nAdd
+ ress:\nBBVA\nPiso 33\nCiudad de México\, Ciudad de México\nMexico\n\nHos
+ ted by Mexico Tech Week & 6 others
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -3328,9 +3320,9 @@ BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|GBM  -  Investing Beyond Fintech & SaaS|México|C
  iudad de México
 DTSTART:20251020T230000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/vv4kpbri\
- n\nDirección:\nTorre I\nForo GBM\nCiudad de México\, Ciudad de México\n
- Mexico\n\nOrganizado por Mexico Tech Week y 5 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/vv4kpbri\n\nAd
+ dress:\nTorre I\nForo GBM\nCiudad de México\, Ciudad de México\nMexico\n
+ \nHosted by Mexico Tech Week & 5 others
 LOCATION:Torre I\, Av. Javier Barros Sierra 540\, Santa Fe\, Lomas de Sta 
  Fé\, Álvaro Obregón\, 01210 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Torre I\, Av. Javier Barros Sierra 540\, Col\, Santa 
@@ -3382,9 +3374,9 @@ SUMMARY:Mexico Tech Week|VC Secondaries: Founders & Investors in Action|M
  éxico|Ciudad de México
 DTSTART:20251020T230000Z
 CATEGORIES:security
-DESCRIPTION:Obtén información actualizada en: https://luma.com/79jn787w\
- n\nDirección:\nBBVA\nCiudad de México\, Ciudad de México\nMexico\n\nOrg
- anizado por Mexico Tech Week y 5 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/79jn787w\n\nAd
+ dress:\nBBVA\nCiudad de México\, Ciudad de México\nMexico\n\nHosted by M
+ exico Tech Week & 5 others
 LOCATION:BBVA\, Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 06600
   Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 510\, Juárez\, Cuauhtémoc\, 
@@ -3418,9 +3410,9 @@ SUMMARY:Mexico Tech Week|Scale & Sip: Unit Economics + Happy Hour|México|
  Ciudad de México
 DTSTART:20251020T233000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/n58rer3m\
- n\nDirección:\nSierra Nevada 130\nCiudad de México\, Ciudad de México\n
- Mexico\n\nOrganizado por Mexico Tech Week y 5 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/n58rer3m\n\nAd
+ dress:\nSierra Nevada 130\nCiudad de México\, Ciudad de México\nMexico\n
+ \nHosted by Mexico Tech Week & 5 others
 LOCATION:Sierra Nevada 130\, Lomas - Virreyes\, Lomas de Chapultepec\, Mig
  uel Hidalgo\, 11000 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Sierra Nevada 130\, Lomas - Virreyes\, Lomas de Chapu
@@ -3485,9 +3477,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Tech Week|Make Tech Sexy|México|Ciudad de México
 DTSTART:20251021T010000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/dr9q1obl\
- n\nDirección:\nHaab Project Condesa\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Mexico Tech Week y 4 personas más
+DESCRIPTION:Get up-to-date information at: https://luma.com/dr9q1obl\n\nAd
+ dress:\nHaab Project Condesa\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Mexico Tech Week & 4 others
 LOCATION:Haab Project Condesa\, Ámsterdam 255\, Hipódromo Condesa\, Cuau
  htémoc\, 06100 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Ámsterdam 255\, Hipódromo Condesa\, Cuauhtémoc\, 0
@@ -3504,9 +3496,9 @@ SUMMARY:AI/IA CDMX|From Academia to AI Startup: Building a Virtual Friend
  for Mental Health|México|Ciudad de México
 DTSTART:20251022T000000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/m3ypkblk\
- n\nDirección:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Benjamin Ullrich
+DESCRIPTION:Get up-to-date information at: https://luma.com/m3ypkblk\n\nAd
+ dress:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Benjamin Ullrich
 LOCATION:Casa Rafael Galvan\, Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 067
  00 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
@@ -3521,9 +3513,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #17🍑|México|Ciudad de México
 DTSTART:20251022T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/twuyq6ev\
- n\nDirección:\nFlemish Pixel\nCiudad de México\, Ciudad de México\nMexi
- co\n\nOrganizado por Emmanuel Martínez
+DESCRIPTION:Get up-to-date information at: https://luma.com/twuyq6ev\n\nAd
+ dress:\nFlemish Pixel\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Emmanuel Martínez
 LOCATION:Flemish Pixel\, FlemishPixel\, Av. Ejército Nacional Mexicano 6\
  , Anzures\, Miguel Hidalgo\, 11590 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:FlemishPixel\, Av. Ejército Nacional Mexicano 6\, An
@@ -3539,9 +3531,9 @@ BEGIN:VEVENT
 SUMMARY:Java Mexico|javaMéxico Meetup++\; Doble charla 06 nov 👻🎃|M
  éxico|Ciudad de México
 DTSTART:20251107T003000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/l1sbcrs8\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Benek
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/l1sbcrs8\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Benek
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3555,10 +3547,9 @@ BEGIN:VEVENT
 SUMMARY:Python CDMX|Sysadmin Horror Story - Historias de TECHrror para Sys
  dmins|México|Ciudad de México
 DTSTART:20251112T003000Z
-CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ena2z4t0\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por PythonCDMX
+CATEGORIES:ai,python
+DESCRIPTION:Get up-to-date information at: https://luma.com/ena2z4t0\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by PythonCDMX
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3573,9 +3564,9 @@ SUMMARY:AI/IA CDMX|Storycraft in the Age of AI with Danny Carissimi (Heads
  pace & TIO)|México|Ciudad de México
 DTSTART:20251119T000000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/75tou6ro\
- n\nDirección:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Benjamin Ullrich
+DESCRIPTION:Get up-to-date information at: https://luma.com/75tou6ro\n\nAd
+ dress:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Benjamin Ullrich
 LOCATION:Casa Rafael Galvan\, Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 067
  00 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
@@ -3591,9 +3582,9 @@ BEGIN:VEVENT
 SUMMARY:Claude Users Group|Vibe Coding y Birria 🤙🌮|México|Ciudad de
   México
 DTSTART:20251122T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/lhng23fu\
- n\nDirección:\nRojo Birria\nCiudad de México\, Ciudad de México\nMexico
- \n\nOrganizado por Martin Manriquez Leon
+DESCRIPTION:Get up-to-date information at: https://luma.com/lhng23fu\n\nAd
+ dress:\nRojo Birria\nCiudad de México\, Ciudad de México\nMexico\n\nHost
+ ed by Martin Manriquez Leon
 LOCATION:Rojo Birria\, Primavera 106-Local 1\, Ángel Zimbrón\, Miguel Hi
  dalgo\, 02099 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Primavera 106-Local 1\, Ángel Zimbrón\, Miguel Hida
@@ -3608,9 +3599,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal #24🍇|México|Ciudad de México
 DTSTART:20251203T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/853fahdd\
- n\nDirección:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de Méxic
- o\nMexico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/853fahdd\n\nAd
+ dress:\nChez Vous #Timecafé\nCiudad de México\, Ciudad de México\nMexic
+ o\n\nHosted by Frutero
 LOCATION:Chez Vous #Timecafé\, Av. Insurgentes Centro 1188\, Tlacoquemeca
  tl del Valle\, Benito Juárez\, 03200 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Centro 1188\, Tlacoquemecatl del Vall
@@ -3626,10 +3617,10 @@ BEGIN:VEVENT
 SUMMARY:Java Mexico|Cucumber y BDD en el mundo Java: Más allá de las pru
  ebas|México|Ciudad de México
 DTSTART:20251204T003000Z
-CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/08equxao\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Benek y Eduardo Zarate Mejia
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/08equxao\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Benek & Edu
+ ardo Zarate Mejia
 LOCATION:Ciudad de México
 X-CRONQUILES-ADDRESS:Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3644,9 +3635,9 @@ SUMMARY:AI/IA CDMX|Mind the Loop: Empowering AI Agents to Reason\, Decide\
  , and Do|México|Ciudad de México
 DTSTART:20251210T000000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/mdeihhw6\
- n\nDirección:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Benjamin Ullrich
+DESCRIPTION:Get up-to-date information at: https://luma.com/mdeihhw6\n\nAd
+ dress:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Benjamin Ullrich
 LOCATION:Casa Rafael Galvan\, Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 067
  00 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
@@ -3661,11 +3652,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vive Codding Cafe|Vibe Coding Cafe CDMX|México|Ciudad de México
 DTSTART:20251227T170000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/anw1u4qj\
- n\nDirección:\nBlend Station\nCiudad de México\, Ciudad de México\nMéx
- ico\n\nOrganizado por Rogelio Hernandez
+DESCRIPTION:Get up-to-date information at: https://luma.com/anw1u4qj\n\nAd
+ dress:\nBlend Station\nCiudad de México\, Ciudad de México\nMexico\n\nHo
+ sted by Rogelio Hernandez
 LOCATION:Blend Station\, Avenida Tamaulipas 60 \, Col. Condesa C.P06140\, 
- Hipódromo\, Cuauhtémoc\, 06140 Ciudad de México\, CDMX\, México
+ Hipódromo\, Cuauhtémoc\, 06140 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Avenida Tamaulipas 60 \, Col. Condesa C.P06140\, Hip
  ódromo\, Cuauhtémoc\, 06140 Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3696,11 +3687,11 @@ SUMMARY:Python CDMX|Meetup Enero 2026  -  Pinterest & PythonCDMX|México|C
  iudad de México
 DTSTART:20260114T000000Z
 CATEGORIES:backend,python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/cciyzwk2\
- n\nDirección:\nPinterest México\nCiudad de México\, Ciudad de México\n
- México\n\nOrganizado por PythonCDMX
+DESCRIPTION:Get up-to-date information at: https://luma.com/cciyzwk2\n\nAd
+ dress:\nPinterest México\nCiudad de México\, Ciudad de México\nMexico\n
+ \nHosted by PythonCDMX
 LOCATION:Pinterest México\, Av. P.º de la Reforma 509\, Cuauhtémoc\, 06
- 500 Ciudad de México\, CDMX\, México
+ 500 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. P.º de la Reforma 509\, Cuauhtémoc\, 06500 Ciud
  ad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3714,11 +3705,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #2|México|Ciudad de 
  México
 DTSTART:20260114T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/qq2u3tf6\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/qq2u3tf6\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -3750,9 +3741,9 @@ SUMMARY:AI/IA CDMX|Cariño\, encogí el modelo - Honey\, I Shrunk the Mode
  l|México|Ciudad de México
 DTSTART:20260121T000000Z
 CATEGORIES:ai
-DESCRIPTION:Obtén información actualizada en: https://luma.com/e1yxuugo\
- n\nDirección:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\
- nMexico\n\nOrganizado por Benjamin Ullrich y Ben AI CDMX
+DESCRIPTION:Get up-to-date information at: https://luma.com/e1yxuugo\n\nAd
+ dress:\nCasa Rafael Galvan\nCiudad de México\, Ciudad de México\nMexico\
+ n\nHosted by Benjamin Ullrich & Ben AI CDMX
 LOCATION:Casa Rafael Galvan\, Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 067
  00 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Zacatecas 94\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
@@ -3789,11 +3780,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #3|México|Ciudad de 
  México
 DTSTART:20260121T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ql22e7vg\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/ql22e7vg\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -3843,11 +3834,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #4|México|Ciudad de 
  México
 DTSTART:20260128T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/us0gg0x0\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/us0gg0x0\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -3861,9 +3852,10 @@ BEGIN:VEVENT
 SUMMARY:Java Mexico|30 Años Programando: Lecciones Aprendidas  -  Por Enr
  ique Zamudio|México|Ciudad de México
 DTSTART:20260129T003000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/ksvsiu3v\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Benek y Eduardo Zarate Mejia
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/ksvsiu3v\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Benek & Edu
+ ardo Zarate Mejia
 LOCATION:Juárez\, Ciudad de México
 X-CRONQUILES-ADDRESS:Juárez\, 06600 Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -3977,11 +3969,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Coworking Frutal - Work and Chill #1|México|Ciudad d
  e México
 DTSTART:20260130T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/y2araht0\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/y2araht0\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -3996,9 +3988,9 @@ SUMMARY:AI Builders MX|v0 Prompt to Production – Mexico City|México|Ciu
  dad de México
 DTSTART:20260131T150000Z
 CATEGORIES:ai,frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/fdg8riz2\
- n\nDirección:\nConsulta la página del evento para obtener más detalles.
- \n\nOrganizado por Javier Rivero y Ben Kim
+DESCRIPTION:Get up-to-date information at: https://luma.com/fdg8riz2\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Javier Rivero & Be
+ n Kim
 LOCATION:Haab Project Condesa\, Ámsterdam 255\, Hipódromo Condesa\, Cuau
  htémoc\, 06100 Ciudad de México\, CDMX\, México
 X-CRONQUILES-ADDRESS:Hipódromo\, 06100 Ciudad de México\, CDMX\, México
@@ -4062,11 +4054,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #5|México|Ciudad de 
  México
 DTSTART:20260204T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/uh5wt1t4\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/uh5wt1t4\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -4099,12 +4091,12 @@ SUMMARY:Sudo FCiencias|Bases de datos no relacionales\, ¿qué es eso?|Mé
  xico|Ciudad de México
 DTSTART:20260206T210000Z
 CATEGORIES:frontend
-DESCRIPTION:Obtén información actualizada en: https://luma.com/e17fbtoo\
- n\nDirección:\nFacultad de Ciencias UNAM\nLaboratorio de Ciencias de la C
- omputación 1\, Edificio Tlahuizcalpan\nCiudad de México\, Ciudad de Méx
- ico\nMéxico\n\nOrganizado por Sudo FCiencias
-LOCATION:Facultad de Ciencias UNAM\, Investigación Científica\, C.U.\, C
- oyoacán\, 04510 Ciudad de México\, CDMX\, México
+DESCRIPTION:Get up-to-date information at: https://luma.com/e17fbtoo\n\nAd
+ dress:\nUNAM - Facultad De Ciencias\nLaboratorio de Ciencias de la Computa
+ ción 1\, Edificio Tlahuizcalpan\nCiudad de México\, Ciudad de México\nM
+ exico\n\nHosted by Sudo FCiencias
+LOCATION:UNAM - Facultad De Ciencias\, Investigación Científica\, C.U.\,
+  Coyoacán\, 04510 Ciudad de México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Investigación Científica\, C.U.\, Coyoacán\, 04510
   Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -4118,11 +4110,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #6|México|Ciudad de 
  México
 DTSTART:20260211T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/0nllzrl7\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/0nllzrl7\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -4293,11 +4285,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #7|México|Ciudad de 
  México
 DTSTART:20260218T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/asxxex3y\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/asxxex3y\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
@@ -4312,11 +4304,11 @@ SUMMARY:Python CDMX|Meetup Febrero 2026  -  Clara & PythonCDMX|México|Ciu
  dad de México
 DTSTART:20260225T000000Z
 CATEGORIES:python
-DESCRIPTION:Obtén información actualizada en: https://luma.com/b2j4qyjy\
- n\nDirección:\nClara\nCiudad de México\, Ciudad de México\nMéxico\n\nO
- rganizado por PythonCDMX y Clara Community
+DESCRIPTION:Get up-to-date information at: https://luma.com/b2j4qyjy\n\nAd
+ dress:\nClara\nCiudad de México\, Ciudad de México\nMexico\n\nHosted by 
+ PythonCDMX & Clara Community
 LOCATION:Clara\, Av Sonora 46\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad de 
- México\, CDMX\, México
+ México\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av Sonora 46\, Roma Nte.\, Cuauhtémoc\, 06700 Ciudad
   de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
@@ -4330,11 +4322,11 @@ BEGIN:VEVENT
 SUMMARY:Frutero Club|Casa Frutero - Coworking Frutal #8|México|Ciudad de 
  México
 DTSTART:20260225T160000Z
-DESCRIPTION:Obtén información actualizada en: https://luma.com/mh6kbutb\
- n\nDirección:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de Mé
- xico\nMéxico\n\nOrganizado por Frutero
+DESCRIPTION:Get up-to-date information at: https://luma.com/mh6kbutb\n\nAd
+ dress:\nAv. Insurgentes Sur 1877\nÁlvaro Obregón\, Ciudad de México\nMe
+ xico\n\nHosted by Frutero
 LOCATION:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Obregón\, 010
- 20 Álvaro Obregón\, CDMX\, México
+ 20 Álvaro Obregón\, CDMX\, Mexico
 X-CRONQUILES-ADDRESS:Av. Insurgentes Sur 1877\, Guadalupe Inn\, Álvaro Ob
  regón\, 01020 Álvaro Obregón\, CDMX\, México
 X-CRONQUILES-CITY:Álvaro Obregón
