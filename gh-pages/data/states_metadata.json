@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 409,
-    "future_event_count": 56,
+    "future_event_count": 55,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -62,7 +62,7 @@
     "name": "Ciudad de México",
     "slug": "mx-cmx",
     "event_count": 246,
-    "future_event_count": 21,
+    "future_event_count": 20,
     "active_months": [
       "2024-09",
       "2024-10",
