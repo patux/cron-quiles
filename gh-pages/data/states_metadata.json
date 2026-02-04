@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 479,
-    "future_event_count": 73,
+    "event_count": 480,
+    "future_event_count": 74,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -63,8 +63,8 @@
     "code": "MX-CMX",
     "name": "Ciudad de México",
     "slug": "mx-cmx",
-    "event_count": 266,
-    "future_event_count": 34,
+    "event_count": 267,
+    "future_event_count": 35,
     "active_months": [
       "2024-09",
       "2024-10",
