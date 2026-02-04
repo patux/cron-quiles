@@ -15,6 +15,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 - **Feed Fvckup Nights**: Luma perfil `https://luma.com/user/usr-OqGmWs21jbaz5fK` (solo eventos en MX; el pipeline ya filtra por país).
 - **Feed This Week in Fintech**: Luma `https://luma.com/lkn7cfxz` (AI x Fintech Talks @ Mexico Fintech Week 2026, Ciudad de México).
 - **Feed v0 Prompt to Production Mexico City**: Luma `https://luma.com/fdg8riz2` (evento oficial v0/Vercel en México, aibuilders.mx, Ciudad de México).
+- **Evento manual**: Coding Sessions – MDC x Linuxeros Zapopan (sábado 7 feb 2026, 10:00–14:00, Hacker Garage, Zapopan).
 
 ### Changed
 - **Rendimiento**: Los `sleep` de rate-limit solo se aplican cuando hay llamada real a la API (no cuando hay caché). Geocoding: dormir solo si `geocode_location` usó la API; Luma/Meetup: dormir solo después de un enrich que hizo request. El pipeline es más rápido cuando el caché está poblado.
