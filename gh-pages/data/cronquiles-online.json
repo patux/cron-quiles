@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:39:47.181005+00:00",
-  "total_events": 177,
+  "generated_at": "2026-02-05T18:38:06.746213+00:00",
+  "total_events": 178,
   "city": "Online",
   "communities": [
     {
@@ -92,11 +92,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -3305,7 +3305,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3464,7 +3464,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -3709,7 +3709,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -4598,6 +4598,34 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
       "hash_key": "ai education building ai agents together_2026-02-12T22:00:00+00:00"
+    },
+    {
+      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
+      "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero, Diana Carolina Padilla & Ben Kim",
+      "url": "https://luma.com/lgd37763",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/lgd37763",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
+      "organizer": "v0 Prompt to Production Mexico City",
+      "dtstart": "2026-02-13T00:00:00+00:00",
+      "dtend": "2026-02-13T00:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/fdg8riz2",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
+      "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
     },
     {
       "title": "Rust-AICollective|AI Education  -  Governing the Machine|Online",

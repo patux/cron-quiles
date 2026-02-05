@@ -3,7 +3,7 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 482,
+    "event_count": 483,
     "future_event_count": 74,
     "active_months": [
       "2020-10",
@@ -162,7 +162,7 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 177,
+    "event_count": 178,
     "future_event_count": 30,
     "active_months": [
       "2020-10",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T12:39:47.275926+00:00",
+  "generated_at": "2026-02-05T18:38:06.843606+00:00",
   "total_events": 269,
   "city": "Ciudad de México",
   "communities": [
@@ -42,6 +42,11 @@
         {
           "platform": "luma",
           "url": "https://luma.com/eofagheq",
+          "label": "Luma"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/02t893pf",
           "label": "Luma"
         }
       ]
@@ -91,11 +96,11 @@
     },
     {
       "name": "Sudo FCiencias",
-      "description": "Sudo FCiencias es una comunidad estudiantil de la Facultad de Ciencias de la UNAM. En Sudo buscamos acercar el conocimiento tecnológico a todxs sin importar el nivel que tengas. No somos expertxs, somos Sudo.",
+      "description": "Sudo FCiencias (UNAM Facultad de Ciencias). Eventos sobre bases de datos, programación y tech (Ciudad de México).",
       "links": [
         {
           "platform": "luma",
-          "url": "https://luma.com/sudo_fciencias_2026",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -4501,7 +4506,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -6571,7 +6576,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7064,7 +7069,7 @@
     },
     {
       "title": "FinTech México|Crédito + IA en México|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México, Ricardo Rubio & Arnaldo Carrillo",
+      "description": "Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & 3 others",
       "url": "https://luma.com/6k4mvgpi",
       "sources": [
         {
@@ -7080,7 +7085,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",

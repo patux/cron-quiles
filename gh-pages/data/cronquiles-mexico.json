@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:39:47.104524+00:00",
-  "total_events": 482,
+  "generated_at": "2026-02-05T18:38:06.671968+00:00",
+  "total_events": 483,
   "city": "México",
   "communities": [
     {
@@ -8723,7 +8723,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -8968,7 +8968,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -10534,7 +10534,7 @@
         "devops",
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -11048,7 +11048,7 @@
       "dtstart": "2026-01-19T18:00:00+00:00",
       "dtend": "2026-01-28T20:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "",
       "country_code": "",
       "state": "",
@@ -12193,7 +12193,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -12555,6 +12555,34 @@
       "city_code": "",
       "address": "https://luma.com/event/evt-V7EIN96sd7ChxnC",
       "hash_key": "ai education building ai agents together_2026-02-12T22:00:00+00:00"
+    },
+    {
+      "title": "v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online",
+      "description": "Get up-to-date information at: https://luma.com/lgd37763\n\nHosted by Javier Rivero, Diana Carolina Padilla & Ben Kim",
+      "url": "https://luma.com/lgd37763",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/lgd37763",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
+      "organizer": "v0 Prompt to Production Mexico City",
+      "dtstart": "2026-02-13T00:00:00+00:00",
+      "dtend": "2026-02-13T00:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://luma.com/fdg8riz2",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-rYB4HiifBPDm7LU",
+      "hash_key": "how i use ai vol 2_2026-02-13T00:00:00+00:00"
     },
     {
       "title": "Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambiando como desarrollar código|México|Ciudad de México",
@@ -13216,7 +13244,7 @@
     },
     {
       "title": "FinTech México|Crédito + IA en México|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México, Ricardo Rubio & Arnaldo Carrillo",
+      "description": "Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAddress:\nCheck event page for more details.\n\nHosted by FinTech México & 3 others",
       "url": "https://luma.com/6k4mvgpi",
       "sources": [
         {
@@ -13232,7 +13260,7 @@
       "tags": [
         "ai"
       ],
-      "source": "https://luma.com/eofagheq",
+      "source": "https://luma.com/02t893pf",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",

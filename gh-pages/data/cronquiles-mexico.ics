@@ -6753,6 +6753,15 @@ LOCATION:https://luma.com/event/evt-V7EIN96sd7ChxnC
 X-CRONQUILES-ADDRESS:https://luma.com/event/evt-V7EIN96sd7ChxnC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:v0 Prompt to Production Mexico City|How I Use AI – Vol 2|Online
+DTSTART:20260213T000000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/lgd37763\n\nHo
+ sted by Javier Rivero\, Diana Carolina Padilla & Ben Kim
+LOCATION:https://luma.com/event/evt-rYB4HiifBPDm7LU
+X-CRONQUILES-ADDRESS:https://luma.com/event/evt-rYB4HiifBPDm7LU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ajolotes en la Nube|Descubre Kiro: El IDE Agentico que está cambi
  ando como desarrollar código|México|Ciudad de México
 DTSTART:20260212T190000
@@ -7283,8 +7292,8 @@ SUMMARY:FinTech México|Crédito + IA en México|México|Ciudad de México
 DTSTART:20260225T000000Z
 CATEGORIES:ai
 DESCRIPTION:Get up-to-date information at: https://luma.com/6k4mvgpi\n\nAd
- dress:\nCheck event page for more details.\n\nHosted by FinTech México\, 
- Ricardo Rubio & Arnaldo Carrillo
+ dress:\nCheck event page for more details.\n\nHosted by FinTech México & 
+ 3 others
 LOCATION:Hipódromo\, Ciudad de México
 X-CRONQUILES-ADDRESS:Hipódromo\, 06100 Ciudad de México\, CDMX\, México
 X-CRONQUILES-CITY:Ciudad de México
