@@ -50,7 +50,6 @@ const TRANSLATIONS = {
         'cal.showLess': 'Ver menos ←',
         'cal.eventsOf': 'Eventos de',
         'cal.viewEvent': 'Ver evento →',
-        'cal.loadMore': 'Cargar siguiente mes ▼',
         'months': ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
         'days': ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'],
         'locale': 'es-MX'
@@ -98,7 +97,6 @@ const TRANSLATIONS = {
         'cal.showLess': 'Show less ←',
         'cal.eventsOf': 'Events of',
         'cal.viewEvent': 'View event →',
-        'cal.loadMore': 'Load next month ▼',
         'months': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
         'days': ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
         'locale': 'en-US'

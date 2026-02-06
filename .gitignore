@@ -31,6 +31,8 @@ wheels/
 # Datos generados por el pipeline (viven en rama orphan gh-pages)
 gh-pages/data/
 !gh-pages/index.html
+# Datos persistentes importantes (historial y caché de geocoding)
+!data/*.json
 # Config files
 !config/feeds.yaml
 !config/list_icals.txt

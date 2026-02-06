@@ -67,15 +67,12 @@ class TestGroupingLogic(unittest.TestCase):
         # Mock events
         ev1 = EventNormalized(Event(), "f1")
         ev1.state_code = "MX-CMX"
-        ev1.location = "Oficina CDMX"
 
         ev2 = EventNormalized(Event(), "f2")
         ev2.state_code = "MX-JAL"
-        ev2.location = "Centro GDL"
 
         ev3 = EventNormalized(Event(), "f3")
         ev3.state_code = "MX-CMX"
-        ev3.location = "Sede CDMX"
 
         ev4 = EventNormalized(Event(), "f4")
         ev4.state_code = ""  # Online

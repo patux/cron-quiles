@@ -1,25 +1,27 @@
 import logging
 import re
+import time
 from typing import List, Optional, Dict
 from urllib.parse import urlparse, parse_qs
 from .ics import GenericICSAggregator
 from ..models import EventNormalized
-from ..rate_limiter import RateLimiter, enrich_with_backoff
 
 logger = logging.getLogger(__name__)
-
-_luma_limiter = RateLimiter(min_interval=2.0)
-
-# Cache de enriquecimiento: URL del evento -> datos de ubicación ya obtenidos
-_enrichment_cache: Dict[str, Optional[str]] = {}
 
 
 class LumaAggregator(GenericICSAggregator):
     """Aggregator para feeds ICS de Luma con enriquecimiento de ubicación."""
 
-    def __init__(self, session=None, timeout: int = 30, max_retries: int = 2,
-                 url_cache: Optional[Dict] = None):
+    def __init__(
+        self,
+        session=None,
+        timeout: int = 30,
+        max_retries: int = 2,
+        url_cache: Optional[Dict] = None,
+        skip_enrich: bool = False,
+    ):
         super().__init__(session, timeout, max_retries)
+        self.skip_enrich = skip_enrich
         # Cache persistente compartido con ICSAggregator
         self.url_cache = url_cache if url_cache is not None else {"url_conversions": {}, "vanity_urls": {}}
         # Mantener referencia directa para compatibilidad
@@ -191,10 +193,7 @@ class LumaAggregator(GenericICSAggregator):
         # La vanity URL está guardada en self.vanity_url_cache para uso en generate_json
         events = self.extract_events_from_calendar(calendar, original_url, name)
 
-        return events
-
-    def enrich_events(self, events: List[EventNormalized]) -> None:
-        """Enriquece ubicación de eventos Luma que lo necesiten (post-filtrado)."""
+        # Enrich events needing location
         to_enrich = [
             e
             for e in events
@@ -208,28 +207,13 @@ class LumaAggregator(GenericICSAggregator):
             )
         ]
 
-        if not to_enrich:
-            return
+        if to_enrich and not self.skip_enrich:
+            logger.info(f"Found {len(to_enrich)} Luma events to potentially enrich")
+            for event in to_enrich:
+                try:
+                    if event.enrich_location_from_luma(self.session):
+                        time.sleep(1)
+                except Exception as e:
+                    logger.warning(f"Error enriching Luma event {event.url}: {e}")
 
-        logger.info(f"Enriqueciendo {len(to_enrich)} eventos Luma")
-        session = self.session
-
-        for event in to_enrich:
-            # Revisar cache de enriquecimiento para no re-fetchar
-            if event.url in _enrichment_cache:
-                cached_loc = _enrichment_cache[event.url]
-                if cached_loc:
-                    event.location = cached_loc
-                    logger.debug(f"Ubicación de cache: {event.url}")
-                continue
-
-            try:
-                enrich_with_backoff(
-                    event,
-                    lambda e: e.enrich_location_from_luma(session),
-                    _luma_limiter,
-                )
-                _enrichment_cache[event.url] = event.location
-            except Exception as exc:
-                _enrichment_cache[event.url] = None
-                logger.warning(f"Error enriching Luma event {event.url}: {exc}")
+        return events
