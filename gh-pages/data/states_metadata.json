@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 483,
-    "future_event_count": 74,
+    "event_count": 484,
+    "future_event_count": 70,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -64,7 +64,7 @@
     "name": "Ciudad de México",
     "slug": "mx-cmx",
     "event_count": 269,
-    "future_event_count": 36,
+    "future_event_count": 35,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -95,8 +95,8 @@
     "code": "MX-JAL",
     "name": "Jalisco",
     "slug": "mx-jal",
-    "event_count": 11,
-    "future_event_count": 3,
+    "event_count": 12,
+    "future_event_count": 4,
     "active_months": [
       "2024-03",
       "2025-03",
@@ -163,7 +163,7 @@
     "name": "Online",
     "slug": "online",
     "event_count": 178,
-    "future_event_count": 30,
+    "future_event_count": 27,
     "active_months": [
       "2020-10",
       "2021-01",
@@ -216,7 +216,7 @@
     "name": "Puebla",
     "slug": "mx-pue",
     "event_count": 14,
-    "future_event_count": 3,
+    "future_event_count": 2,
     "active_months": [
       "2025-01",
       "2025-02",
