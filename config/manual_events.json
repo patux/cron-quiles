@@ -297,5 +297,49 @@
             "compufest"
         ],
         "source": "Manual"
+    },
+    {
+        "title": "Posadev 2026",
+        "description": "Una conferencia de software organizada por y para developers — un día entero, cuatro tracks, una piñata.",
+        "url": "https://posadev.org/",
+        "location": "Holiday Inn Guadalajara Expo, Ave. Lopez Mateos Sur 2500, Cd del Sol, 45050 Zapopan, Jalisco, México",
+        "country": "México",
+        "country_code": "MX",
+        "city": "Guadalajara",
+        "city_code": "guadalajara",
+        "state": "Jalisco",
+        "state_code": "MX-JAL",
+        "organizer": "Posadev",
+        "dtstart": "2026-11-28T09:00:00-06:00",
+        "dtend": "2026-11-28T21:00:00-06:00",
+        "tags": [
+            "comunidades",
+            "tech",
+            "guadalajara"
+        ],
+        "source": "Manual"
+    },
+    {
+        "title": "HackGDL 2027",
+        "description": "HackGDL is a technical event focused on cybersecurity, hacking, and breaking all kind of things. It brings together professionals, students, enthusiasts, and curious minds to explore the latest trends, techniques, and challenges in the field of information security. The event aims to foster learning, collaboration, and innovation in a friendly and engaging atmosphere, as well as have a ton of fun, socialize, and build relationships and community.",
+        "url": "https://hackgdl.net/",
+        "location": "Jardin Americana, Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal.",
+        "country": "México",
+        "country_code": "MX",
+        "city": "Guadalajara",
+        "city_code": "guadalajara",
+        "state": "Jalisco",
+        "state_code": "MX-JAL",
+        "organizer": "HackGDL",
+        "dtstart": "2027-03-20T09:00:00-06:00",
+        "dtend": "2027-03-20T21:00:00-06:00",
+        "tags": [
+            "comunidades",
+            "tech",
+            "guadalajara",
+            "cybersecurity",
+            "hacking"
+        ],
+        "source": "Manual"
     }
 ]
