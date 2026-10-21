@@ -395,10 +395,6 @@ feeds:
   name: Claude Community Luma
   description: Comunidad de Claude AI (Luma).
   # -----------------------------------
-- url: https://luma.com/user/geraldinemasso
-  name: Geraldine Masso
-  description: Luma profile for Geraldine Masso.
-  # -----------------------------------
 - url: https://luma.com/8pzsf330
   name: Cafe Cursor Puebla
   description: ¡Puebla, prepárate para una tarde de construcción y comunidad! Cafe Cursor llega a la ciudad para transformar una tarde cualquiera en un espacio de creación.
@@ -413,4 +409,7 @@ feeds:
 - url: https://ocgroups.dev/cncf/group/e5vgp72
   name: Cloud Native Mexico City
   description: Cloud Native CDMX es la comunidad oficial de la Cloud Native Computing Foundation (CNCF) en la Ciudad de México.
-
+  # -----------------------------------
+- url: https://www.eventbrite.com/cc/pyday-mexico-2026-4840710/
+  name: PyDay México 2026
+  description: Un día de charlas, talleres y networking para la comunidad Python de México. ¡Aprende, comparte y crece con nosotros!
