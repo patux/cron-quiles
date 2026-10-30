@@ -1,0 +1,178 @@
+{
+  "version": "2.0.2",
+  "generated_at": "2026-10-30T13:39:14.680156+00:00",
+  "total_events": 5,
+  "city": "México",
+  "communities": [
+    {
+      "name": "Mexico Tech Week",
+      "description": "Calendario oficial de Mexico Tech Week 2025.",
+      "links": []
+    },
+    {
+      "name": "Claude Community",
+      "description": "Eventos de la comunidad de Claude AI.",
+      "links": []
+    },
+    {
+      "name": "TESOEM",
+      "description": "Organizador de eventos manuales (ej: FLISoL 2026 - Tesoem (La Paz, EdoMex))",
+      "links": []
+    },
+    {
+      "name": "FLISOL Ecatepec",
+      "description": "Organizador de eventos manuales (ej: FLISoL 2026 - Ecatepec)",
+      "links": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mexico Tech Week|Despecho night!|México|Estado de México",
+      "description": "Get up-to-date information at: https://luma.com/pwl9jnw8\n\nAddress:\nDespecho Satélite\nSatélite, Estado de México\nMexico\n\nHosted by Mexico Tech Week, azalea & Héctor Cancela",
+      "url": "https://luma.com/pwl9jnw8",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/pwl9jnw8",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Despecho Satélite, Cto Centro Comercial 29, Cd. Satélite, Naucalpan de Juárez, Manzana 034, Cd. Satélite, 53100 Satélite, Méx., Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-26T02:00:00+00:00",
+      "dtend": "2024-10-26T09:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "",
+      "city_code": "",
+      "address": "Estado de México, México",
+      "hash_key": "despecho night_2024-10-26T02:00:00+00:00"
+    },
+    {
+      "title": "TESOEM|FLISoL 2026 - Tesoem (La Paz, EdoMex)|México|Estado de México",
+      "description": "Festival Latinoamericano de Instalación de Software Libre 2026 en el Tecnológico de Estudios Superiores del Oriente del Estado de México (TESOEM). Un evento para aprender, compartir y decidir en libertad.",
+      "url": "https://flisol.info/FLISOL2026/Mexico/EdoMex/La%20Paz/Tesoem",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://flisol.info/FLISOL2026/Mexico/EdoMex/La%20Paz/Tesoem",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "TESOEM. Paraje San Isidro S/N, Barrio de Tecamachalco, La Paz, Estado de México.",
+      "online": false,
+      "organizer": "TESOEM",
+      "dtstart": "2026-04-25T09:30:00-06:00",
+      "dtend": "2026-04-25T16:00:00-06:00",
+      "tags": [
+        "community",
+        "floss",
+        "gnu",
+        "linux",
+        "mobile",
+        "open-source"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "La Paz",
+      "city_code": "la-paz",
+      "address": "TESOEM. Paraje San Isidro S/N, Barrio de Tecamachalco, La Paz, Estado de México.",
+      "hash_key": "flisol 2026 tesoem la paz edomex_2026-04-25T14:00:00+00:00"
+    },
+    {
+      "title": "FLISOL Ecatepec|FLISoL 2026 - Ecatepec|México|Estado de México",
+      "description": "Festival Latinoamericano de Instalación de Software Libre 2026 en Ecatepec. Centro de Cultura 'Emiliano Zapata'. Jornada de instalación, pláticas y comunidad.",
+      "url": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=19.515122%2C-99.036043%3B19.510665%2C-99.020315#map=17/19.512283/-99.028165",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=19.515122%2C-99.036043%3B19.510665%2C-99.020315#map=17/19.512283/-99.028165",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro de Cultura 'Emiliano Zapata'. Calle Josefa Ortiz de Dominguez esquina Urano. Col. Sauces 1. Por metro Ecatepec, Estado de México.",
+      "online": false,
+      "organizer": "FLISOL Ecatepec",
+      "dtstart": "2026-04-26T14:00:00-06:00",
+      "dtend": "2026-04-26T18:00:00-06:00",
+      "tags": [
+        "community",
+        "floss",
+        "gnu",
+        "linux",
+        "open-source"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "Ecatepec",
+      "city_code": "ecatepec",
+      "address": "Centro de Cultura 'Emiliano Zapata'. Calle Josefa Ortiz de Dominguez esquina Urano. Col. Sauces 1. Por metro Ecatepec, Estado de México.",
+      "hash_key": "flisol 2026 ecatepec_2026-04-26T20:00:00+00:00"
+    },
+    {
+      "title": "Claude Community|Mexico City  -  Claude for Research Meetup|México|Estado de México",
+      "description": "Get up-to-date information at: https://luma.com/claude-investigadores\n\nAddress:\nAnáhuac University\nSalón MBA 3\nLomas Anáhuac, Mexico\n\nHosted by Dr. Vinicius Covas",
+      "url": "https://luma.com/claude-investigadores",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/claude-investigadores",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Anáhuac University, Av. Universidad Anáhuac 46, Lomas Anahuac, 52786 Lomas Anáhuac, Méx., Mexico",
+      "online": false,
+      "organizer": "Claude Community",
+      "dtstart": "2026-09-25T16:00:00+00:00",
+      "dtend": "2026-09-25T18:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-TOpA5LAFfuDeFpu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "Huixquilucan de Degollado",
+      "city_code": "huixquilucandedegollado",
+      "address": "Universidad Anahuac, 46, Avenida Universidad Anahuac, Lomas Anahuác, La Herradura, Huixquilucan de Degollado, Huixquilucan, Estado de México, 52786, México",
+      "hash_key": "mexico city claude for research meetup_2026-09-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|🍔 ¡Haciendo historia en México con Bitcoin! 🚀México a la vanguardia de los Pagos Alternos.|México|Estado de México",
+      "description": "Get up-to-date information at: https://luma.com/mxtw-fcf8da6c\n\nAddress:\nCarl's Jr. Echegaray\nNaucalpan de Juárez, Mexico\n\nHosted by Mexico Tech Week & Israel Hernandez",
+      "url": "https://luma.com/mxtw-fcf8da6c",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/mxtw-fcf8da6c",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Carl's Jr. Echegaray, Perif. Blvd. Manuel Ávila Camacho 895, Bosques de Echegaray, 53310 Naucalpan de Juárez, Méx., Mexico",
+      "online": false,
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2026-10-31T17:00:00+00:00",
+      "dtend": "2026-11-01T00:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Estado de México",
+      "state_code": "MX-MEX",
+      "city": "",
+      "city_code": "",
+      "address": "Estado de México, México",
+      "hash_key": "haciendo historia en mxico con bitcoin m_2026-10-31T16:00:00+00:00"
+    }
+  ]
+}

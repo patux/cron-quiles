@@ -1,0 +1,1201 @@
+{
+  "version": "2.0.2",
+  "generated_at": "2026-10-30T13:39:14.700012+00:00",
+  "total_events": 36,
+  "city": "Jalisco",
+  "communities": [
+    {
+      "name": "AWS User Group Jalisco",
+      "description": "Comunidad de usuarios de AWS en Guadalajara. Eventos sobre servicios en la nube de Amazon.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/amazon-web-services-jalisco",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "Claude Users Group",
+      "description": "",
+      "links": []
+    },
+    {
+      "name": "Eventloop",
+      "description": "La comunidad de JavaScript de la Ciudad de México es una organización sin fines de lucro con el objetivo de elevar la competitividad técnica de la ciudad.",
+      "links": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/eventloop",
+          "label": "Meetup"
+        }
+      ]
+    },
+    {
+      "name": "Pythonistas GDL",
+      "description": "Comunidad de entusiastas de Python en Guadalajara. Reuniones mensuales, charlas técnicas y networking.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "Vive Codding Cafe",
+      "description": "Un espacio para juntarnos a echar código y compartir lo que estamos descubriendo en el mundo de la IA.",
+      "links": []
+    },
+    {
+      "name": "GDG Guadalajara",
+      "description": "GDG Guadalajara es una comunidad abierta de entusiastas y profesionales de la tecnología apasionados por el aprendizaje colaborativo. Como parte de la red global de Google Developer Groups, nuestro objetivo es conectar a desarrolladores locales para compartir conocimientos sobre el ecosistema de Google y las tendencias tecnológicas más actuales (AI, Cloud, Mobile, Web). Fomentamos un espacio inclusivo donde la innovación y el crecimiento profesional se impulsan a través de talleres, charlas y eventos de gran escala como el DevFest.",
+      "links": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/gdg-guadalajara/",
+          "label": "Sitio web"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Developer Community / Linuxeros Zapopan",
+      "description": "Organizador de eventos manuales (ej: Coding Sessions – MDC x Linuxeros Zapopan)",
+      "links": []
+    },
+    {
+      "name": "Linuxcabal",
+      "description": "Organizador de eventos manuales (ej: Linuxcabal celebra 30 aniversario)",
+      "links": []
+    },
+    {
+      "name": "KCD Guadalajara",
+      "description": "Organizador de eventos manuales (ej: KCD Guadalajara 2026)",
+      "links": []
+    },
+    {
+      "name": "OpenClaw Community",
+      "description": "Organizador de eventos manuales (ej: ClawCon Guadalajara)",
+      "links": []
+    },
+    {
+      "name": "Posadev",
+      "description": "Organizador de eventos manuales (ej: Posadev 2026)",
+      "links": []
+    },
+    {
+      "name": "HackGDL",
+      "description": "Organizador de eventos manuales (ej: HackGDL 2027)",
+      "links": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café @HackerGarage|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/jqsicipx\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/jqsicipx",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/jqsicipx",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2025-09-12T22:00:00+00:00",
+      "dtend": "2025-09-13T04:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf hackergarage_2025-09-12T22:00:00+00:00"
+    },
+    {
+      "title": "Claude Users Group|AI After Brunch - Tech & Chill Night|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/11t1uq7i\n\nAddress:\nRock It Chapultepec\nGuadalajara, Jalisco\nMexico\n\nHosted by Martin Manriquez Leon",
+      "url": "https://luma.com/11t1uq7i",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/11t1uq7i",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Rock It Chapultepec, Av. Chapultepec Sur 389, Col Americana, Americana, 44140 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Claude Users Group",
+      "dtstart": "2025-09-19T02:00:00+00:00",
+      "dtend": "2025-09-19T05:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-gKhhS6fDDrX3mqz",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "ai after brunch tech chill night_2025-09-19T02:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café ☕️|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/zh5173b0\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/zh5173b0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/zh5173b0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2025-10-17T22:00:00+00:00",
+      "dtend": "2025-10-18T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2025-10-17T22:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️ + Posada 🎄|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/ug5puv9h\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/ug5puv9h",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/ug5puv9h",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2025-12-12T22:00:00+00:00",
+      "dtend": "2025-12-13T04:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding cafe posada_2025-12-12T22:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Cafe ☕️|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/xng8uaz0\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/xng8uaz0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/xng8uaz0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-01-16T22:00:00+00:00",
+      "dtend": "2026-01-17T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding cafe_2026-01-16T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Personalización de LLMs y CLIs en Python|México|Jalisco",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Creando una CLI en Python <br /><em>¿Para qué?</em><br /><strong>Por Patricio Páez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Técnicas para personalizar LLMs<br /><em>Más allá del prompt</em><br /><strong>Por Dario Flores</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/1/personalizacion-de-llms-y-clis-en-python",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/1/personalizacion-de-llms-y-clis-en-python",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Grid Dynamics, Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-01-31T00:30:00+00:00",
+      "dtend": "2026-01-31T04:00:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "personalizacin de llms y clis en python_2026-01-31T00:00:00+00:00"
+    },
+    {
+      "title": "Mobile Developer Community / Linuxeros Zapopan|Coding Sessions – MDC x Linuxeros Zapopan|México|Jalisco",
+      "description": "En colaboración con Linuxeros Zapopan, te invitamos a nuestro primer Coding Session del 2026.\n\n¿Qué es un Coding Session? Es un espacio relajado, abierto y sin presión, pensado para que la comunidad se reúna a: trabajar en tus proyectos personales; mostrar lo que estás construyendo y recibir feedback; encontrar personas interesadas en sumarse a tu proyecto; presentar una idea o demo de forma informal; o simplemente venir a platicar, convivir y pasar un buen rato con otros devs.\n\nNo hay agenda rígida, no hay presión, solo código, ideas, buena compañía… y café. La comunidad de Linuxeros Zapopan estará presente ayudando a quien quiera instalar Linux, resolver dudas o platicar sobre open source.",
+      "url": "#",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "#",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Hacker Garage, Zapopan",
+      "online": false,
+      "organizer": "Mobile Developer Community / Linuxeros Zapopan",
+      "dtstart": "2026-02-07T10:00:00-06:00",
+      "dtend": "2026-02-07T14:00:00-06:00",
+      "tags": [
+        "coding",
+        "community",
+        "dev",
+        "frontend",
+        "linux",
+        "mobile",
+        "open-source"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "Hacker Garage, Zapopan",
+      "hash_key": "coding sessions mdc x linuxeros zapopan_2026-02-07T16:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/qfsgwxrg\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/qfsgwxrg",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/qfsgwxrg",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-02-13T22:00:00+00:00",
+      "dtend": "2026-02-14T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-02-13T22:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Codeworking day|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/8wwwg9vy\n\nAddress:\nVentura Café\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez",
+      "url": "https://luma.com/8wwwg9vy",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8wwwg9vy",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-02-18T18:00:00+00:00",
+      "dtend": "2026-02-18T22:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "codeworking day_2026-02-18T18:00:00+00:00"
+    },
+    {
+      "title": "Linuxcabal|Linuxcabal celebra 30 aniversario|México|Jalisco",
+      "description": "Festival de Instalación de GNU & Linux y F/OSS ****** Presentación Especial ****** Celebrando nuestro 30 aniversario y también el año nuevo del caballo de fuego Con una Comida Asiatica",
+      "url": "https://groups.google.com/g/linuxcabal/c/SlPzGz2S3ws/m/YPaW-34cAAAJ",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://groups.google.com/g/linuxcabal/c/SlPzGz2S3ws/m/YPaW-34cAAAJ",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Linuxcabal, Calle 14 #2184-A, Col. Ferrocarril, C.P. 44440, Guadalajara, Jalisco, Mexico",
+      "online": false,
+      "organizer": "Linuxcabal",
+      "dtstart": "2026-02-21T15:00:00-06:00",
+      "dtend": "2026-02-21T21:00:00-06:00",
+      "tags": [
+        "community",
+        "dev",
+        "floss",
+        "food",
+        "frontend",
+        "gnu",
+        "linux",
+        "open-source"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Linuxcabal, Calle 14 #2184-A, Col. Ferrocarril, C.P. 44440, Guadalajara, Jalisco, Mexico",
+      "hash_key": "linuxcabal celebra 30 aniversario_2026-02-21T20:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|EVENTO POSPUESTO Interfaz web y agentes autónomos|México|Jalisco",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ NiceGUI <br /><em>interfaz web para tu código python</em><br /><strong>PorJuan Carlos Sedano</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Mas allá del chat<br /><em>Construyendo agentes autónomos con Python y Google Cloud</em><br /><strong>Por José Muñoz</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/2/evento-pospuesto-interfaz-web-y-agentes-autonomos",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/2/evento-pospuesto-interfaz-web-y-agentes-autonomos",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Cerevia, C. Isla Socorro 3297, Villa Guerrero, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-02-28T00:30:00+00:00",
+      "dtend": "2026-02-28T04:00:00+00:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "python",
+        "web"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Calle Isla Socorro, Colón C.R.O.C., Guadalajara, Región Centro, Jalisco, 44989, México",
+      "hash_key": "evento pospuesto interfaz web y agentes _2026-02-28T00:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café — v0 Edition|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/wwa2mpwd\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez, Ruy & Juan Martinez",
+      "url": "https://luma.com/wwa2mpwd",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/wwa2mpwd",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-03-13T22:00:00+00:00",
+      "dtend": "2026-03-14T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf v0 edition_2026-03-13T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Explorando datos y escalando código|México|Jalisco",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Análisis exploratorio de datos con pandas <br /><strong>Por Alma Ahumada</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Ingeniería con Python: Del Script a la Infraestructura<br /><strong>Por Lola Cervantes</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/3/explorando-datos-y-escalando-codigo",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/3/explorando-datos-y-escalando-codigo",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Improving, Av. Patria 888-4th, Loma Real, Zapopan, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-03-28T00:30:00+00:00",
+      "dtend": "2026-03-28T04:00:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "explorando datos y escalando cdigo_2026-03-28T00:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibecoding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/sn64suda\n\nAddress:\nHackerGarage\nGuadalajara, Jalisco\nMexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/sn64suda",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/sn64suda",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-04-17T22:00:00+00:00",
+      "dtend": "2026-04-18T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibecoding caf_2026-04-17T22:00:00+00:00"
+    },
+    {
+      "title": "KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco",
+      "description": "Kubernetes Community Days Guadalajara, un evento para profesionales de la nube y Kubernetes.",
+      "url": "https://community.cncf.io/kcd-guadalajara/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://community.cncf.io/kcd-guadalajara/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
+      "online": false,
+      "organizer": "KCD Guadalajara",
+      "dtstart": "2026-04-18T08:00:00-06:00",
+      "dtend": "2026-04-18T19:00:00-06:00",
+      "tags": [
+        "cloud",
+        "conferencia",
+        "devops",
+        "kubernetes"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Holiday Inn Guadalajara Expo, an IHG Hotel 2500 Avenida Adolfo López Mateos Sur, Zapopan, 45050",
+      "hash_key": "kcd guadalajara 2026_2026-04-18T14:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Interfaz web y agentes autónomos|México|Jalisco",
+      "description": "<h2><strong>Tenemos cupo para 50 personas, <br />Regístrate si tienes la certeza de asistir y llega temprano para asegurar tu lugar.</strong></h2><ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ NiceGUI<br /><em>interfaz web para tu código Python</em><br /><strong>Por Juan Carlos Sedano</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Mas allá del chat<br /><em>construyendo agentes autónomos con Python y Google Cloud</em><br /><strong>Por José Muñoz</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/4/interfaz-web-y-agentes-autonomos",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/4/interfaz-web-y-agentes-autonomos",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Stak Novena, Av. México 3040, Auditorio piso 12, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-04-25T00:30:00+00:00",
+      "dtend": "2026-04-25T04:00:00+00:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "python",
+        "web"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "interfaz web y agentes autnomos_2026-04-25T00:00:00+00:00"
+    },
+    {
+      "title": "OpenClaw Community|ClawCon Guadalajara|México|Jalisco",
+      "description": "¿Qué es ClawCon? ClawCon, surgida de la comunidad OpenClaw y su misión de otorgar poder a las personas y su soberanía sobre la IA personal, es un encuentro comunitario.",
+      "url": "https://luma.com/clawconguad",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/clawconguad",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Guadalajara, Jalisco",
+      "online": false,
+      "organizer": "OpenClaw Community",
+      "dtstart": "2026-04-25T18:00:00-06:00",
+      "dtend": "2026-04-25T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "community",
+        "openclaw"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Guadalajara, Jalisco",
+      "hash_key": "clawcon guadalajara_2026-04-26T00:00:00+00:00"
+    },
+    {
+      "title": "Linuxcabal|Linuxcabal celebra FLISoL 2026 en Guadalajara|México|Jalisco",
+      "description": "Es un evento a nivel Latinoamericano para la instalación de F/OSS (Free y Open Source Software) distribuido en eventos en cada país. Tiene como propósito promover el uso de F/OSS y la integración de comunidades de usuarios de F/OSS en todos los países de Latinoamerica. FLISoL - 2026",
+      "url": "http://www.linuxcabal.org/FLISoL20260425.php?Lang=es&From=Eventos",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "http://www.linuxcabal.org/FLISoL20260425.php?Lang=es&From=Eventos",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Linuxcabal, Calle 14 #2184-A, Col. Ferrocarril, C.P. 44440, Guadalajara, Jalisco, Mexico",
+      "online": false,
+      "organizer": "Linuxcabal",
+      "dtstart": "2026-05-02T15:00:00-06:00",
+      "dtend": "2026-05-02T21:00:00-06:00",
+      "tags": [
+        "community",
+        "dev",
+        "floss",
+        "food",
+        "frontend",
+        "gnu",
+        "linux",
+        "mobile",
+        "open-source"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Linuxcabal, Calle 14 #2184-A, Col. Ferrocarril, C.P. 44440, Guadalajara, Jalisco, Mexico",
+      "hash_key": "linuxcabal celebra flisol 2026 en guadal_2026-05-02T20:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/dre99mrd\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Rogelio Hernandez & Ruy",
+      "url": "https://luma.com/dre99mrd",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/dre99mrd",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-05-08T22:00:00+00:00",
+      "dtend": "2026-05-09T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-05-08T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Mayo: Odoo, Workflows|México|Jalisco",
+      "description": "<p style=\"margin:0.5em 0px;\">Celebraremos nuestro primer aniversario haciendo lo que mas nos gusta: hablar de Python y compartir con las personas que han hecho posible este logro. </p><ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Python en un ERP <br /><em>Lo que nadie te cuenta de Odoo</em><br /><strong>Por Eliezer Solano Martinez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Temporal.io:<br /><em>Construye apps que nunca fallan</em><br /><strong>Por Vicente Esteban Bañuelos</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/5/mayo-odoo-workflows",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/5/mayo-odoo-workflows",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Grid Dynamics, Av. de las Américas 1545-Piso 6, Providencia, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-05-30T00:30:00+00:00",
+      "dtend": "2026-05-30T04:00:00+00:00",
+      "tags": [
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "mayo odoo workflows_2026-05-30T00:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/hd172ds2\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy, Rogelio Hernandez & Robin",
+      "url": "https://luma.com/hd172ds2",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/hd172ds2",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-06-12T22:00:00+00:00",
+      "dtend": "2026-06-13T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-06-12T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Python desde cero|México|Jalisco",
+      "description": "<p style=\"margin:0.5em 0px;\">Ven a aprender Python desde cero con la comunidad Pythonistas GDL en un ambiente relajado. </p><p style=\"margin:0.5em 0px;\">Contaremos con sesiones guiadas, evaluaciones para medir el conocimiento adquirido y ejercicios para llevar a casa.</p><p style=\"margin:0.5em 0px;\">Los sábados 13, 20 y 27 de junio de 10am a 3pm. </p><p style=\"margin:0.5em 0px;\"></p><p style=\"margin:0.5em 0px;\">Costo de recuperación $450.</p><p style=\"margin:0.5em 0px;\"></p><h3>Temario</h3><p style=\"margin:0.5em 0px;\"><strong>Tipos Integrados</strong> <em>literales•numéricos•cadenas de texto•listas•diccionarios•tuplas•archivos•conjuntos•booleanos</em></p><p style=\"margin:0.5em 0px;\"><strong>Operadores</strong> <em>numéricos•booleans•comprensiones•indexación•cortes</em></p><p style=\"margin:0.5em 0px;\"><strong>Control de flujo </strong><em>if, else, elif</em></p><p style=\"margin:0.5em 0px;\"><strong>Ciclos</strong><em> while•for</em></p><p style=\"margin:0.5em 0px;\"><strong>Funciones </strong><em>definición•llamadas•ámbito</em></p><p style=\"margin:0.5em 0px;\"><strong>Módulos<em> </em></strong><em>importaciones•módulos de la libreria estándar</em></p><p style=\"margin:0.5em 0px;\"><strong>Programación Orientada a Objetos</strong> <em>clases•instancias•herencia•polimorfismo•sobrecarga</em></p><p style=\"margin:0.5em 0px;\"><strong>Excepciones<em> </em></strong><em>try except else•try finally•try except finally</em></p><p style=\"margin:0.5em 0px;\"><strong>Decoradores </strong><em>declaración•ejemplos</em></p><p style=\"margin:0.5em 0px;\"><strong>Declaración with</strong></p><p style=\"margin:0.5em 0px;\"><strong>Gestores de paquetes </strong><em>ambientes virtuales•pip, uv, poetry</em></p><p style=\"margin:0.5em 0px;\"><strong>Iteradores </strong><em>generadores•yield•itertools</em></p><p style=\"margin:0.5em 0px;\"><strong>Anotaciones </strong><em>declaración•ejemplos</em></p><p style=\"margin:0.5em 0px;\"><strong>Módulos útiles </strong><em>request•pytest</em></p>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/12/python-desde-cero",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/12/python-desde-cero",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-06-13T16:00:00+00:00",
+      "dtend": "2026-06-27T21:00:00+00:00",
+      "tags": [
+        "frontend",
+        "mobile",
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "python desde cero_2026-06-13T16:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|AI + Coffee|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/9sryvkpt\n\nAddress:\nVentura Café\nGuadalajara, Mexico\n\nHosted by Rogelio Hernandez",
+      "url": "https://luma.com/9sryvkpt",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/9sryvkpt",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "Ventura Café, Av San Francisco 3205, Chapalita, 44500 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-07-04T16:00:00+00:00",
+      "dtend": "2026-07-04T19:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "ai coffee_2026-07-04T16:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/69sa04is\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
+      "url": "https://luma.com/69sa04is",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/69sa04is",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-07-10T22:00:00+00:00",
+      "dtend": "2026-07-11T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-07-10T22:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/8fhecegc\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
+      "url": "https://luma.com/8fhecegc",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/8fhecegc",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-08-14T22:00:00+00:00",
+      "dtend": "2026-08-15T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-08-14T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Viernes 28 de Agosto en el HackerGarage|México|Jalisco",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ mck, Encuentra los ImportError ocultos <br /><em>mck es una herramienta que verifica si uno o más módulos se puedan importar individualmente. </em><br /><em>Veremos cómo se originó mck, un ejemplo de su uso y en qué casos te podría servir.</em><br /><strong>Por Patricio Páez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ ¿Qué tan libre es el software libre?<br /><em>breve análisis de las diferentes licencias de código abierto y como identificar sus derechos y obligaciones</em><br /><strong>Por Luis Alvarez</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking <br /></p></li></ul><h1><br /><strong>Regístrate aquí: </strong><a href=\"https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092\"><strong>https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092</strong></a></h1>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/8/viernes-28-de-agosto-en-el-hackergarage",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/8/viernes-28-de-agosto-en-el-hackergarage",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-08-29T00:30:00+00:00",
+      "dtend": "2026-08-29T04:00:00+00:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "viernes 28 de agosto en el hackergarage_2026-08-29T00:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/0t82pa2f\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
+      "url": "https://luma.com/0t82pa2f",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/0t82pa2f",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-09-18T22:00:00+00:00",
+      "dtend": "2026-09-19T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-09-18T22:00:00+00:00"
+    },
+    {
+      "title": "Pythonistas GDL|Septiembre: Lingüística Computacional y Agentes de IA|México|Jalisco",
+      "description": "<ul><li><p style=\"margin:0.5em 0px;\">🚪 Recepción a partir de las 6:30</p></li><li><p style=\"margin:0.5em 0px;\">⏰ Evento 7:00</p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Detección automática de interferencia gramatical L1 en producción escrita de hispanohablantes<br /><em>Un motor GED basado en gramática de valencias y grafos de dependencia</em><br /><strong>Ana Jazmín Sossa González</strong></p></li><li><p style=\"margin:0.5em 0px;\">🗣️ Python + GCP + ADK<br /><em>Introducción casual a Gemini Enterprise Agent Platform</em><br /><strong>Adrián Espinoza</strong></p></li><li><p style=\"margin:0.5em 0px;\">🪩 Networking </p></li></ul>",
+      "url": "https://reuniones.pythonistas-gdl.org/event/9/septiembre-linguistica-computacional-y-agentes-de-ia",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://reuniones.pythonistas-gdl.org/event/9/septiembre-linguistica-computacional-y-agentes-de-ia",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Slalom, Avenida Américas 1500, Piso 16, UP 9, Guadalajara, Jalisco, MX",
+      "online": false,
+      "organizer": "Pythonistas GDL",
+      "dtstart": "2026-09-26T00:30:00+00:00",
+      "dtend": "2026-09-26T04:00:00+00:00",
+      "tags": [
+        "cloud",
+        "python"
+      ],
+      "source": "https://reuniones.pythonistas-gdl.org/events/1/pythonistas-gdl",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "septiembre lingstica computacional y age_2026-09-26T00:00:00+00:00"
+    },
+    {
+      "title": "PyDay México 2026|PyDay México 2026: Guadalajara|México|Jalisco",
+      "description": "Un día de charlas, talleres y networking para la comunidad Python de México. ¡Aprende, comparte y crece con nosotros!",
+      "url": "https://www.eventbrite.com.mx/e/pyday-mexico-2026-guadalajara-tickets-1989262344221",
+      "sources": [
+        {
+          "platform": "eventbrite",
+          "url": "https://www.eventbrite.com.mx/e/pyday-mexico-2026-guadalajara-tickets-1989262344221",
+          "label": "Ver en Eventbrite"
+        }
+      ],
+      "location": "Auditorio Dr. Salvador Allende Gossens, 1140 Avenida Fray Antonio Alcalde, Guadalajara, JAL",
+      "online": false,
+      "organizer": "PyDay México 2026",
+      "dtstart": "2026-10-17T08:00:00-06:00",
+      "dtend": "2026-10-17T18:30:00-06:00",
+      "tags": [
+        "python"
+      ],
+      "source": "Eventbrite",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Avenida Fray Antonio Alcalde, Carvallo, Guadalajara, Región Centro, Jalisco, 44220, México",
+      "hash_key": "pyday mxico 2026 guadalajara_2026-10-17T14:00:00+00:00"
+    },
+    {
+      "title": "Eventloop|JSConf México 2026|México|Jalisco",
+      "description": "Eventloop\n**JSConf México** regresa: dos días de Js en Guadalajara, el 29 y 30 de octubre.\n\nImportante: confirmar asistencia aquí en Meetup no es tu boleto. El boleto se compra en https://tickets.jsconf.mx/\n\nQUÉ VAS A ENCONTRAR\n\n* keynotes: Daniel Roe (líder de Nuxt), Estefany Aguilar (Teffcode, NodeSource) y Mark Thompson (Google)\n* Más de 20 charlas en dos escenarios, con gente de Netflix, GitHub, The New York Times, Sentry, AWS, Google y Vercel\n* Talleres: contribuir a Node.js junto a sus maintainers, agentes en tiempo real con Gemini Live, y de desarrollador a arquitecto usando AI\n* Temas: React Server Components, WebAssembly, agentes de IA, microfrontends, seguridad en npm, accesibilidad y performance\n\nAgenda completa: https://www.jsconf.mx/agenda\n\nBoletos: https://tickets.jsconf.mx/",
+      "url": "https://www.meetup.com/eventloop/events/316903420/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/eventloop/events/316903420/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "Jardín Americana, Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Eventloop",
+      "dtstart": "2026-10-29T21:00:00-06:00",
+      "dtend": "2026-10-30T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "cloud",
+        "frontend",
+        "mobile",
+        "web"
+      ],
+      "source": "https://www.meetup.com/eventloop/events/ical",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "jsconf mxico 2026_2026-10-30T02:00:00+00:00"
+    },
+    {
+      "title": "Vive Codding Cafe|Vibe Coding Café|México|Jalisco",
+      "description": "Get up-to-date information at: https://luma.com/4xyyeuy0\n\nAddress:\nHackerGarage\nGuadalajara, Mexico\n\nHosted by Ruy",
+      "url": "https://luma.com/4xyyeuy0",
+      "sources": [
+        {
+          "platform": "luma",
+          "url": "https://luma.com/4xyyeuy0",
+          "label": "Ver en Luma"
+        }
+      ],
+      "location": "HackerGarage, Calle Marsella 155-Int 105 A, Col Americana, Lafayette, 44160 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "Vive Codding Cafe",
+      "dtstart": "2026-10-30T22:00:00+00:00",
+      "dtend": "2026-10-31T02:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-W2sKbYqVIxmPXxw",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "vibe coding caf_2026-10-30T22:00:00+00:00"
+    },
+    {
+      "title": "AWS User Group Jalisco|Construyendo agentes de IA con Strands SDK: de loops simples a multi-agentes|México|Jalisco",
+      "description": "AWS User Group Jalisco\nEste noviembre nos ponemos manos a la obra con un workshop práctico de agentes de IA... ¡y edición especial de Halloween! 🤖🎃\n\nConstruiremos paso a paso un agente de IA para servicio al cliente, listo para producción, usando Strands Agents, el SDK de código abierto. Después lo pondremos en producción en Amazon Bedrock AgentCore. El workshop tiene módulos prácticos y en cada uno le sumas una nueva funcionalidad a tu agente.\n\n🎤 Workshop impartido por: Axel Espinosa, Associate Developer Advocate en AWS\n🏢 Además, abriremos con una charla breve de SoftServe relacionada con el tema del taller.\n🎃 Concurso de disfraces: ¡ven disfrazado! Habrá votación y premios para los mejores disfraces. La participación es opcional, pero muy recomendada 😉\n🍕 Habrá pizza, bebidas y snacks de Halloween.\n\n🗓️ Agenda\n\n* 7:00 PM: Bienvenida\n* 7:05 PM: “Crear un agente de IA es solo el principio: conoce Amazon Bedrock AgentCore”, con Guillermo Galván (SoftServe)\n* 7:35 PM: Workshop Strands Agents con Axel Espinosa, primera parte\n* 8:20 PM: Pausa para comer 🍕\n* 8:35 PM: Workshop, segunda parte\n* 9:20 PM: Concurso de disfraces, votación y premios 🎃\n* 9:30 PM: Cierre\n\n💻 Trae tu laptop con batería cargada, ¡vamos a construir en vivo!\n⚠️ Cupo limitado a 50 personas.\n📍 SoftServe, Av. Adolfo López Mateos Nte. 2405, Piso 21, Guadalajara\n🗓️ Jueves 5 de noviembre\n🕖 7:00 PM\n\n💜 **Código de conducta**\nEn AWS User Group Jalisco todos son bienvenidos, sin importar su experiencia, origen o identidad. Venimos a aprender, compartir y pasarla bien, así que tratemos a todos con respeto. No hay espacio para el acoso ni la discriminación. Si algo no se siente bien, búscanos a cualquiera de los organizadores y lo vemos juntos.\n\nGracias a SoftServe por recibirnos y a AWS por seguir impulsando a la comunidad. Como siempre, gracias por ser parte de la comunidad y por seguir construyendo juntos 🚀",
+      "url": "https://www.meetup.com/amazon-web-services-jalisco/events/316729535/",
+      "sources": [
+        {
+          "platform": "meetup",
+          "url": "https://www.meetup.com/amazon-web-services-jalisco/events/316729535/",
+          "label": "Ver en Meetup"
+        }
+      ],
+      "location": "SoftServe Mexico, Av Adolfo López Mateos Nte 2405-Piso 21 int. 2102, Italia Providencia, 44648 Guadalajara, Jal., Mexico",
+      "online": false,
+      "organizer": "AWS User Group Jalisco",
+      "dtstart": "2026-11-05T19:00:00-06:00",
+      "dtend": "2026-11-05T22:00:00-06:00",
+      "tags": [
+        "cloud",
+        "frontend",
+        "mobile"
+      ],
+      "source": "https://www.meetup.com/amazon-web-services-jalisco/events/ical",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "",
+      "city_code": "",
+      "address": "Jalisco, México",
+      "hash_key": "construyendo agentes de ia con strands s_2026-11-06T00:00:00+00:00"
+    },
+    {
+      "title": "GDG Guadalajara|DevFest 2026|México|Jalisco",
+      "description": "Únete a nuestra segunda edición de DevFest en Guadalajara, donde exploraremos las últimas tendencias en tecnología con enfoque en IA, Cloud y desarrollo web. Este evento será el punto de partida ideal para conectarte con otros entusiastas y profesionales de la tecnología. No te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y aprender juntos.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Centro Universitario de Guadalajara (CUGDL), 1045 Calle Guanajuato, Guadalajara",
+      "online": false,
+      "organizer": "GDG Guadalajara",
+      "dtstart": "2026-11-21T09:00:00-06:00",
+      "dtend": "2026-11-21T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Android",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session",
+        "cloud",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Calle Guanajuato, La Normal, Guadalajara, Región Centro, Jalisco, 44260, México",
+      "hash_key": "devfest 2026_2026-11-21T14:00:00+00:00"
+    },
+    {
+      "title": "Posadev|Posadev 2026|México|Jalisco",
+      "description": "Una conferencia de software organizada por y para developers — un día entero, cuatro tracks, una piñata.",
+      "url": "https://posadev.org/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://posadev.org/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Holiday Inn Guadalajara Expo, Ave. Lopez Mateos Sur 2500, Cd del Sol, 45050 Zapopan, Jalisco, México",
+      "online": false,
+      "organizer": "Posadev",
+      "dtstart": "2026-11-28T09:00:00-06:00",
+      "dtend": "2026-11-28T21:00:00-06:00",
+      "tags": [
+        "comunidades",
+        "guadalajara",
+        "tech"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Holiday Inn Guadalajara Expo, Ave. Lopez Mateos Sur 2500, Cd del Sol, 45050 Zapopan, Jalisco, México",
+      "hash_key": "posadev 2026_2026-11-28T14:00:00+00:00"
+    },
+    {
+      "title": "GDG Heroica Veracruz|DevFest 2026 Health|México|Jalisco",
+      "description": "El 02 de diciembre de 2026, DevFest Health 2026 se lleva a cabo en las oficinas de AstraZeneca en Guadalajara. Los asistentes explorarán tendencias en inteligencia artificial y tecnologías de Google mediante talleres interactivos y charlas de expertos sobre Angular, Flutter y más. Es una oportunidad para desarrolladores apasionados de conectar y aprender juntos. ¡Regístrate ahora!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-health/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://gdg.community.dev/events/details/google-gdg-heroica-veracruz-presents-devfest-2026-health/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "AstraZeneca GITC Guadalajara, 4965 Boulevard Puerta de Hierro, Zapopan",
+      "online": false,
+      "organizer": "GDG Heroica Veracruz",
+      "dtstart": "2026-12-02T09:00:00-06:00",
+      "dtend": "2026-12-02T16:00:00-06:00",
+      "tags": [
+        "AI",
+        "AI - AI Studio",
+        "AI - Gemini",
+        "AI - Gemma",
+        "Accessibility",
+        "Angular",
+        "Build with AI",
+        "Career Development",
+        "Community Building",
+        "Conference",
+        "DevFest",
+        "Firebase",
+        "Flutter",
+        "Google Cloud",
+        "Google Maps Platform",
+        "Google Workspace",
+        "Hackathon",
+        "Networking",
+        "Tech Talk / Meetup",
+        "UX / UI Design",
+        "Web",
+        "Workshop / hands-on session",
+        "mobile",
+        "web"
+      ],
+      "source": "https://gdg.community.dev/gdg-guadalajara/",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Zapopan",
+      "city_code": "zapopan",
+      "address": "Bitspot BTM Andares, 4965, Boulevard Puerta de Hierro, Puerta de Hierro, Zapopan, Región Centro, Jalisco, 45116, México",
+      "hash_key": "devfest 2026 health_2026-12-02T14:00:00+00:00"
+    },
+    {
+      "title": "HackGDL|HackGDL 2027|México|Jalisco",
+      "description": "HackGDL is a technical event focused on cybersecurity, hacking, and breaking all kind of things. It brings together professionals, students, enthusiasts, and curious minds to explore the latest trends, techniques, and challenges in the field of information security. The event aims to foster learning, collaboration, and innovation in a friendly and engaging atmosphere, as well as have a ton of fun, socialize, and build relationships and community.",
+      "url": "https://hackgdl.net/",
+      "sources": [
+        {
+          "platform": "website",
+          "url": "https://hackgdl.net/",
+          "label": "Ver sitio web"
+        }
+      ],
+      "location": "Jardin Americana, Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal.",
+      "online": false,
+      "organizer": "HackGDL",
+      "dtstart": "2027-03-20T09:00:00-06:00",
+      "dtend": "2027-03-20T21:00:00-06:00",
+      "tags": [
+        "ai",
+        "comunidades",
+        "cybersecurity",
+        "frontend",
+        "guadalajara",
+        "hacking",
+        "security",
+        "tech"
+      ],
+      "source": "Manual",
+      "country": "México",
+      "country_code": "MX",
+      "state": "Jalisco",
+      "state_code": "MX-JAL",
+      "city": "Guadalajara",
+      "city_code": "guadalajara",
+      "address": "Jardin Americana, Av. Ignacio L Vallarta 1305, Col Americana, Americana, 44160 Guadalajara, Jal.",
+      "hash_key": "hackgdl 2027_2027-03-20T14:00:00+00:00"
+    }
+  ]
+}

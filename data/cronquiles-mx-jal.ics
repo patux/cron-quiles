@@ -1,0 +1,700 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shellaquiles//CronQuiles v2.0.2//ES
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Jalisco\, México
+X-WR-CALNAME:Eventos Tech Jalisco - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café @HackerGarage|México|Jalisco
+DTSTART:20250912T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/jqsicipx\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Users Group|AI After Brunch - Tech & Chill Night|México|Ja
+ lisco
+DTSTART:20250919T020000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/11t1uq7i\n\nAd
+ dress:\nRock It Chapultepec\nGuadalajara\, Jalisco\nMexico\n\nHosted by Ma
+ rtin Manriquez Leon
+LOCATION:Rock It Chapultepec\, Av. Chapultepec Sur 389\, Col Americana\, A
+ mericana\, 44140 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café ☕️|México|Jalisco
+DTSTART:20251017T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/zh5173b0\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Cafe ☕️ + Posada 🎄|México|Ja
+ lisco
+DTSTART:20251212T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/ug5puv9h\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Cafe ☕️|México|Jalisco
+DTSTART:20260116T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/xng8uaz0\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Personalización de LLMs y CLIs en Python|México|
+ Jalisco
+DTSTART:20260131T003000Z
+CATEGORIES:python
+DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ Creando una CLI en Python <
+ br /><em>¿Para qué?</em><br /><strong>Por Patricio Páez</strong></p></l
+ i><li><p style="margin:0.5em 0px\;">🗣️ Técnicas para personalizar LL
+ Ms<br /><em>Más allá del prompt</em><br /><strong>Por Dario Flores</stro
+ ng></p></li><li><p style="margin:0.5em 0px\;">🪩 Networking </p></li></u
+ l>
+LOCATION:Grid Dynamics\, Av. de las Américas 1545-Piso 6\, Providencia\, 
+ Guadalajara\, Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Developer Community / Linuxeros Zapopan|Coding Sessions –
+  MDC x Linuxeros Zapopan|México|Jalisco
+DTSTART:20260207T100000
+CATEGORIES:coding,community,dev,frontend,linux,mobile,open-source
+DESCRIPTION:En colaboración con Linuxeros Zapopan\, te invitamos a nuestr
+ o primer Coding Session del 2026.\n\n¿Qué es un Coding Session? Es un es
+ pacio relajado\, abierto y sin presión\, pensado para que la comunidad se
+  reúna a: trabajar en tus proyectos personales\; mostrar lo que estás co
+ nstruyendo y recibir feedback\; encontrar personas interesadas en sumarse 
+ a tu proyecto\; presentar una idea o demo de forma informal\; o simplement
+ e venir a platicar\, convivir y pasar un buen rato con otros devs.\n\nNo h
+ ay agenda rígida\, no hay presión\, solo código\, ideas\, buena compañ
+ ía… y café. La comunidad de Linuxeros Zapopan estará presente ayudand
+ o a quien quiera instalar Linux\, resolver dudas o platicar sobre open sou
+ rce.
+LOCATION:Hacker Garage\, Zapopan
+X-CRONQUILES-ADDRESS:Hacker Garage\, Zapopan
+X-CRONQUILES-CITY:Zapopan
+X-CRONQUILES-CITY-CODE:zapopan
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe coding Café|México|Jalisco
+DTSTART:20260213T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/qfsgwxrg\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Codeworking day|México|Jalisco
+DTSTART:20260218T180000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/8wwwg9vy\n\nAd
+ dress:\nVentura Café\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio 
+ Hernandez
+LOCATION:Ventura Café\, Av San Francisco 3205\, Chapalita\, 44500 Guadala
+ jara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linuxcabal|Linuxcabal celebra 30 aniversario|México|Jalisco
+DTSTART:20260221T150000
+CATEGORIES:community,dev,floss,food,frontend,gnu,linux,open-source
+DESCRIPTION:Festival de Instalación de GNU & Linux y F/OSS ****** Present
+ ación Especial ****** Celebrando nuestro 30 aniversario y también el añ
+ o nuevo del caballo de fuego Con una Comida Asiatica
+LOCATION:Linuxcabal\, Calle 14 #2184-A\, Col. Ferrocarril\, C.P. 44440\, G
+ uadalajara\, Jalisco\, Mexico
+X-CRONQUILES-ADDRESS:Linuxcabal\, Calle 14 #2184-A\, Col. Ferrocarril\, C.
+ P. 44440\, Guadalajara\, Jalisco\, Mexico
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|EVENTO POSPUESTO Interfaz web y agentes autónomos
+ |México|Jalisco
+DTSTART:20260228T003000Z
+CATEGORIES:cloud,frontend,python,web
+DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ NiceGUI <br /><em>interfaz 
+ web para tu código python</em><br /><strong>PorJuan Carlos Sedano</strong
+ ></p></li><li><p style="margin:0.5em 0px\;">🗣️ Mas allá del chat<br 
+ /><em>Construyendo agentes autónomos con Python y Google Cloud</em><br />
+ <strong>Por José Muñoz</strong></p></li><li><p style="margin:0.5em 0px\;
+ ">🪩 Networking </p></li></ul>
+LOCATION:Cerevia\, C. Isla Socorro 3297\, Villa Guerrero\, Guadalajara\, J
+ alisco\, MX
+X-CRONQUILES-ADDRESS:Calle Isla Socorro\, Colón C.R.O.C.\, Guadalajara\, 
+ Región Centro\, Jalisco\, 44989\, México
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café — v0 Edition|México|Jalisco
+DTSTART:20260313T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/wwa2mpwd\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez\, Ruy & Juan Martinez
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Explorando datos y escalando código|México|Jalis
+ co
+DTSTART:20260328T003000Z
+CATEGORIES:python
+DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ Análisis exploratorio de d
+ atos con pandas <br /><strong>Por Alma Ahumada</strong></p></li><li><p sty
+ le="margin:0.5em 0px\;">🗣️ Ingeniería con Python: Del Script a la In
+ fraestructura<br /><strong>Por Lola Cervantes</strong></p></li><li><p styl
+ e="margin:0.5em 0px\;">🪩 Networking </p></li></ul>
+LOCATION:Improving\, Av. Patria 888-4th\, Loma Real\, Zapopan\, Jalisco\, 
+ MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibecoding Café|México|Jalisco
+DTSTART:20260417T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/sn64suda\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Jalisco\nMexico\n\nHosted by Rogelio H
+ ernandez & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KCD Guadalajara|KCD Guadalajara 2026|México|Jalisco
+DTSTART:20260418T080000
+CATEGORIES:cloud,conferencia,devops,kubernetes
+DESCRIPTION:Kubernetes Community Days Guadalajara\, un evento para profesi
+ onales de la nube y Kubernetes.
+LOCATION:Holiday Inn Guadalajara Expo\, an IHG Hotel 2500 Avenida Adolfo L
+ ópez Mateos Sur\, Zapopan\, 45050
+X-CRONQUILES-ADDRESS:Holiday Inn Guadalajara Expo\, an IHG Hotel 2500 Aven
+ ida Adolfo López Mateos Sur\, Zapopan\, 45050
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Interfaz web y agentes autónomos|México|Jalisco
+DTSTART:20260425T003000Z
+CATEGORIES:cloud,frontend,python,web
+DESCRIPTION:<h2><strong>Tenemos cupo para 50 personas\, <br />Regístrate 
+ si tienes la certeza de asistir y llega temprano para asegurar tu lugar.</
+ strong></h2><ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ NiceGUI<br /><em>interfaz w
+ eb para tu código Python</em><br /><strong>Por Juan Carlos Sedano</strong
+ ></p></li><li><p style="margin:0.5em 0px\;">🗣️ Mas allá del chat<br 
+ /><em>construyendo agentes autónomos con Python y Google Cloud</em><br />
+ <strong>Por José Muñoz</strong></p></li><li><p style="margin:0.5em 0px\;
+ ">🪩 Networking </p></li></ul>
+LOCATION:Stak Novena\, Av. México 3040\, Auditorio piso 12\, Guadalajara\
+ , Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenClaw Community|ClawCon Guadalajara|México|Jalisco
+DTSTART:20260425T180000
+CATEGORIES:ai,community,openclaw
+DESCRIPTION:¿Qué es ClawCon? ClawCon\, surgida de la comunidad OpenClaw 
+ y su misión de otorgar poder a las personas y su soberanía sobre la IA p
+ ersonal\, es un encuentro comunitario.
+LOCATION:Guadalajara\, Jalisco
+X-CRONQUILES-ADDRESS:Guadalajara\, Jalisco
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linuxcabal|Linuxcabal celebra FLISoL 2026 en Guadalajara|México|J
+ alisco
+DTSTART:20260502T150000
+CATEGORIES:community,dev,floss,food,frontend,gnu,linux,mobile,open-source
+DESCRIPTION:Es un evento a nivel Latinoamericano para la instalación de F
+ /OSS (Free y Open Source Software) distribuido en eventos en cada país. T
+ iene como propósito promover el uso de F/OSS y la integración de comunid
+ ades de usuarios de F/OSS en todos los países de Latinoamerica. FLISoL - 
+ 2026
+LOCATION:Linuxcabal\, Calle 14 #2184-A\, Col. Ferrocarril\, C.P. 44440\, G
+ uadalajara\, Jalisco\, Mexico
+X-CRONQUILES-ADDRESS:Linuxcabal\, Calle 14 #2184-A\, Col. Ferrocarril\, C.
+ P. 44440\, Guadalajara\, Jalisco\, Mexico
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20260508T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/dre99mrd\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Rogelio Hernandez 
+ & Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Mayo: Odoo\, Workflows|México|Jalisco
+DTSTART:20260530T003000Z
+CATEGORIES:python
+DESCRIPTION:<p style="margin:0.5em 0px\;">Celebraremos nuestro primer aniv
+ ersario haciendo lo que mas nos gusta: hablar de Python y compartir con la
+ s personas que han hecho posible este logro. </p><ul><li><p style="margin:
+ 0.5em 0px\;">🚪 Recepción a partir de las 6:30</p></li><li><p style="ma
+ rgin:0.5em 0px\;">⏰ Evento 7:00</p></li><li><p style="margin:0.5em 0px\;
+ ">🗣️ Python en un ERP <br /><em>Lo que nadie te cuenta de Odoo</em><b
+ r /><strong>Por Eliezer Solano Martinez</strong></p></li><li><p style="mar
+ gin:0.5em 0px\;">🗣️ Temporal.io:<br /><em>Construye apps que nunca fa
+ llan</em><br /><strong>Por Vicente Esteban Bañuelos</strong></p></li><li>
+ <p style="margin:0.5em 0px\;">🪩 Networking </p></li></ul>
+LOCATION:Grid Dynamics\, Av. de las Américas 1545-Piso 6\, Providencia\, 
+ Guadalajara\, Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20260612T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/hd172ds2\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Ruy\, Rogelio Hern
+ andez & Robin
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Python desde cero|México|Jalisco
+DTSTART:20260613T160000Z
+CATEGORIES:frontend,mobile,python
+DESCRIPTION:<p style="margin:0.5em 0px\;">Ven a aprender Python desde cero
+  con la comunidad Pythonistas GDL en un ambiente relajado. </p><p style="m
+ argin:0.5em 0px\;">Contaremos con sesiones guiadas\, evaluaciones para med
+ ir el conocimiento adquirido y ejercicios para llevar a casa.</p><p style=
+ "margin:0.5em 0px\;">Los sábados 13\, 20 y 27 de junio de 10am a 3pm. </p
+ ><p style="margin:0.5em 0px\;"></p><p style="margin:0.5em 0px\;">Costo de 
+ recuperación $450.</p><p style="margin:0.5em 0px\;"></p><h3>Temario</h3><
+ p style="margin:0.5em 0px\;"><strong>Tipos Integrados</strong> <em>literal
+ es•numéricos•cadenas de texto•listas•diccionarios•tuplas•arch
+ ivos•conjuntos•booleanos</em></p><p style="margin:0.5em 0px\;"><strong
+ >Operadores</strong> <em>numéricos•booleans•comprensiones•indexaci
+ ón•cortes</em></p><p style="margin:0.5em 0px\;"><strong>Control de fluj
+ o </strong><em>if\, else\, elif</em></p><p style="margin:0.5em 0px\;"><str
+ ong>Ciclos</strong><em> while•for</em></p><p style="margin:0.5em 0px\;">
+ <strong>Funciones </strong><em>definición•llamadas•ámbito</em></p><p
+  style="margin:0.5em 0px\;"><strong>Módulos<em> </em></strong><em>importa
+ ciones•módulos de la libreria estándar</em></p><p style="margin:0.5em 
+ 0px\;"><strong>Programación Orientada a Objetos</strong> <em>clases•ins
+ tancias•herencia•polimorfismo•sobrecarga</em></p><p style="margin:0.
+ 5em 0px\;"><strong>Excepciones<em> </em></strong><em>try except else•try
+  finally•try except finally</em></p><p style="margin:0.5em 0px\;"><stron
+ g>Decoradores </strong><em>declaración•ejemplos</em></p><p style="margi
+ n:0.5em 0px\;"><strong>Declaración with</strong></p><p style="margin:0.5e
+ m 0px\;"><strong>Gestores de paquetes </strong><em>ambientes virtuales•p
+ ip\, uv\, poetry</em></p><p style="margin:0.5em 0px\;"><strong>Iteradores 
+ </strong><em>generadores•yield•itertools</em></p><p style="margin:0.5e
+ m 0px\;"><strong>Anotaciones </strong><em>declaración•ejemplos</em></p>
+ <p style="margin:0.5em 0px\;"><strong>Módulos útiles </strong><em>reques
+ t•pytest</em></p>
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, Guadalajara\, Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|AI + Coffee|México|Jalisco
+DTSTART:20260704T160000Z
+CATEGORIES:ai
+DESCRIPTION:Get up-to-date information at: https://luma.com/9sryvkpt\n\nAd
+ dress:\nVentura Café\nGuadalajara\, Mexico\n\nHosted by Rogelio Hernandez
+LOCATION:Ventura Café\, Av San Francisco 3205\, Chapalita\, 44500 Guadala
+ jara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20260710T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/69sa04is\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20260814T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/8fhecegc\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Viernes 28 de Agosto en el HackerGarage|México|Ja
+ lisco
+DTSTART:20260829T003000Z
+CATEGORIES:cloud,frontend,python
+DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ mck\, Encuentra los ImportE
+ rror ocultos <br /><em>mck es una herramienta que verifica si uno o más m
+ ódulos se puedan importar individualmente. </em><br /><em>Veremos cómo s
+ e originó mck\, un ejemplo de su uso y en qué casos te podría servir.</
+ em><br /><strong>Por Patricio Páez</strong></p></li><li><p style="margin:
+ 0.5em 0px\;">🗣️ ¿Qué tan libre es el software libre?<br /><em>breve
+  análisis de las diferentes licencias de código abierto y como identific
+ ar sus derechos y obligaciones</em><br /><strong>Por Luis Alvarez</strong>
+ </p></li><li><p style="margin:0.5em 0px\;">🪩 Networking <br /></p></li>
+ </ul><h1><br /><strong>Regístrate aquí: </strong><a href="https://www.me
+ etup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/31616
+ 1092"><strong>https://www.meetup.com/aws-sbg-at-atemajac-valley-university
+ -zapopan-campus/events/316161092</strong></a></h1>
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Guadalajara\, Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20260918T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/0t82pa2f\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pythonistas GDL|Septiembre: Lingüística Computacional y Agentes 
+ de IA|México|Jalisco
+DTSTART:20260926T003000Z
+CATEGORIES:cloud,python
+DESCRIPTION:<ul><li><p style="margin:0.5em 0px\;">🚪 Recepción a partir
+  de las 6:30</p></li><li><p style="margin:0.5em 0px\;">⏰ Evento 7:00</p>
+ </li><li><p style="margin:0.5em 0px\;">🗣️ Detección automática de i
+ nterferencia gramatical L1 en producción escrita de hispanohablantes<br /
+ ><em>Un motor GED basado en gramática de valencias y grafos de dependenci
+ a</em><br /><strong>Ana Jazmín Sossa González</strong></p></li><li><p st
+ yle="margin:0.5em 0px\;">🗣️ Python + GCP + ADK<br /><em>Introducción
+  casual a Gemini Enterprise Agent Platform</em><br /><strong>Adrián Espin
+ oza</strong></p></li><li><p style="margin:0.5em 0px\;">🪩 Networking </p
+ ></li></ul>
+LOCATION:Slalom\, Avenida Américas 1500\, Piso 16\, UP 9\, Guadalajara\, 
+ Jalisco\, MX
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PyDay México 2026|PyDay México 2026: Guadalajara|México|Jalisco
+DTSTART:20261017T080000
+CATEGORIES:python
+DESCRIPTION:Un día de charlas\, talleres y networking para la comunidad P
+ ython de México. ¡Aprende\, comparte y crece con nosotros!
+LOCATION:Auditorio Dr. Salvador Allende Gossens\, 1140 Avenida Fray Antoni
+ o Alcalde\, Guadalajara\, JAL
+X-CRONQUILES-ADDRESS:Avenida Fray Antonio Alcalde\, Carvallo\, Guadalajara
+ \, Región Centro\, Jalisco\, 44220\, México
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eventloop|JSConf México 2026|México|Jalisco
+DTSTART:20261029T210000
+CATEGORIES:ai,cloud,frontend,mobile,web
+DESCRIPTION:Eventloop\n**JSConf México** regresa: dos días de Js en Guad
+ alajara\, el 29 y 30 de octubre.\n\nImportante: confirmar asistencia aquí
+  en Meetup no es tu boleto. El boleto se compra en https://tickets.jsconf.
+ mx/\n\nQUÉ VAS A ENCONTRAR\n\n* keynotes: Daniel Roe (líder de Nuxt)\, E
+ stefany Aguilar (Teffcode\, NodeSource) y Mark Thompson (Google)\n* Más d
+ e 20 charlas en dos escenarios\, con gente de Netflix\, GitHub\, The New Y
+ ork Times\, Sentry\, AWS\, Google y Vercel\n* Talleres: contribuir a Node.
+ js junto a sus maintainers\, agentes en tiempo real con Gemini Live\, y de
+  desarrollador a arquitecto usando AI\n* Temas: React Server Components\, 
+ WebAssembly\, agentes de IA\, microfrontends\, seguridad en npm\, accesibi
+ lidad y performance\n\nAgenda completa: https://www.jsconf.mx/agenda\n\nBo
+ letos: https://tickets.jsconf.mx/
+LOCATION:Jardín Americana\, Av. Ignacio L Vallarta 1305\, Col Americana\,
+  Americana\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive Codding Cafe|Vibe Coding Café|México|Jalisco
+DTSTART:20261030T220000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/4xyyeuy0\n\nAd
+ dress:\nHackerGarage\nGuadalajara\, Mexico\n\nHosted by Ruy
+LOCATION:HackerGarage\, Calle Marsella 155-Int 105 A\, Col Americana\, Laf
+ ayette\, 44160 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AWS User Group Jalisco|Construyendo agentes de IA con Strands SDK:
+  de loops simples a multi-agentes|México|Jalisco
+DTSTART:20261105T190000
+CATEGORIES:cloud,frontend,mobile
+DESCRIPTION:AWS User Group Jalisco\nEste noviembre nos ponemos manos a la 
+ obra con un workshop práctico de agentes de IA... ¡y edición especial d
+ e Halloween! 🤖🎃\n\nConstruiremos paso a paso un agente de IA para se
+ rvicio al cliente\, listo para producción\, usando Strands Agents\, el SD
+ K de código abierto. Después lo pondremos en producción en Amazon Bedro
+ ck AgentCore. El workshop tiene módulos prácticos y en cada uno le sumas
+  una nueva funcionalidad a tu agente.\n\n🎤 Workshop impartido por: Axel
+  Espinosa\, Associate Developer Advocate en AWS\n🏢 Además\, abriremos 
+ con una charla breve de SoftServe relacionada con el tema del taller.\n
+ 🎃 Concurso de disfraces: ¡ven disfrazado! Habrá votación y premios p
+ ara los mejores disfraces. La participación es opcional\, pero muy recome
+ ndada 😉\n🍕 Habrá pizza\, bebidas y snacks de Halloween.\n\n🗓️ 
+ Agenda\n\n* 7:00 PM: Bienvenida\n* 7:05 PM: “Crear un agente de IA es so
+ lo el principio: conoce Amazon Bedrock AgentCore”\, con Guillermo Galvá
+ n (SoftServe)\n* 7:35 PM: Workshop Strands Agents con Axel Espinosa\, prim
+ era parte\n* 8:20 PM: Pausa para comer 🍕\n* 8:35 PM: Workshop\, segunda
+  parte\n* 9:20 PM: Concurso de disfraces\, votación y premios 🎃\n* 9:3
+ 0 PM: Cierre\n\n💻 Trae tu laptop con batería cargada\, ¡vamos a const
+ ruir en vivo!\n⚠️ Cupo limitado a 50 personas.\n📍 SoftServe\, Av. A
+ dolfo López Mateos Nte. 2405\, Piso 21\, Guadalajara\n🗓️ Jueves 5 de
+  noviembre\n🕖 7:00 PM\n\n💜 **Código de conducta**\nEn AWS User Grou
+ p Jalisco todos son bienvenidos\, sin importar su experiencia\, origen o i
+ dentidad. Venimos a aprender\, compartir y pasarla bien\, así que tratemo
+ s a todos con respeto. No hay espacio para el acoso ni la discriminación.
+  Si algo no se siente bien\, búscanos a cualquiera de los organizadores y
+  lo vemos juntos.\n\nGracias a SoftServe por recibirnos y a AWS por seguir
+  impulsando a la comunidad. Como siempre\, gracias por ser parte de la com
+ unidad y por seguir construyendo juntos 🚀
+LOCATION:SoftServe Mexico\, Av Adolfo López Mateos Nte 2405-Piso 21 int. 
+ 2102\, Italia Providencia\, 44648 Guadalajara\, Jal.\, Mexico
+X-CRONQUILES-ADDRESS:Jalisco\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Guadalajara|DevFest 2026|México|Jalisco
+DTSTART:20261121T090000
+CATEGORIES:AI,AI - Gemini,Android,Career Development,Community Building,Co
+ nference,DevFest,Firebase,Flutter,Google Cloud,Networking,Tech Talk / Meet
+ up,UX / UI Design,Web,Workshop / hands-on session,cloud,web
+DESCRIPTION:Únete a nuestra segunda edición de DevFest en Guadalajara\, 
+ donde exploraremos las últimas tendencias en tecnología con enfoque en I
+ A\, Cloud y desarrollo web. Este evento será el punto de partida ideal pa
+ ra conectarte con otros entusiastas y profesionales de la tecnología. No 
+ te lo pierdas y forma parte de esta comunidad vibrante que busca crecer y 
+ aprender juntos.
+LOCATION:Centro Universitario de Guadalajara (CUGDL)\, 1045 Calle Guanajua
+ to\, Guadalajara
+X-CRONQUILES-ADDRESS:Calle Guanajuato\, La Normal\, Guadalajara\, Región 
+ Centro\, Jalisco\, 44260\, México
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Posadev|Posadev 2026|México|Jalisco
+DTSTART:20261128T090000
+CATEGORIES:comunidades,guadalajara,tech
+DESCRIPTION:Una conferencia de software organizada por y para developers 
+ — un día entero\, cuatro tracks\, una piñata.
+LOCATION:Holiday Inn Guadalajara Expo\, Ave. Lopez Mateos Sur 2500\, Cd de
+ l Sol\, 45050 Zapopan\, Jalisco\, México
+X-CRONQUILES-ADDRESS:Holiday Inn Guadalajara Expo\, Ave. Lopez Mateos Sur 
+ 2500\, Cd del Sol\, 45050 Zapopan\, Jalisco\, México
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Heroica Veracruz|DevFest 2026 Health|México|Jalisco
+DTSTART:20261202T090000
+CATEGORIES:AI,AI - AI Studio,AI - Gemini,AI - Gemma,Accessibility,Angular,
+ Build with AI,Career Development,Community Building,Conference,DevFest,Fir
+ ebase,Flutter,Google Cloud,Google Maps Platform,Google Workspace,Hackathon
+ ,Networking,Tech Talk / Meetup,UX / UI Design,Web,Workshop / hands-on sess
+ ion,mobile,web
+DESCRIPTION:El 02 de diciembre de 2026\, DevFest Health 2026 se lleva a ca
+ bo en las oficinas de AstraZeneca en Guadalajara. Los asistentes explorar
+ án tendencias en inteligencia artificial y tecnologías de Google mediant
+ e talleres interactivos y charlas de expertos sobre Angular\, Flutter y m
+ ás. Es una oportunidad para desarrolladores apasionados de conectar y apr
+ ender juntos. ¡Regístrate ahora!
+LOCATION:AstraZeneca GITC Guadalajara\, 4965 Boulevard Puerta de Hierro\, 
+ Zapopan
+X-CRONQUILES-ADDRESS:Bitspot BTM Andares\, 4965\, Boulevard Puerta de Hier
+ ro\, Puerta de Hierro\, Zapopan\, Región Centro\, Jalisco\, 45116\, Méxi
+ co
+X-CRONQUILES-CITY:Zapopan
+X-CRONQUILES-CITY-CODE:zapopan
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HackGDL|HackGDL 2027|México|Jalisco
+DTSTART:20270320T090000
+CATEGORIES:ai,comunidades,cybersecurity,frontend,guadalajara,hacking,secur
+ ity,tech
+DESCRIPTION:HackGDL is a technical event focused on cybersecurity\, hackin
+ g\, and breaking all kind of things. It brings together professionals\, st
+ udents\, enthusiasts\, and curious minds to explore the latest trends\, te
+ chniques\, and challenges in the field of information security. The event 
+ aims to foster learning\, collaboration\, and innovation in a friendly and
+  engaging atmosphere\, as well as have a ton of fun\, socialize\, and buil
+ d relationships and community.
+LOCATION:Jardin Americana\, Av. Ignacio L Vallarta 1305\, Col Americana\, 
+ Americana\, 44160 Guadalajara\, Jal.
+X-CRONQUILES-ADDRESS:Jardin Americana\, Av. Ignacio L Vallarta 1305\, Col 
+ Americana\, Americana\, 44160 Guadalajara\, Jal.
+X-CRONQUILES-CITY:Guadalajara
+X-CRONQUILES-CITY-CODE:guadalajara
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Jalisco
+X-CRONQUILES-STATE-CODE:MX-JAL
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shellaquiles//CronQuiles v2.0.2//ES
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en México\, México
+X-WR-CALNAME:Eventos Tech México - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|Despecho night!|México|Estado de México
+DTSTART:20241026T020000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/pwl9jnw8\n\nAd
+ dress:\nDespecho Satélite\nSatélite\, Estado de México\nMexico\n\nHoste
+ d by Mexico Tech Week\, azalea & Héctor Cancela
+LOCATION:Despecho Satélite\, Cto Centro Comercial 29\, Cd. Satélite\, Na
+ ucalpan de Juárez\, Manzana 034\, Cd. Satélite\, 53100 Satélite\, Méx.
+ \, Mexico
+X-CRONQUILES-ADDRESS:Estado de México\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TESOEM|FLISoL 2026 - Tesoem (La Paz\, EdoMex)|México|Estado de M
+ éxico
+DTSTART:20260425T093000
+CATEGORIES:community,floss,gnu,linux,mobile,open-source
+DESCRIPTION:Festival Latinoamericano de Instalación de Software Libre 202
+ 6 en el Tecnológico de Estudios Superiores del Oriente del Estado de Méx
+ ico (TESOEM). Un evento para aprender\, compartir y decidir en libertad.
+LOCATION:TESOEM. Paraje San Isidro S/N\, Barrio de Tecamachalco\, La Paz\,
+  Estado de México.
+X-CRONQUILES-ADDRESS:TESOEM. Paraje San Isidro S/N\, Barrio de Tecamachalc
+ o\, La Paz\, Estado de México.
+X-CRONQUILES-CITY:La Paz
+X-CRONQUILES-CITY-CODE:la-paz
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLISOL Ecatepec|FLISoL 2026 - Ecatepec|México|Estado de México
+DTSTART:20260426T140000
+CATEGORIES:community,floss,gnu,linux,open-source
+DESCRIPTION:Festival Latinoamericano de Instalación de Software Libre 202
+ 6 en Ecatepec. Centro de Cultura 'Emiliano Zapata'. Jornada de instalació
+ n\, pláticas y comunidad.
+LOCATION:Centro de Cultura 'Emiliano Zapata'. Calle Josefa Ortiz de Doming
+ uez esquina Urano. Col. Sauces 1. Por metro Ecatepec\, Estado de México.
+X-CRONQUILES-ADDRESS:Centro de Cultura 'Emiliano Zapata'. Calle Josefa Ort
+ iz de Dominguez esquina Urano. Col. Sauces 1. Por metro Ecatepec\, Estado 
+ de México.
+X-CRONQUILES-CITY:Ecatepec
+X-CRONQUILES-CITY-CODE:ecatepec
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Community|Mexico City  -  Claude for Research Meetup|Méxic
+ o|Estado de México
+DTSTART:20260925T160000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/claude-investi
+ gadores\n\nAddress:\nAnáhuac University\nSalón MBA 3\nLomas Anáhuac\, M
+ exico\n\nHosted by Dr. Vinicius Covas
+LOCATION:Anáhuac University\, Av. Universidad Anáhuac 46\, Lomas Anahuac
+ \, 52786 Lomas Anáhuac\, Méx.\, Mexico
+X-CRONQUILES-ADDRESS:Universidad Anahuac\, 46\, Avenida Universidad Anahua
+ c\, Lomas Anahuác\, La Herradura\, Huixquilucan de Degollado\, Huixquiluc
+ an\, Estado de México\, 52786\, México
+X-CRONQUILES-CITY:Huixquilucan de Degollado
+X-CRONQUILES-CITY-CODE:huixquilucandedegollado
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexico Tech Week|🍔 ¡Haciendo historia en México con Bitcoin! 
+ 🚀México a la vanguardia de los Pagos Alternos.|México|Estado de Méxi
+ co
+DTSTART:20261031T170000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/mxtw-fcf8da6c\
+ n\nAddress:\nCarl's Jr. Echegaray\nNaucalpan de Juárez\, Mexico\n\nHosted
+  by Mexico Tech Week & Israel Hernandez
+LOCATION:Carl's Jr. Echegaray\, Perif. Blvd. Manuel Ávila Camacho 895\, B
+ osques de Echegaray\, 53310 Naucalpan de Juárez\, Méx.\, Mexico
+X-CRONQUILES-ADDRESS:Estado de México\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Estado de México
+X-CRONQUILES-STATE-CODE:MX-MEX
+END:VEVENT
+END:VCALENDAR

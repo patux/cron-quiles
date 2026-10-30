@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shellaquiles//CronQuiles v2.0.2//ES
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Calendario unificado de eventos tech en Nuevo León\, México
+X-WR-CALNAME:Eventos Tech Nuevo León - cronquiles
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+SUMMARY:FinTech México|Del Hype al impacto: Cómo se hace banca y fintech
+  con AI|México|Nuevo León
+DTSTART:20260813T230000Z
+CATEGORIES:ai,frontend
+DESCRIPTION:Get up-to-date information at: https://luma.com/4t51uxqb\n\nAd
+ dress:\nCavas Urbanas\nSan Pedro Garza García\, Mexico\n\nHosted by Truor
+ a & FinTech México
+LOCATION:Cavas Urbanas\, Av Lázaro Cárdenas 2264\, Zona Valle Oriente\, 
+ 66278 San Pedro Garza García\, N.L.\, Mexico
+X-CRONQUILES-ADDRESS:Avenida Lázaro Cárdenas\, Zona Valle Oriente Norte\
+ , San Pedro Garza García\, Nuevo León\, 66266\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Nuevo León
+X-CRONQUILES-STATE-CODE:MX-NLE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PyDay México 2026|PyDay México 2026: Monterrey|México|Nuevo Le
+ ón
+DTSTART:20261024T080000
+CATEGORIES:python
+DESCRIPTION:Un día de charlas\, talleres y networking para la comunidad P
+ ython de México. ¡Aprende\, comparte y crece con nosotros!
+LOCATION:Centro De Internacionalización UANL\, 4904 Avenida Manuel L. Bar
+ ragán\, Monterrey\, NLE
+X-CRONQUILES-ADDRESS:Avenida Manuel L. Barragán\, Monterrey\, Nuevo León
+ \, 66455\, México
+X-CRONQUILES-CITY:Monterrey
+X-CRONQUILES-CITY-CODE:monterrey
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Nuevo León
+X-CRONQUILES-STATE-CODE:MX-NLE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Community|Monterrey  -  Claude for Commerce\, Manufacturing
+  & Industry 4.0|México|Nuevo León
+DTSTART:20261123T160000Z
+DESCRIPTION:Get up-to-date information at: https://luma.com/claudemonterre
+ y\n\nAddress:\nEXPEDITION FEMSA\nMonterrey\, Mexico\n\nHosted by Ricardo L
+ ira de la Vega & 5 others
+LOCATION:EXPEDITION FEMSA\, Av. Eugenio Garza Sada Sur\, Tecnologico\, Dis
+ trito Tec\, 64700 Monterrey\, N.L.\, Mexico
+X-CRONQUILES-ADDRESS:Nuevo León\, México
+X-CRONQUILES-COUNTRY:México
+X-CRONQUILES-COUNTRY-CODE:MX
+X-CRONQUILES-STATE:Nuevo León
+X-CRONQUILES-STATE-CODE:MX-NLE
+END:VEVENT
+END:VCALENDAR
