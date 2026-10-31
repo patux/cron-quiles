@@ -3,8 +3,8 @@
     "code": "mexico",
     "name": "México",
     "slug": "mexico",
-    "event_count": 588,
-    "future_event_count": 60,
+    "event_count": 589,
+    "future_event_count": 55,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -93,7 +93,7 @@
     "name": "Ciudad de México",
     "slug": "mx-cmx",
     "event_count": 272,
-    "future_event_count": 14,
+    "future_event_count": 10,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -162,7 +162,7 @@
     "name": "México",
     "slug": "mx-mex",
     "event_count": 5,
-    "future_event_count": 1,
+    "future_event_count": 0,
     "active_months": [
       "2024-10",
       "2026-04",
@@ -199,7 +199,7 @@
     "code": "ONLINE",
     "name": "Online",
     "slug": "online",
-    "event_count": 237,
+    "event_count": 238,
     "future_event_count": 30,
     "active_months": [
       "2023-02",
