@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 586,
-    "future_event_count": 71,
+    "future_event_count": 59,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -93,7 +93,7 @@
     "name": "Ciudad de México",
     "slug": "mx-cmx",
     "event_count": 271,
-    "future_event_count": 24,
+    "future_event_count": 14,
     "active_months": [
       "2024-09",
       "2024-10",
@@ -125,7 +125,7 @@
     "name": "Jalisco",
     "slug": "mx-jal",
     "event_count": 36,
-    "future_event_count": 6,
+    "future_event_count": 5,
     "active_months": [
       "2025-09",
       "2025-10",
@@ -200,7 +200,7 @@
     "name": "Online",
     "slug": "online",
     "event_count": 236,
-    "future_event_count": 30,
+    "future_event_count": 29,
     "active_months": [
       "2023-02",
       "2023-03",
