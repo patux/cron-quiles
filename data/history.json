@@ -2807,7 +2807,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -3013,7 +3013,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -4317,7 +4317,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -6392,7 +6392,7 @@
     "dtstart": "2026-04-24T15:00:00+00:00",
     "dtend": "2026-04-24T21:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -7571,7 +7571,7 @@
       "cloud",
       "python"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -8974,7 +8974,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -9847,7 +9847,7 @@
       "devops",
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -10106,6 +10106,35 @@
     "city_code": "cdmx",
     "address": "Ciudad de México, México",
     "hash_key": "sysadmin horror story historias de techr_2025-11-12T00:00:00+00:00"
+  },
+  {
+    "title": "Java Mexico|javaMéxico Meetup++; Doble charla 06 nov 👻🎃|México|Ciudad de México",
+    "description": "Get up-to-date information at: https://luma.com/l1sbcrs8\n\nAddress:\nCheck event page for more details.\n\nHosted by Javier Benek",
+    "url": "https://luma.com/l1sbcrs8",
+    "sources": [
+      {
+        "platform": "luma",
+        "url": "https://luma.com/l1sbcrs8",
+        "label": "Ver en Luma"
+      }
+    ],
+    "location": "Ciudad de México, Mexico",
+    "online": false,
+    "organizer": "Java Mexico",
+    "dtstart": "2025-11-07T00:30:00+00:00",
+    "dtend": "2025-11-07T04:00:00+00:00",
+    "tags": [
+      "ai"
+    ],
+    "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-0wqA0Q2KjW9OWbP",
+    "country": "México",
+    "country_code": "MX",
+    "state": "Ciudad de México",
+    "state_code": "MX-CMX",
+    "city": "",
+    "city_code": "cdmx",
+    "address": "Ciudad de México, México",
+    "hash_key": "javamxico meetup doble charla 06 nov_2025-11-07T00:00:00+00:00"
   },
   {
     "title": "Founder Friends Mexico|10 Minute Blitz with Ankur Nagpal: Avoiding Tax Pitfalls as an Angel Investor|Online",
@@ -10877,7 +10906,7 @@
     "tags": [
       "frontend"
     ],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
@@ -11100,7 +11129,7 @@
     "dtstart": "2025-09-19T22:00:00+00:00",
     "dtend": "2025-09-20T00:00:00+00:00",
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "México",
     "country_code": "MX",
     "state": "Ciudad de México",
@@ -16958,7 +16987,7 @@
     "dtstart": null,
     "dtend": null,
     "tags": [],
-    "source": "https://luma.com/e17fbtoo",
+    "source": "https://luma.com/sudo_fciencias_2026",
     "country": "",
     "country_code": "",
     "state": "",
