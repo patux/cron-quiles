@@ -1,6 +1,6 @@
 {
   "version": "2.0.2",
-  "generated_at": "2026-11-02T14:51:55.387451+00:00",
+  "generated_at": "2026-11-03T00:34:50.028928+00:00",
   "total_events": 273,
   "city": "Ciudad de México",
   "communities": [
@@ -108,6 +108,11 @@
         {
           "platform": "luma",
           "url": "https://luma.com/sudo_fciencias_2026",
+          "label": "Luma"
+        },
+        {
+          "platform": "luma",
+          "url": "https://luma.com/e17fbtoo",
           "label": "Luma"
         }
       ]
@@ -2789,7 +2794,7 @@
       "dtstart": "2025-09-19T22:00:00+00:00",
       "dtend": "2025-09-20T00:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -4137,7 +4142,7 @@
       "tags": [
         "frontend"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5186,7 +5191,7 @@
         "cloud",
         "python"
       ],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -5707,7 +5712,7 @@
       "dtstart": "2026-04-24T15:00:00+00:00",
       "dtend": "2026-04-24T21:00:00+00:00",
       "tags": [],
-      "source": "https://luma.com/sudo_fciencias_2026",
+      "source": "https://luma.com/e17fbtoo",
       "country": "México",
       "country_code": "MX",
       "state": "Ciudad de México",
@@ -7847,7 +7852,7 @@
     },
     {
       "title": "Claude Community|Mexico City  -  Claude Build Day at AWS Student Community Day|México|Ciudad de México",
-      "description": "Get up-to-date information at: https://luma.com/claude-aws-scd\n\nAddress:\nCentro Histórico y Cultural \"Juan de Dios Bátiz\" IPN\nCiudad de México, Mexico\n\nHosted by Cesar Méndez, aws ipn-zacatenco & Claude Community",
+      "description": "Get up-to-date information at: https://luma.com/claude-aws-scd\n\nAddress:\nCentro Histórico y Cultural \"Juan de Dios Bátiz\" IPN\nCiudad de México, Mexico\n\nHosted by Cesar Méndez & 3 others",
       "url": "https://luma.com/claude-aws-scd",
       "sources": [
         {

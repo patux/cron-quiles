@@ -4,7 +4,7 @@
     "name": "México",
     "slug": "mexico",
     "event_count": 590,
-    "future_event_count": 50,
+    "future_event_count": 49,
     "active_months": [
       "2023-02",
       "2023-03",
@@ -200,7 +200,7 @@
     "name": "Online",
     "slug": "online",
     "event_count": 238,
-    "future_event_count": 30,
+    "future_event_count": 29,
     "active_months": [
       "2023-02",
       "2023-03",
